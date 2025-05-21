@@ -16,13 +16,22 @@ This project is a reverse-engineering reconstruction of the Unity-based game **M
 - 🧠 Understand Unity scene structure, object hierarchy, and scripting
 - 🧪 Analyze gameplay logic and internal mechanisms
 - 🔧 Rebuild functionality in a controlled and editable environment
-- 📚 Provide a foundation for learning or experimentation
 
 ---
 
 - 📌 Use for non-commercial learning and modding only
 - 🚫 Do not use original assets or redistribute them
 - ✅ Share your modifications under the same license
+
+---
+
+## 📚 Instructions
+
+- clone repo - https://github.com/yenichw/MiSide-Demo-Unity-Project.git
+- unpack archive
+- add project to unity hub and download supported unity version
+- run unity project
+- enjoy
 
 ---
 
