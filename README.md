@@ -27,7 +27,7 @@ This project is a reverse-engineering reconstruction of the Unity-based game **M
 
 ## 📚 Instructions
 
-- clone repo - https://github.com/yenichw/MiSide-Demo-Unity-Project.git
+- clone repo - git clone https://github.com/yenichw/MiSide-Demo-Unity-Project.git
 - unpack archive
 - add project to unity hub and download supported unity version
 - run unity project
