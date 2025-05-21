@@ -1,0 +1,6 @@
+Mira alrededor.
+Encuentra los objetos y ponlos en el escáner.
+Escanea los objetos e inicia el proceso.
+Reinicia la electricidad (en la puerta de entrada).
+Busca las baterías del servidor y regresalas al dispositivo.
+Inicia el dispositivo.

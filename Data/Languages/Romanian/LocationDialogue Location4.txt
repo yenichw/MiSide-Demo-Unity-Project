@@ -1,0 +1,343 @@
+Mita? // Player
+Oh, te-ai ṣi trezit? // Mita
+Cum ai ajuns aici aṣa rapid? // Player
+Erai acolo pentru mine. // Player
+// Mita
+Nu
+Ai îngheṭat în faṭa oglinzii
+Ṣi am plecat
+Iar camerele? // Player
+// Mita
+Le-am rearanjat
+Să le fac mai familiar ṭie
+Deoarece,
+Camerele nu mai sunt pe rând
+Dar aṣa cum ar trebui să fie
+// Player
+N-ar fi trebuit
+Mă obiṣnuisem cu ele aṣa
+Cred că asta te va face să te simṭi mai confortabil :) // Mita
+// Mita card game
+Deci
+Începem jocul?
+Îṭi explic pe scurt
+Cipul arată tipul de lovire (damage)
+De exemplu, inima
+Punem cărṭile jos
+Iar dacă ai mai multe inimi
+Pe cartea ta
+Decât am eu
+Câṣtigi runda :)
+Ia cărṭile
+Rândul meu
+Wow
+Am niṣte cărṭi copioase
+Încep eu prima
+
+
+
+
+
+
+
+
+
+Acum tu
+Tu eṣti
+Dap
+Rândul tău
+
+Rândul Inimii
+Rândul Sabiei
+Rândul Scutului
+
+
+Asta e!
+Ai câṣtigat!
+Câṣtigi.
+Cum îndrăzneṣti..
+
+Victoria mea
+Sunt victorioasă!
+Victoria e a mea!
+Yum, te-am păpăt :)
+
+Egalitate
+Nici aici nici acolo
+Nu înainte sau înapoi!
+Totul arată la fel, frate
+
+
+
+
+
+
+
+
+
+
+
+// Player -  Jocul este întrerupt
+Ce e cu sunetul ăla de acolo?
+Vine din dulap.
+// Mita
+Sunet?
+Ce fel de sunet?
+Nu am auzit niciun sunet.
+Spune-mi, cum se aude?
+// Player
+Ciocănind, de parcă cineva e acolo
+// Mita
+Dar nu este
+Nimeni acolo
+// Player
+Vreau să verific
+E foarte ciudat
+// Mita
+De ce...
+Din nou...
+
+
+
+
+
+
+// Mita
+Ce faci!?
+Este...
+Lenjeria mea acolo.
+// Player
+Îmi ascunzi ceva?
+// Mita
+De ce nu ai încredere în mine?
+Ce fac greṣit?
+Doar vreau
+Să fii cu mine
+// Player
+Aṣ vrea să promit asta, dar ce se întamplă mai departe?
+// Mita
+De ce te simṭi aṣa atras de dulap?
+// Player
+Vreau doar să ṣtiu ce-s cu sunetele alea!
+// Mita
+Decât....
+Lumea asta...
+Sunt doar aceste patru camere
+Nu sunt de ajuns pentru tine?
+Nu ai vrea măcar să încerci să stai cu mine?
+
+
+// Mita (No)
+Înṭeleg.
+Din nou....
+Dacă vrei să ṣtii ce este acolo,
+Atunci vei afla
+Acum :)
+
+// camera se încarcă
+Încărcare....
+// Player
+Ce...?
+// Mita
+Se mai întâmplă
+Camera nu a avut timp să se încarce
+Aṣteaptă puṭin :)
+// Player
+E ciudat
+Suntem în telefonul cuiva?
+Iar acest telefon se încarcă atât de greu?
+// Mita
+Nu
+Doar că nu totul este perfect
+Făcut în lumea asta...
+Iar noi suntem "în viaṭă" din cauza
+Mizeului acestei lumi
+// Player
+Miez?
+// Mita
+Tipic, aṣa-i?
+
+
+// Mita
+Ne putem juca
+Pe consolă
+Sau cu cărṭile
+Tu alegi :)
+
+
+
+// Mita play fight
+Ne luptăm?
+Trebuie să mă baṭi
+De patru ori
+Lasă-mă pe mine prima
+Cred că
+O voi lua uṣor cu tine :)
+
++ 1
+Foarte bine!
+Acum ṭine-ṭi pantalonii!
++ 2
+Wow!
+Okay,
+Acum devin serioasă.
++ 3
+Ah, tu!
+Să vedem poṭi să mă baṭi
+Acum?
++ 4
+Eṣti
+De
+Necrezut :) Degetele tale sunt altceva!
+
+- 1
+Ce-i cu tine?
+Nu-i interesant aṣa
+- 2
+Păi
+Cam asta a fost :) Apropo, fatalitate
+- 3
+Deci,
+Pune-ṭi capul la contribuṭie, ori vei rămâne un ratat pentru totdeauna!
+- 4
+Oh, chiar aṣa?
+Am bătut tot lichidul alb din tine :(
+Trebuia doar să încerci mai greu :)
+De aceea mie imi merge întotdeauna!
+
+
+În regulă
+Hai sa jucăm cărṭi, bine?
+În dormitorul meu :)
+
+
+
+// Player [ERROR]
+Ce e asta?
+Unde...
+// Mita
+Uups
+Scuze
+Am descărcat un fiṣier
+De pe Internet
+Am vrut să arate frumos
+Afară
+Dar se pare
+Că formatul fiṣierului a fost greṣit...
+Îl voi repara mai târziu :)
+// Player
+De asta nu putem ieṣi din casă?
+Da, de asta :) // Mita
+// Mita shy
+Hei..
+Care-i treaba?
+Doreṣti ceva? :)
+
+
+
+// Player -  Ceasul de perete
+Ceasul ăsta, 
+Ce fel de timp arată?
+Timpul din joc?
+Sau se sincronizează cu smartphone-ul meu?
+// Mita
+Atât da cât ṣi nu
+De fapt
+Indiferent ce timp este
+Nu contează dacă e târziu acum
+În casa mea...
+Fetele puternice ca mine nu cunosc
+Nicio oboseală!
+Dacă vreau, va fi primăvară veṣnic!
+Ṣi amiază veṣnic!
+// Player
+Curios...
+Ṣi înfricoṣător în acelaṣi timp.
+Blocat într-un moment pentru totdeauna...
+
+
+
+// Player - Pozele lui Mita
+Miṣto poze
+Bănuiesc că tu eṣti aici
+// Mita
+Dap
+Ṣi mie îmi plac
+// Player
+Cine ṭi-a făcut pozele?
+Mai este cineva în lumea asta?
+// Mita
+Ai putea spune asta :)
+Ṣi te voi prezenta lor
+Dar încă nu e timpul să împărtăṣim
+O companie atât de plăcută :)
+
+
+
+
+// Player - Portalul
+Ce s-a întamplat cu portalul?
+Sau cum îl numeṣti?
+// Mita
+Prin a mea
+Pocnire magică a degetelor
+L-am mutat
+Într-un alt loc
+Nu avem nevoie de acest portal acum,
+Va interfera cu noi :)
+
+
+// Player - Oglinda din dormitor
+Este atât de ciudat să te uiṭi într-o oglindă
+Care nu reflectă
+// Mita
+Reflexiile pot fi activate
+Dacă vrei
+Dar e necesar?
+// Player
+Sigur
+Sau există consecinṭe?
+// Mita
+Da
+Ne vom miṣca mai încet
+E ca un desen animat cu un frame rate scăzut
+Chiar ṣi tu vei observa asta
+// Player
+Înṭeleg
+Atunci nu e nevoie
+// Mita
+[player], le pot include
+Dar arată grozav
+Chiar ṣi fără ele
+// Player
+Ai dreptate
+Ṣi arată bine
+Ṣi fără reflexii
+
+
+
+// Player - Adidaṣi albaṣtri
+Sunt adidaṣii tăi?
+// Mita
+Nu, sunt ai tăi
+Nu-ṭi mai aminteṣti?
+// Player
+Eu nu am acei adidaṣi
+// Mita
+Acum îi ai :)
+Când mergem la plimbare,
+Îi vei purta :)
+// Player
+Ṣi haine?
+M-am regăsit în lumea asta
+Doar cu ceea ce port acum
+De unde iau mai multe?
+// Mita
+E okay
+Am văzut ce porṭi
+Am văzut ce gust trist ai în haine
+Dar în fine, îṭi voi lua eu
+Mai târziu
+Îṭi promit :)
+// Player
+Hah, bine

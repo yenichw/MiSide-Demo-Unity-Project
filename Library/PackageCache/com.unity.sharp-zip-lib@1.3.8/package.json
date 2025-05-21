@@ -1,0 +1,23 @@
+{
+  "displayName": "SharpZipLib",
+  "name": "com.unity.sharp-zip-lib",
+  "unity": "2018.4",
+  "version": "1.3.8",
+  "dependencies": {},
+  "description": "A package that wraps SharpZipLib (https://github.com/icsharpcode/SharpZipLib) to be used inside Unity",
+  "contributors": [
+    "Sindharta Tanuwijaya <sindharta.tanuwijaya@unity3d.com> (https://github.com/sindharta)"
+  ],
+  "_upm": {
+    "changelog": "### Added\n* doc: add installation steps for Unity 6\n\n### Fixed\n* fix: add Apple Privacy Manifest for File timestamp APIs usage"
+  },
+  "upmCi": {
+    "footprint": "50e0b2a95abd555f1c6bccb15716838c112e2166"
+  },
+  "documentationUrl": "https://docs.unity3d.com/Packages/com.unity.sharp-zip-lib@1.3/manual/index.html",
+  "repository": {
+    "url": "https://github.com/Unity-Technologies/SharpZipLib.git",
+    "type": "git",
+    "revision": "062b294c49039f2e0ba31510840a1f8dc84fd484"
+  }
+}

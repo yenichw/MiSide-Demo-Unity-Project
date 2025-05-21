@@ -1,0 +1,78 @@
+nouvelle partie
+continuer
+menu principal
+quitter
+options
+succès
+créateurs et liens
+retour
+charger
+langue
+chargement
+graphismes
+volume
+clavier et souris
+manette
+résolution de l'écran
+mode fenêtré
+effets visuels
+effets de couleur
+ombres lissées
+flou
+surbrillance
+anticrénelage
+ombres
+qualité de l'environement
+programmation
+animations
+sons
+musique
+particules
+textures
+modèles 3D (98%)
+script
+réinitialiser
+avancer
+reculer
+aller à gauche
+aller à droite
+interaction
+sensibilité de la souris
+quitter le jeu ?
+oui
+non
+retour au menu principal
+mouvements adoucis
+options de jeu
+histoire
+vêtements
+interface
+modèles 3D (2%)
+bande-annonce
+pause
+menu
+félicitation, le jeu est terminé !
+la partie a durée:
+toujours afficher les sous-titres
+luminosité
+synchronisation verticale
+sauvegardé
+// LOAD GAME
+Je suis dans le jeu ?
+Nous sommes ensemble
+Les débuts de l'étrange
+Sous-sol
+Au-delà des murs
+Version du cycle
+Petite Mita
+Mannequins
+Ancienne version
+Coeur
+Mort et Sortie
+
+tremblement de la caméra
+afficher une astuce à l'écran
+voix du joueur
+Discord
+Boosty (supporter le développement)
+champ de vision

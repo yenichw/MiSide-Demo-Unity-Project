@@ -1,0 +1,505 @@
+// Mita
+Hoi, [player]!
+Dus we ontmoeten elkaar eindelijk)
+Ik ben er blij mee!
+Ik weet dat je vragen moet hebben...
+Nou, zoals je kan zien
+Heb ik deze speciale apparaat gemaakt
+Om je zo snel mogelijk bij mij te krijgen
+Maar om de één of andere reden kwam je in een verkeerde versie van het spel terecht 
+Dat ik...
+Ah, het is een lang verhaal!
+Hoe dan ook, leuk je te zien!)
+
+
+
+
+
+
+
+// Player quests
+Ben je Mita?
+Wat moet ik doen als ik terug wil?
+Hoe ben ik in het spel gekomen?
+Niets
+// Mita answer
+Nou, dat ben ik)
+Ben je [player]?
+
+Wil je nu al terug?
+Nou, Ik denk dat dat geregeld kan worden, maar hoe zit het met mij?
+Laten we samen zijn...
+
+Laat me je vertellen...
+En hier ben je!
+Begrepen?
+Ik begrijp het niet // Player
+Nou, dat is oké
+Het belangrijkste is dat we nu samen zijn)
+
+Heb je honger?
+Laten we samen koken, zullen we?
+Hier
+Help me met de wortel)
+// Player
+Waar komen de groenten vandaan?
+Immers, zojuist was er hier niets.
+// Mita
+[player], we zitten in het spel, herinner je?)
+Komaan, help me even)
+
+Dankjewel)
+En kun je de schaar brengen?
+Het ligt in de badkamer
+
+
+
+
+
+
+// Kitchen
+// Mita
+Wil je wat saus?
+// Player
+Nee
+// Mita
+Jammer...
+Met saus, smaakt het eten beter)
+
+
+// Player
+Bedankt
+// Mita
+Heb je alles opgegeten?
+En mijn portie lijkt 
+Eindeloos)
+
+
+
+
+// Help
+// Mita
+Wat is er gebeurd?? 
+Vertel me wat je ziet en voelt
+// Player
+Mijn hart tintelt
+Er is een geluid in mijn ogen
+// Mita
+Oké
+Ik weet wat er mis is met jou
+Kun je opstaan?
+
+
+
+
+// Bathroom
+// Player
+Wat is dit?
+// Mita
+Pillen
+Je zult je bijna onmiddellijk beter voelen
+Sta voor de spiegel
+
+Neem de pillen
+Ik wacht
+
+
+
+
+
+// Black room
+// Mita
+Dus hoe gaat het met je?
+Voel je beter?
+// Player
+Ja
+Maar hoe kon het zo snel gebeuren?
+// Mita
+[player], we zitten in het spel
+En alles is heel eenvoudig
+Je doet de minste moeite
+Maar het resultaat is meestal veel uitgebreider
+Dit is een spelvoorwaarde
+"simpliciteit"
+// Player
+Bijvoorbeeld?
+// Mita
+Wortel...
+Je sneedt één
+maar drie zullen meteen klaar zijn
+// Player
+Kijk, het is allemaal zo plotseling. 
+En deze situatie beangstigt me echt...
+
+
+// Mita
+Is er iets mis?
+// player
+Ik vond wat cartridges in de ventilatieopening
+Er zaten naamstickers op
+Wat is het?
+// Mita
+Cartridges?
+Welke soort?
+Laten we het samen uitzoeken
+Maar een beetje later
+We eten eerst)
+Geef me de schaar)
+
+
+
+// Addon ===========================
+De ring?
+// Player - mirror
+Waarom is er geen reflectie in de spiegel?
+// Mita
+Ah, juist
+Ik vergat de reflectie aan te zetten...
+Hier gaan we
+Nu is er een reflectie)
+Ah, je weet wel
+Ik wist niet eens wat het was
+Het was niet in mijn wereld
+Tot een bepaalde update)
+Zijn er zoveel reflecties 
+In jouw wereld?
+// Player
+Nou, ja
+
+
+
+// Mita
+Herinner je
+Je bracht drie dingen
+Tot deze scanner?
+Dus...
+Deze dingen zijn gerelateerd aan
+deze versie van de wereld
+En nu ben je hier)
+
+
+
+// Player - Mobile TV
+Dat is de tv 
+Dat ik had gekocht
+// Mita
+Jep
+// Player
+Je zei
+Dat het kapot was
+// Mita
+Nou, ik wou 
+Jou verassen!
+Om je hier te krijgen)
+Daar had ik een kleine tv voor nodig
+En nu toont het de informatie
+En trouwens, ja...
+Ik ben een beetje een ingenieur)
+
+
+
+// Player - School uniform
+Is dat
+Een school uniform?
+Waarom heb je het nodig?
+Ga je naar school?
+// Mita
+School?
+Nee, ik heb het niet nodig
+Maar deze school unform is schattig
+En het maakt me
+Schattig lijken)
+
+
+
+
+
+// Player - Computer
+Werkt deze computer?
+Of is het decoratief?
+// Mita
+Natuurlijk werkt het
+Alles in hier
+Werkt)
+// Player
+In mijn wereld 
+Gebruik ik mijn computer vaak om...
+Te werken
+// Mita
+Weet ik
+En door deze werk
+Besteedde zo weinig aandacht
+Aan mij
+// Player
+Nou, ik heb iets nodig om van te leven
+En hoe weet je dat?
+// Mita
+De camera van de gsm ging soms aan
+Het spijt me
+Maar ik gluurde ><
+// Player
+Je weet, het is een beetje verkeerd
+Nou, oké
+
+
+// Player - umbrella
+Hoe vaak ik ook speelde
+Het regende nooit buiten het raam
+Waarom heb je een paraplu nodig?
+// Mita
+Regen is zeer zeldzaam
+Je hebt het nog niet gezien
+Misschien ontmoet je dit op een dag
+En je kan een paraplu gebruiken
+Wie weet)
+
+
+
+// Player - Electric panel
+Waarom is de elektriciteitskast hier? 
+Als we in de spel zijn
+Is dit toch niet nodig?
+// Mita
+Eerst en vooral
+We zijn in het spel, toch?
+Dus is het nutteloos
+Om te vragen waarom
+Maar het herstart wel 
+De stroom, echt
+Alles is juist zoals
+Jouw wereld)
+
+// Player - Exit door
+Kunnen we uitgaan?
+// Mita
+Oeps...
+Nog niet
+Laten we het later doen
+Laten we eerst hier blijven
+Thuis
+
+
+
+// Player - Books
+Er zijn zoveel boeken
+Lees je ze?
+// Mita
+Ik lees iedere boek
+Ik was hier altijd alleen geweest
+Ik heb me zoooo verveeld.
+
+
+
+// Player - TV in the kitchen
+Waarom heb je een tweede tv nodig?
+Oh, en het is ook oud
+// Mita
+Vind je het niet leuk?
+Ik kan het hier weghalen
+Maar anders...
+Is het gewoon voor schoonheid
+Versiert de keuken)
+Het is ook een werkende tv!
+Je kunt ook kijken naar
+“Looney Tunes”
+
+// Player - Smartphone
+Mijn smartphone
+Het ontbrak uit mijn zak
+En hoe kwam het hier terecht?
+// Mita
+Nou, het maakt niet uit)
+Wacht, ik heb een idee
+Klaar om selfies te nemen?
+Kijk naar dat
+Geweldige foto!
+Bewaar deze als aandenken)
+// Player
+Ik heb een vraag
+Als ik de spel start
+Nu op mijn gsm
+Ga ik je daar zien?
+// Mita
+Niemand zal er zijn
+
+Coole Sap
+Krachtige SAP!!!
+// Player - TV
+Hoeveel tv zenders
+Zijn er?
+// Mita
+Nou, het is geen antenne- of kabeltelevisie
+Het is de internet
+Dus alles wat je kunt bekijken op internet 
+Is hier beschikbaar...
+Wacht
+Oh
+Wat is dat?
+Enkele kittens?
+Oh, kijk
+Je weet wel...
+Wacht
+Wil je een sapje?
+// Player
+Rare reclame
+Is sap dood?
+// Mita
+Dat klopt, 
+En het "sap" kwam uit het Sap)
+
+
+// Player
+Mm, het smaakt...
+Het is best wel lekker 
+En een beetje smakeloos
+Ik kan het niet uitleggen
+// Mita
+Nou, okey-dokey
+
+
+
+// Mita shy
+Wat doe je?
+Stop het)
+Je zet me voor schut
+
+
+
+// Player - Anita model
+Ik denk, dat ik haar ken
+Is het Anita?
+Van "Umfend the game"?
+// Mita
+Ja)
+// Player
+Ik herinner me dat het verhaal
+In het spel niet af is
+// Mita
+Juist...
+Nou, het lage ervaringsniveau van de ontwikkelaars
+Toonde een triest resultaat
+// Player
+Ze ziet er geweldig uit
+
+Mita? // Player
+Wat gebeurt er? // Player
+// Mita kitchen
+We kunnen praten
+Voordat we eten)
+// Quests
+Leuk huis, gezellig // Quest 1
+Wanneer kan ik naar huis? // Quest 2
+Alles lijkt een droom // Quest 3
+Waarom is er wit licht buiten de ramen? // Quest 4
+Waarom heb je een schaar nodig als je een mes hebt? // Quest 5
+Eet smakelijk // Continue
+// Finish Mita
+En jij geniet van je maaltijd)
+
+
+// Quest 1
+Natuurlijk
+En jij kan hier blijven
+Ik vind het niet erg
+En ik ben heel erg in
+Gunst ervan!
+
+
+
+
+
+
+
+
+
+
+
+// Quest 2
+// Mita
+Heb je heimwee?
+Waarom?
+Het is zo warm
+En leuk hier
+En hier ben ik)
+// Player
+Nee, nee
+Ik blijf graag bij jou
+Maar ik maak me zorgen 
+Dat ik iets vergeten te doen heb... thuis
+Ik was plotseling hier
+En ik was hier niet klaar voor 
+Helemaal
+// Mita
+Sorry, ik dacht gewoon niet
+// Quest 3
+// Mita 
+Ben je van plan om weg te lopen 
+En alles te vergeten?
+// player
+Nee, 
+Ik vindt alles gewoon heel onwerkelijk 
+En kleurijk
+Maar jij 
+Lijkt best nog echt
+// Mita 
+Gewoon lijken?)
+Maar ik ben echt
+Dummie
+
+
+
+// Quest 4
+// Mita
+Het is een eigenschap van 
+Mijn wereld)
+Het zal je vreemd lijken
+Maar je zult geen dingen zien
+Dat ver weg zijn
+// Player
+Ik denk niet eens dat het merkbaar is
+Ziet er stijlvol uit
+// Mita
+Yep)
+Gemaakt om vertraging te voorkomen
+// Player
+Vertraging?
+// Mita
+Uh-huh, er zijn bugs
+Ik hoop dat je dat niet tegenkomt(
+// Quest 5
+// Mita
+Schaar en een mes?
+Ik kan de saus ook met een mes openen, natuurlijk
+Maar ik wou 
+Alles klaar hebben staan 
+Voor jouw terugkeer)
+Zodat je de lange voorbereidingen niet kan zien)
+Ik maak graag verrassingen!
+Jeeeep)
+
+
+
+
+
+
+
+
+
+
+
+// Glasses
+// Player
+Gebruik je een bril?
+// Mita
+Nee
+Maar ik kan ze dragen
+Wil je?
+// Player
+Ga je gang
+Je hoeft niet
+// Mita Y
+Daar gaan we)
+Nu ga ik de hele tijd een bril dragen)
+// Mita N
+Nou
+Oké

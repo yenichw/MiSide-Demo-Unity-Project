@@ -1,0 +1,343 @@
+Mita? // Player
+Oh, you're awake already? // Mita
+How did you get here so quickly? // Player
+You were there for me. // Player
+// Mita
+No
+You're frozen in front of the mirror
+I left
+What about the rooms? // Player
+// Mita
+I rearranged it 
+To make it more familiar to you
+That is,
+The rooms are not in a row
+But as they should be
+// Player
+You shouldn't have
+It's like I'm used to it
+I think this will make you feel more comfortable) // Mita
+// Mita card game
+So
+Shall we start the game?
+I'll tell you briefly
+The chip shows the type of damage
+For example, the heart
+Putting down the cards
+If you have more hearts 
+On your card
+Than I do
+You win)
+Take the cards
+Now it's my turn
+Wow
+I got some tasty cards
+I go first
+
+
+
+
+
+
+
+
+
+Now you
+Your turn
+Yep
+Your turn
+
+Heart's move
+Damage's move
+Defense's move
+
+
+You got it!
+You win!
+You're winning.
+How dare..
+
+My Victory
+I am victorious!
+Victory is mine!
+Yum, I ate it)
+
+Tie
+Neither here nor there
+Not forward or backward!
+It all looks the same, dude
+
+
+
+
+
+
+
+
+
+
+
+// Player -  Game is interrupted
+What's that sound over there?
+It comes from the closet.
+// Mita
+Sound?
+What's the sound?
+I didn't hear any sounds.
+Tell me, what does it sound like?
+// Player
+Knocking, as if someone is there
+// Mita
+But there's 
+No one there
+// Player
+I want to check
+It's very strange
+// Mita
+Why...
+Again...
+
+
+
+
+
+
+// Mita
+What are you doing!?
+There's...
+My underwear in there.
+// Player
+Are you hiding something?
+// Mita
+Why don't you trust me?
+What am I doing wrong?
+I just want you
+To be with me
+// Player
+I'd like to promise that, but what happens next?
+// Mita
+Why do you feel so drawn to the closet?
+// Player
+I just want to know what those sounds are!
+// Mita
+Just....
+This world...
+It's just these four rooms
+Wouldn't that be enough for you?
+Will you just try to stay with me?
+
+
+// Mita (No)
+I get it.
+Again....
+If you want to know what's out there,
+Then you'll find out 
+Now)
+
+// room is loading
+Loading....
+// Player
+What the...?
+// Mita
+It happens
+The room did not have time to load
+Wait a bit)
+// Player
+It's weird 
+Are we in someone's phone?
+And this phone is so slow to load?
+// Mita
+No
+It's just that not everything is perfect
+Made in this world...
+And we "alive" because of the 
+Core of this world
+// Player
+Core?
+// Mita
+Typical, huh?
+
+
+// Mita
+We can 
+Play the console
+Or cards
+Take your pick)
+
+
+
+// Mita play fight
+Shall we fight?
+You have to win 
+Four times
+Let me go first
+I guess
+I'll go easy on you)
+
++ 1
+Well done)
+Now hold on to your pants!
++ 2
+Wow!
+Okay,
+Now I'm getting serious.
++ 3
+Ah, you!
+Can you beat me 
+Now?
++ 4
+You
+Are
+Unbelievable) Your fingers are just something!
+
+- 1
+What's up with you?
+That's not interesting
+- 2
+Well
+The job is done) Fatality, btw)
+- 3
+So,
+Get your head in the game, or you'll be a loser forever!
+- 4
+Oh, really?
+I beat all the white fluid out of you(
+You just had to try harder)
+That's why it always works out for me!
+
+
+All right
+Let's play cards, shall we?
+In my bedroom)
+
+
+
+// Player [ERROR]
+What is this?
+Where the...
+// Mita
+Oops
+Sorry
+I downloaded one file
+From the Internet
+I wanted it to be beautiful 
+Outside
+But it turned out
+That the file format was wrong...
+I'll fix it later)
+// Player
+Is that why we can't leave the house?
+That's why, yes) // Mita
+// Mita shy
+Hey..
+What's up?
+You want something?)
+
+
+
+// Player -  wall clock
+This clock, 
+What time does it tell?
+In-game time?
+Or does it sync from my smartphone?
+// Mita
+Both yes and no
+In fact
+No matter what time it is
+It doesn't matter if it's late now
+In my home...
+Strong girls like me know 
+No fatigue!
+If I want it, it will be eternal spring!
+And eternal noon!
+// Player
+Curious...
+And creepy at the same time.
+Stuck in one moment forever...
+
+
+
+// Player - Mita's picture
+Cool pictures
+I'm guessing that's you
+// Mita
+Yep
+I like it too
+// Player
+Who took your picture?
+Is there anyone else in this world?
+// Mita
+You could say that)
+And I'll introduce you to them
+But it's not time yet to share 
+Such pleasant company)
+
+
+
+
+// Player - Portal
+What happened to the portal?
+Or what do you call it?
+// Mita
+By my
+Magic snap of the fingers
+I moved it 
+To another place
+We don't need this portal now,
+It will interfere with us)
+
+
+// Player - bedroom mirror
+It's so strange to look in a mirror
+That doesn't reflect
+// Mita
+Reflections can be turned on 
+If you want to
+But is it necessary?
+// Player
+Sure
+Or are there any consequences?
+// Mita
+Yes
+We will move slowly
+It's like a cartoon with a low frame rate
+Even you will notice that
+// Player
+I see
+Then there's no need for that
+// Mita
+[player], i can include them
+But it looks great 
+Even without them
+// Player
+You're right
+And it looks good 
+Without reflections
+
+
+
+// Player - Blue sneakers
+Are these yours?
+// Mita
+No, these are yours
+Don't you remember?
+// Player
+I don't have those sneakers
+// Mita
+Now you have)
+When we go for a walk,
+You'll wear them)
+// Player
+What about clothes?
+I found myself in this world
+With only what I'm wearing now
+How do I get another one?
+// Mita
+It's okay
+I've seen what you're wearing
+I saw what sad taste you have in clothes
+But all right, I'll get it for you
+But later
+I promise)
+// Player
+Huh, good

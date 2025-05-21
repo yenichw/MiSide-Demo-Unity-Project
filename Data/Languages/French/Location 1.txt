@@ -1,0 +1,35 @@
+Magasin
+Catégorie
+Nourriture
+Mobilier
+Pièce
+Vêtements
+Jouets
+Mise à jour
+Soupe
+Salade
+En-cas
+Boisson
+Table
+Lit
+TV
+Chaise
+
+
+
+Retour
+Tu as acheté
+Ingrédients pour la soupe au poulet
+
+
+
+
+
+
+
+Mini-jeux
+Énergie
+Électronique
+Traitement
+Platformes
+Jeux

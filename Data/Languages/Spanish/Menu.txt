@@ -1,0 +1,78 @@
+Nuevo juego
+Continuar
+Menú principal
+Salir
+Ajustes
+Logros
+Creadores y enlaces
+Atrás
+Cargar
+Idioma
+Cargando
+Gráficos
+Volumen
+Teclado y ratón
+Mando
+Resolución de pantalla
+Modo ventana
+Efectos visuales
+Efectos de color
+Sombras suaves
+Difuminado
+Reflejos
+Suavizado
+Sombras
+Calidad del ambiente
+Programación
+Animaciones
+Sonidos
+Música
+Partículas
+Texturas
+Modelos 3D (98%)
+Guión
+Reiniciar
+Avanzar
+Retroceder
+Mover hacia la izquierda
+Mover hacia la derecha
+Interacción
+Sensibilidad del ratón
+¿Salir del juego?
+Sí
+No
+Salir al menú principal
+Giros suaves
+Configuración del juego
+Trasfondo
+Atuendos
+Interfaz
+Modelos 3D (2%)
+Trailer
+Pausa
+Menú
+¡Felicitaciones, el juego está completo!
+El recorrido tomó:
+Mostrar siempre subtítulos
+Brillo
+Sincronización vertical
+Guardado
+// CARGAR JUEGO
+¿Estoy dentro del juego?
+Estamos juntos
+Los comienzos de la rareza
+Sótano
+Más allá de las paredes
+Versión ciclo
+Pequeña mita
+Maniquíes
+Versión antigua
+Núcleo
+Muerte y salida
+
+Tambaleo de la cámara
+Mostrar una pista en la pantalla
+Voz del jugador
+Discord
+Boosty (Apoyo al desarrollo)
+Ángulo de visión

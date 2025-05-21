@@ -1,0 +1,35 @@
+Store
+Category
+Food
+Furniture
+Room
+Clothing
+Toys
+Upgrading
+Soup
+Salad
+Snack
+Drink
+Table
+Bed
+TV
+Chair
+
+
+
+Back
+You bought
+Chicken soup ingredients
+
+
+
+
+
+
+
+Mini-games
+Energy
+Electronics
+Processing
+Platforming
+Games

@@ -1,0 +1,62 @@
+Tapoter
+Parler
+Porter l'anneau
+Trouver le bouton
+Maintenir
+Se lever
+Prendre l'anneau
+Supprimer le jeu
+Terminer
+Appuyer
+Stop
+
+Ouvrir Message
+Télécharger Application
+Lancer l'application
+Parler
+
+Prendre la batterie
+
+Inspecter
+Poser
+Donner les ciseaux
+Refuser
+Manger
+Se lever
+Essayer de marcher
+Prendre les pilules
+
+Prendre les cartes
+Voir les cartes
+Masquer les cartes
+Droite
+Gauche
+Utiliser la carte
+Rester
+Refuser
+
+Cartouches
+Ouvrir
+
+Boire le jus
+Ne pas tenter
+
+aller à droite
+aller à gauche
+sauter
+s'accroupir
+frapper
+
+Tourner à droite
+Tourner à gauche
+Placer
+
+Libre
+
+Se lever
+S'assoir
+Se tenir debout
+Allumer l'ordinateur
+Prende les ramen
+Finir
+Dormir

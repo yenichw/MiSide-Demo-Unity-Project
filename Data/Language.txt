@@ -1,0 +1,8 @@
+Source language - Russian
+
+Send your language translation: aihastojog@gmail.com
+Or discord:https://discord.gg/6q375pv
+
+To check the language, open the console in the game with "~" and click on [Localization]
+Functions:
+[player] - Name player 

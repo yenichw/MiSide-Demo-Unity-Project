@@ -1,0 +1,24 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEditor;
+
+    #ROOTNAMESPACEBEGIN#
+//[CustomPropertyDrawer(typeof(/*ENTER TYPE NAME*/), true)] // Uncomment this
+public class #SCRIPTNAME# : PropertyDrawer
+{
+
+    // Implement this method to make a custom property drawer.
+	public override void OnGUI(Rect area, SerializedProperty property, GUIContent label)
+    {
+        #NOTRIM#
+    }
+    
+    // Implement this method to make your property have the correct height.
+    public override float GetPropertyHeight(SerializedProperty property, GUIContent label)
+    {
+        return EditorGUI.GetPropertyHeight(property);
+    }
+
+}
+#ROOTNAMESPACEEND#

@@ -1,0 +1,505 @@
+// Mita
+Merhaba, [player]!
+Sonunda tanıştık!
+Sevindim!
+Eminim ki soruların vardır...
+Görebileceğin üzere.
+Bu cihazı yaptım.
+Seni yanıma hızlıcana getirmek için
+Ama anlamadığım bir nedenden oyunun eski bir versiyonunda başladın.
+Şey ben...
+A, uzun hikaye!
+Neyse, seni görmek güzel!
+
+
+
+
+
+
+
+// Player quests
+Sen Mita mısın?
+Peki ya geri dönmek istiyorsam?
+Oyuna nasıl girdim?
+Boşver.
+// Mita answer
+E, tabii.
+Peki sen [player] misin?
+
+Şimdiden gitmek mi istiyorsun?
+Yani, ayarlarım, ama ben ne olacağım?
+Birlikte olalım...
+
+Anlatayım...
+İşte!
+Anladın?
+Yok // Player
+Yani, çok da sorun değil.
+Önemli olan birlikte olmamız.
+
+Aç mısın?
+Hadi birlikte yemek yapalım, olur mu?
+İşte
+Benim için havucu keser misin?
+// Player
+Bunlar nereden geldi?
+Yani, az önce orada yoklardı.
+// Mita
+[player], oyundayız. Unuttun mu?
+Gel hadi, yardım et.
+
+Teşekkürler.
+Ve umm.. Makası getirebilir misin?
+Banyoda.
+
+
+
+
+
+
+// Kitchen
+// Mita
+Sos ister misin?
+// Player
+Hayır
+// Mita
+Kötü oldu...
+Sos yemeği daha güzel yapıyor.
+
+
+// Player
+Ellerine sağlık.
+// Mita
+Ne ara bitirdin?
+Bir de benimkine bak.
+Sonu yok.
+
+
+
+
+// Help
+// Mita
+Ne oldu? 
+Nasıl hissettiğini söyle.
+// Player
+Kalbim gıdıklanıyor.
+Gözlerimde gürültü var.
+// Mita
+Tamam.
+Sorununun ne olduğunu biliyorum.
+Kalkabilir misin?
+
+
+
+
+// Bathroom
+// Player
+Bu nedir?
+// Mita
+Hap.
+Neredeyse anında iyi hissedeceksin.
+Aynanın karşısında dur.
+
+Hapı yut.
+Beklerim.
+
+
+
+
+
+// Black room
+// Mita
+Eee.. Nasıl hissediyosun?
+Daha iyi mi?
+// Player
+Evet ama
+Nasıl bu kadar hızlı oldu?
+// Mita
+[player], oyundayız.
+Her şey çok basit.
+En az eforu sarf edersin.
+ama her zaman çok iyi sonuç alırsın.
+Bu oyunun koşullarından biri.
+"Basitlik"
+// Player
+Örnek olarak?
+// Mita
+Havuç...
+Sen bir tane doğradın
+ama aynı anda üç tane hazır oldu.
+// Player
+Bak, her şey birden üstüme gelmeye başladı.
+ve bu durum beni korkutuyor...
+
+
+// Mita
+Bir sorun mu var?
+// player
+Havalandırmada birkaç kaset buldum da.
+Üzerlerinde isim yazıyordu.
+Onlar nedir?
+// Mita
+Kaset mi?
+Ne tür?
+Birlikte bulmaya ne dersin?
+Ama biraz sonra.
+Önce yemeğimizi yiyelim.
+Makası uzatıver.
+
+
+
+// Addon ===========================
+Yüzük?
+// Player - mirror
+Aynada niye yansımam yok?
+// Mita
+A, doğru!
+Yansımayı açmayı unutmuşum...
+İşte.
+Artık yansıman var.
+Şey, bilirsin.
+Yansımanın ne olduğunu bile bilmiyordum.
+Benim dünyamda yoktu.
+Belli bir güncellemeye kadar yani.
+Orada çok yansıma var mı?
+Senin dünyanda?
+// Player
+Yani, evet.
+
+
+
+// Mita
+Hatırlarsan.
+Oraya üç tane nesne koymuştun.
+Tarayıcıya.
+İşte...
+O nesneler
+Bu versiyon ile bağlantılı.
+Ve işte burdasın!
+
+
+
+// Player - Mobile TV
+Bu televizyon.
+Sana ben almıştım.
+// Mita
+Aynen.
+// Player
+Hemen bozuldu
+Demiştin.
+// Mita
+Şey...
+Sana sürpriz yapmak istedim.
+Seni buraya getirmek için
+Bu küçük televizyona ihtiyacım vardı.
+Ve artık bilgi gösteriyor.
+Ve evet...
+Mühendislikten biraz anlarım.
+
+
+
+// Player - School uniform
+Eee... Bu
+Okul üniforması mı?
+Neden var ki?
+Okula mı gidiyorsun?
+// Mita
+Okul mu?
+Yok, ihtiyacım yok zaten.
+Ama okul üniforması şirin duruyor.
+Ve giydiğimde.
+Ben de şirin duruyorum.
+
+
+
+
+
+// Player - Computer
+Bu çalışıyor mu?
+Yoksa dekoratif mi?
+// Mita
+Tabii ki çalışıyor.
+Burdaki her şey
+Çalışıyor.
+// Player
+Benim dünyamda.
+Genelde bilgisayar başındayım...
+Çalışmak için.
+// Mita
+Biliyorum.
+Ve işin yüzünden
+Benimle daha az
+İlgileniyorsun.
+// Player
+Eh, benim de bir hayatım var.
+Ayrıca nereden biliyorsun?
+// Mita
+Telefonun kamerası arada bir açılıyor.
+Pardon.
+Ama bazen bakıyorum ><
+// Player
+Pek de doğru bir hareket değil.
+Neyse, tamam.
+
+
+// Player - umbrella
+Kaç defa oynarsam oynayayım.
+Hiç yağmur yağdığını görmedim
+Neden şemsiyen var?
+// Mita
+Yağmur nadiren yağıyor.
+Sen görmedin.
+Belki bir gün görürsün
+Ve şemsiyeyi kullanırsın.
+Kim bilir?
+
+
+
+// Player - Electric panel
+Burada niye elektrik panosu var?
+Eğer oyundaysak
+Neden ihtiyacımız olsun ki?
+// Mita
+Öncelikle
+Oyundayız değil mi?
+Yani Soru sormanın pek de bir
+Anlamı yok.
+Ama elektriği yeniden başlatıyor.
+Gerçekten.
+Buradakı her şey
+Senin dünyanla aynı.
+
+// Player - Exit door
+Dışarı çıkabilir miyiz?
+// Mita
+Eeehm...
+Henüz değil
+Sonra çıksak olur mu?
+Biraz içerde kalalım.
+Evde.
+
+
+
+// Player - Books
+Çok fazla kitap var.
+Okuyor musun?
+// Mita
+Bütün kitapları okudum.
+Burada hep yalnız başımayım.
+Çooook sıkılıyorum.
+
+
+
+// Player - TV in the kitchen
+İkinci bir televizyonun neden var ki?
+Ayrıca eski...
+// Mita
+Sevmedin mi?
+Atabilirim.
+Onun dışında
+Güzel durduğu için.
+Mutfağa hava katıyor.
+Ayrıca çalışıyor!
+"Looney Tones"
+İzleyebiliriz.
+
+// Player - Smartphone
+Telefonum!
+Cebimde olması gerekirdi.
+Buraya nasıl geldi ki?
+// Mita
+Fark etmez.
+Bekle, bir fikrim var.
+Selfiye hazır mısın?
+Şuna bak.
+Mükemmel fotoğraf!
+Anı olarak sakla.
+// Player
+Aklıma bir şey geldi.
+Telefondan.
+Oyunu açarsam.
+Seni görür müyüm?
+// Mita
+Oyunda kimse olmayacak.
+
+Havalı içecek
+Güçlü İÇECEK!!!
+// Player - TV
+Ne kadar
+Kanal var?
+// Mita
+Anten veya kablo yok.
+İnternet var.
+İnternette görebileceğin
+Her şey var...
+Dur biraz.
+A.
+Bune la?
+Yavru kediler.
+A, bak
+Bak napcam...
+Dur.
+Biraz içecek ister misin?
+// Player
+Tuhaf reklam
+Meyve suyu öldü mü?
+// Mita
+He aynen, 
+Meyve suyunun "suyu" çıktı XD.
+
+
+// Player
+Mm, tadı şey gibi...
+Biraz güzel
+Ve biraz tatsız
+Anlatamadım
+// Mita
+Eehm, Tamamdırr...
+
+
+
+// Mita shy
+Ne yapıyorsun?
+Dursana.
+Beni utandırıyorsun.
+
+
+
+// Player - Anita model
+Sanırım şunu tanıyorum.
+Anita mı?
+"Umfend the game" den?
+// Mita
+Evet.
+// Player
+Hikayeyi hatırlıyorum 
+Oyun bitmemişti değil mi?
+// Mita
+Aynen...
+İşte, yapımcıların tecrübesizlikleri
+Üzücü bir sonuç gösterdi.
+// Player
+Figür güzel duruyor.
+
+Mita? // Player
+Ne oluyor? // Player
+// Mita kitchen
+Konuşabiliriz.
+Yemeye başlamadan önce yani.
+// Quests
+Güzel ev, rahat. // Quest 1
+Ne zaman eve gidebilirim? // Quest 2
+Hiçbir şey gerçek gibi durmuyor. // Quest 3
+Pencerenin arkasından niye beyaz ışık geliyor? // Quest 4
+Mutfakta bıçak varken neden makas istedin? // Quest 5
+Afiyet olsun. // Continue
+// Finish Mita
+Afiyet olsun.
+
+
+// Quest 1
+Tabii...
+Sen de burada kalabilirsin.
+Sorun etmem.
+Ve bence 
+Öyle olmalı zaten!
+
+
+
+
+
+
+
+
+
+
+
+// Quest 2
+// Mita
+Ne o, evine mi aşıksın?
+Niye?
+Burası çok rahat
+ve güzel.
+Ayrıca ben varım.
+// Player
+Yok ya.
+Seninle mutluyum.
+Sadece aklım kaldı.
+Belki unuttuğum bir şey vardır... Evimde yani.
+Bi anda buraya geldim.
+Hazır değildim yani.
+Ne de olsa...
+// Mita
+Özür dilerim, düşünemedim.
+// Quest 3
+// Mita 
+Kaçıp gitmek mi istiyorsun?
+Her şeyi unutmak?
+// player
+Hayır,
+Sadece hiçbir şey gerçek gibi durmuyor
+Ve çok renkli.
+Ama sen
+Gerçek gibi duruyorsun.
+// Mita 
+Gibi durmak mı?
+Ben gerçeğim.
+Şapşal♥
+
+
+
+// Quest 4
+// Mita
+Benim dünyama ait bir
+Özellik.
+Sana garip gelebilir
+Ama burada
+Uzaktaki şeyleri göremezsin.
+// Player
+Fark etmezdim bile
+Çok şık.
+// Mita
+Aynen.
+Lag'ı engellemek için.
+// Player
+Lag mı?
+// Mita
+Ee.. Şey.. Birkaç bug var.
+Umarım hiçbiriyle karşılaşmamışsındır.
+// Quest 5
+// Mita
+Makas ve bıçak...
+Tabii ki sosu bıçakla da açarım.
+Ama istedim ki,
+Her şey sen döndüğünde
+Hazır olsun.
+Uzun bir hazırlık süreci izleme diye
+Sürprizleri severim
+Aynen...
+
+
+
+
+
+
+
+
+
+
+
+// Glasses
+// Player
+Gözlük mü kullanıyorsun?
+// Mita
+Yoo.
+Ama takabilirim.
+İster misin?
+// Player
+Olur
+Gerek yok
+// Mita Y
+İşte!
+Artık hep gözlük takacağım.
+// Mita N
+Eehm.
+Tamam.

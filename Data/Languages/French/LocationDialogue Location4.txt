@@ -1,0 +1,343 @@
+Mita ? // Player
+Oh, tu es déjà réveillé ? // Mita
+Comment es-tu arrivée ici aussi vite ? // Player
+Tu étais là pour moi. // Player
+// Mita
+Non
+Tu étais figé devant le miroir
+Je suis partie
+Qu'est-ce qui est arrivé aux pièces ? // Player
+// Mita
+Je les ai réarrangées
+Comme ça elles te seront plus familières
+C'est-à-dire,
+Les pièces ne sont plus en ligne
+Mais tel qu'elles sont censées être
+// Player
+Ce n'était pas nécessaire
+Je veux dire, j'y suis habitué
+Je pense que tu t'y sentiras plus à l'aise comme ça :) // Mita
+// Mita card game
+Alors
+On commence le jeu ?
+Je vais t'expliquer rapidement
+L'icône donne le type d'action
+Par exemple, le coeur
+Lorsque tu poses une carte
+Si tu as d'avantage de coeurs
+Sur ta carte
+que je n'en ai
+Tu gagnes :)
+Prends les cartes
+Maintenant c'est mon tour
+Waouh
+J'ai de bonnes cartes
+Je commence
+
+
+
+
+
+
+
+
+
+A toi
+C'est ton tour
+Yep
+C'est ton tour
+
+Action de coeur
+Action d'attaque
+Action de défense
+
+
+Tu as compris !
+Tu as gagné !
+Tu es gagnant.
+Comme oses-tu...
+
+Ma Victoire
+Je suis victorieuse !
+La victoire est à moi !
+Miam, je l'ai mangé :)
+
+Égalité
+Ni ici, ni là
+Ni en avant, ni en arrière !
+Tout se ressemble, mon vieux
+
+
+
+
+
+
+
+
+
+
+
+// Player -  Game is interrupted
+C'est quoi ce son là-bas ?
+Ça vient du placard.
+// Mita
+Un son ?
+Quel son ?
+Je n'ai entendu aucun son.
+Dis-moi, à quoi ressemble ce son ?
+// Player
+C'est comme si quelqu'un frappait à la porte
+// Mita
+Mais il n'y a
+Personne là-dedans
+// Player
+Je veux vérifier
+C'est vraiment étrange
+// Mita
+Pourquoi...
+Encore...
+
+
+
+
+
+
+// Mita
+Qu'est-ce que tu fais !?
+Il y a...
+Mes sous-vêtements là-dedans.
+// Player
+Tu caches quelque chose ?
+// Mita
+Pourquoi ne me crois-tu pas ?
+Qu'est-ce que je fais de mal ?
+Je veux juste que tu
+Sois avec moi
+// Player
+J'aimerais pouvoir te le promettre, mais que va t'il se passer ensuite ?
+// Mita
+Pourquoi te sens-tu si attiré par le placard ?
+// Player
+Je veux juste savoir ce qui produit ces sons !
+// Mita
+Juste....
+Ce monde...
+C'est juste ces quatre pièces
+Ce n'est pas suffisant pour toi ?
+Ne peux-tu pas juste essayer de rester avec moi ?
+
+
+// Mita (No)
+Je comprend.
+Encore....
+Si tu veux savoir ce qu'il y a dehors,
+Alors tu vas le découvrir
+Maintenant :)
+
+// room is loading
+Chargement....
+// Player
+Qu'est-ce que... ?
+// Mita
+Ça arrive
+La pièce n'a pas eu le temps de charger
+Attends un peu :)
+// Player
+C'est étrange
+On est dans le téléphone de quelqu'un ?
+Et ce téléphone serait aussi long à charger ?
+// Mita
+Non
+C'est juste que tout n'est pas parfait
+Dans ce monde...
+Et nous sommes vivant grâce au
+Coeur de ce monde
+// Player
+Coeur ?
+// Mita
+Typique, hein ?
+
+
+// Mita
+On peut
+Jouer avec la console
+Ou jouer aux cartes
+Choisis ce que tu préfères :)
+
+
+
+// Mita play fight
+Est-ce qu'on devrait combattre ?
+Tu dois gagner
+Quatre fois
+Laisse-moi commencer en premier
+Je pense
+Que je vais y aller doucement :)
+
++ 1
+Bien joué :)
+Maintenant accroches-toi !
++ 2
+Waouh !
+Ok,
+Maintenant je deviens sérieuse.
++ 3
+Ah, toi !
+Peux-tu me battre
+Maintenant ?
++ 4
+Tu
+Es
+Incroyable :) Tes doigts sont vraiment quelque chose !
+
+- 1
+Qu'est-ce qui t'arrives ?
+C'est pas intéréssant
+- 2
+Bon
+Ça c'est fait :) Fatality, btw :)
+- 3
+Alors,
+Concentres-toi sur le jeu ou tu resteras un loser pour toujours !
+- 4
+Oh, vraiment ?
+Je t'ai fait sortir tout ton liquide blanc :(
+Tu n'avais qu'a t'y mettre plus sérieusement :)
+C'est pour ça que ça marche toujours pour moi !
+
+
+Très bien
+Allons jouer aux cartes, d'accord ?
+Dans ma chambre :)
+
+
+
+// Player [ERROR]
+Qu'est-ce que c'est ?
+Où est le...
+// Mita
+Oups
+Désolé
+J'ai téléchargé le mauvais fichier
+Depuis l'Internet
+Je voulais que ce soit magnifique
+Dehors
+Mais au final
+Ce n'était pas le bon format de fichier...
+Je corrigerais ça plus tard :)
+// Player
+C'est pour ça qu'on ne peut pas quitter la maison ?
+C'est la raison, oui :) // Mita
+// Mita shy
+Hé..
+Qu'est-ce qu'il y a ?
+Tu veux quelque chose ? :)
+
+
+
+// Player -  wall clock
+Cette horloge,
+Elle indique quelle heure ?
+L'heure dans le jeu ?
+Ou est-ce qu'elle se synchronise avec mon téléphone ?
+// Mita
+Un peu des deux
+En fait
+Quelque soit l'heure qu'il est
+Ça n'a pas d'importance si il se fait tard maintenant
+Dans ma maison...
+Une fille courageuse comme moi
+Ne connait pas la fatigue !
+Si je le souhaite, ce sera toujours le printemps !
+Et toujours midi !
+// Player
+Curieux...
+Et effrayant à la fois.
+Coincé au même instant pour toujours...
+
+
+
+// Player - Mita's picture
+Sympa ces photos
+J'imagine que c'est toi
+// Mita
+Yep
+Je les aime bien aussi
+// Player
+Qui a pris ces photos ?
+Il y a quelqu'un d'autre dans ce monde ?
+// Mita
+On peut dire ça :)
+Et je te les présenterai
+Mais ce n'est pas encore le moment de partager
+Une compagnie aussi agréable :)
+
+
+
+
+// Player - Portal
+Qu'est il arrivé au portail ?
+Ou je ne sais comment tu appels ça ?
+// Mita
+Par mon
+Claquement de doigts magique
+Je l'ai déplacé
+À un autre endroit
+On n'a pas besoin de ce portail maintenant,
+Il interférerait avec nous :)
+
+
+// Player - bedroom mirror
+C'est tellement étrange de regarder dans un miroir
+Qui ne reflète rien
+// Mita
+Les réflexions peuvent être activées
+Si tu le souhaites
+Mais est-ce nécessaire ?
+// Player
+Si possible
+À moins qu'il n'y ai des conséquences ?
+// Mita
+Oui
+On se déplacera plus lentement
+C'est comme un dessin animé avec une fréquence d'images réduite
+Même toi tu t'en rendrais compte
+// Player
+Je vois
+Dans ce cas ce n'est pas la peine
+// Mita
+[player], je peux les ajouter
+Mais ça rend bien
+Même sans elles
+// Player
+Tu as raison
+Finalement c'est pas mal
+Sans réflexions
+
+
+
+// Player - Blue sneakers
+Elles sont à toi ?
+// Mita
+Non ce sont les tiennes
+Tu ne t'en souviens pas ?
+// Player
+Je n'ai jamais eu ces baskets
+// Mita
+Maintenant tu les as :)
+Quand on sortira faire un tour,
+Tu les porteras :)
+// Player
+Comment je vais faire pour les vêtements ?
+Je me suis retrouvé dans ce monde
+Avec juste ce que je porte sur moi
+Comment je vais trouver autre chose ?
+// Mita
+C'est n'est pas un problème,
+J'ai vu ce que tu portes habituellement
+J'ai vu tes tristes goûts en matière de vêtements
+Pas de soucis, je t'en trouverais d'autres
+Mais pas maintenant
+C'est promis :)
+// Player
+Ok, ça marche

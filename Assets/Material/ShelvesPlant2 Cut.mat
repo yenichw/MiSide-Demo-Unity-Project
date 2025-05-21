@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ShelvesPlant2 Cut
+  m_Shader: {fileID: 4800000, guid: 8b3abb469c00b8f4b84bea33c7d510b6, type: 3}
+  m_ValidKeywords:
+  - _ALPHATEST_ON
+  - _EMISSION
+  - _GLOSSYREFLECTIONS_OFF
+  - _SPECULARHIGHLIGHTS_OFF
+  m_InvalidKeywords: []
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 2450
+  stringTagMap:
+    RenderType: TransparentCutout
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+      _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _MainTex:
+        m_Texture: {fileID: 2800000, guid: 2559e3fc74a1bfc43b024af25ad92e1d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: {}
+    m_Floats:
+      _BlendOp: 0
+      _BumpScale: 1
+      _CameraFadingEnabled: 0
+      _CameraFarFadeDistance: 2
+      _CameraNearFadeDistance: 1
+      _Cull: 0
+      _Cutoff: 0.5
+      _Cutout: 0.5
+      _DetailNormalMapScale: 1
+      _DistortionBlend: 0.5
+      _DistortionEnabled: 0
+      _DistortionStrength: 1
+      _DistortionStrengthScaled: 0
+      _DstBlend: 0
+      _EmissionEnabled: 0
+      _FlipbookMode: 0
+      _GlossMapScale: 1
+      _Glossiness: 0.5
+      _GlossyReflections: 0
+      _LightingEnabled: 1
+      _Metallic: 0
+      _Mode: 1
+      _NormalPower: 1
+      _OcclusionStrength: 1
+      _Parallax: 0.02
+      _Shininess: 0.078125
+      _SmoothnessPower: 1
+      _SmoothnessTextureChannel: 0
+      _SoftParticlesEnabled: 0
+      _SoftParticlesFarFadeDistance: 1
+      _SoftParticlesNearFadeDistance: 0
+      _SpecularHighlights: 0
+      _SquashAmount: 1
+      _SrcBlend: 1
+      _Stiffness: 1
+      _TransAmbient: 0.2
+      _TransDirect: 1
+      _TransNormalDistortion: 0.1
+      _TransScattering: 2
+      _TransShadow: 0.9
+      _Translucency: 1
+      _UVSec: 0
+      _WindMapScale: 1
+      _WindMapScale2nd: 1
+      _WindMinPower: 0
+      _WindMix: 0
+      _WindPower: 0
+      _WindSpeed: 1
+      _WindVerticalInfluence: 1
+      _WindX: 0.01
+      _WindZ: 0.01
+      _ZWrite: 1
+      __dirty: 1
+    m_Colors:
+      _CameraFadeParams: {r: 0, g: Infinity, b: 0, a: 0}
+      _Color: {r: 1, g: 1, b: 1, a: 1}
+      _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+      _SoftParticleFadeParams: {r: 0, g: 0, b: 0, a: 0}
+      _TreeInstanceColor: {r: 1, g: 1, b: 1, a: 1}
+      _TreeInstanceScale: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []

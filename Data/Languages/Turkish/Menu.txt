@@ -1,0 +1,78 @@
+yeni oyun
+devam et
+ana menü
+çık
+ayarlar
+başarımlar
+yapımcılar ve bağlantılar
+geri
+oyun yükle
+dil
+yükleniyor
+grafik ayarları
+ses
+klavye ve fare
+oyun kolu
+ekran çözünürlüğü
+pencere modu
+görsel efektler
+renk efektleri
+yumuşak gölgeler
+bulanıklık
+parlama
+kenar yumuşatması
+gölgeler
+çevre kalitesi
+programlama
+animasyonlar
+sesler
+müzik
+partiküller
+kaplamalar
+3D modelleme (98%)
+senaryo
+sıfırla
+ileri hareket et
+geri hareket et
+sola hareket et
+sağa hareket et
+etkileşim
+fare hassasiyeti
+Emin misin?
+evet
+hayır
+ana menüye dön
+yumuşak dönüş
+oyun ayarları
+geçmiş
+kıyafetler
+arayüz
+3D modeleme (2%)
+fragman
+durdur
+menü
+tebrikler, oyun bitti!
+baştan sona geçen süre:
+altyazıları her zaman göster
+parlaklık
+dikey senkronizasyon
+kaydedildi
+// OYUNU YÜKLE
+Oyunda mıyım?
+Yan yanayız
+Garipliğin başlangıcı
+Bodrum
+Duvarların ötesinde
+Döngü versiyonu
+Küçük Mita
+Mankenler
+Eski versiyon
+Çekirdek
+Ölüm ve çıkış
+
+kamera sallantısı
+ipucuları göster
+oyuncu sesi
+Discord
+Boosty (Geliştiriciye destek)
+FOV

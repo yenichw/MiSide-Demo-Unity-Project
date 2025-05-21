@@ -1,0 +1,168 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!72 &7200000
+ComputeShader:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MeshWriter
+  variants:
+  - serializedVersion: 2
+    targetRenderer: 2
+    targetLevel: 0
+    kernels:
+    - serializedVersion: 2
+      name: MeshPositionUpdate
+      variantMap:
+        :
+          serializedVersion: 2
+          cbVariantIndices:
+          - 0
+          cbs:
+          - name: $Globals
+            generatedName:
+            bindPoint: 0
+            samplerBindPoint: -1
+            texDimension: -1
+          textures: []
+          builtinSamplers: []
+          inBuffers:
+          - name: Positions
+            generatedName:
+            bindPoint: 0
+            samplerBindPoint: -1
+            texDimension: -1
+          outBuffers:
+          - name: VertexBuffer
+            generatedName:
+            bindPoint: 0
+            samplerBindPoint: -1
+            texDimension: -1
+          - name: VertexBuffer2
+            generatedName:
+            bindPoint: 1
+            samplerBindPoint: -1
+            texDimension: -1
+          code: 44584243632d48b824d03dccabd160688e97442d0100000058020000030000002c0000003c0000004c0000004953474e0800000000000000080000004f53474e080000000000000008000000534845580402000050000500810000006a08000159000004468e20000000000002000000a200000400701000000000000c0000009d00000300e01100000000009d00000300e01100010000005f0000021200020068000002020000009b0000044000000001000000010000004f0000073200100000000000060002004680200000000000000000001f0004030a001000000000001e00000712001000000000000a0002000a8020000000000001000000a700008b0263008083991900d2001000000000000a00100000000000014000000000000006791000000000001d000007120010000100000001400000804fc3470a001000000000001f0004030a001000010000002600000800d0000012001000010000000a0002002a8020000000000000000000a600000772e01100000000000a00100001000000860310000000000015000001150000011f0004031a001000000000001e00000712001000000000000a0002001a8020000000000001000000a700008b026300808399190072001000000000000a00100000000000014000000000000046721000000000001d000007820010000000000001400000804fc3470a001000000000001f0004033a001000000000002600000800d0000082001000000000000a0002003a8020000000000000000000a600000772e01100010000003a00100000000000460210000000000015000001150000013e000001
+          threadGroupSize:
+          - 64
+          - 1
+          - 1
+          requirements: 16385
+          keywords: []
+          isCompiled: 0
+      globalKeywords: []
+      localKeywords: []
+    - serializedVersion: 2
+      name: MeshPositionNormalUpdate
+      variantMap:
+        :
+          serializedVersion: 2
+          cbVariantIndices:
+          - 0
+          cbs:
+          - name: $Globals
+            generatedName:
+            bindPoint: 0
+            samplerBindPoint: -1
+            texDimension: -1
+          textures: []
+          builtinSamplers: []
+          inBuffers:
+          - name: Positions
+            generatedName:
+            bindPoint: 0
+            samplerBindPoint: -1
+            texDimension: -1
+          - name: Normals
+            generatedName:
+            bindPoint: 1
+            samplerBindPoint: -1
+            texDimension: -1
+          outBuffers:
+          - name: VertexBuffer
+            generatedName:
+            bindPoint: 0
+            samplerBindPoint: -1
+            texDimension: -1
+          - name: VertexBuffer2
+            generatedName:
+            bindPoint: 1
+            samplerBindPoint: -1
+            texDimension: -1
+          code: 4458424345181777f6297efa2bf9e19739d0165d0100000040030000030000002c0000003c0000004c0000004953474e0800000000000000080000004f53474e08000000000000000800000053484558ec02000050000500bb0000006a08000159000004468e20000000000002000000a200000400701000000000000c000000a200000400701000010000000c0000009d00000300e01100000000009d00000300e01100010000005f0000021200020068000002020000009b0000044000000001000000010000004f0000073200100000000000060002004680200000000000000000001f0004030a001000000000001e00000712001000000000000a0002000a8020000000000001000000a700008b026300808399190072001000010000000a00100000000000014000000000000046721000000000001d000007420010000000000001400000804fc3470a001000010000001f0004032a00100000000000a700008b0263008083991900d2001000000000000a00100000000000014000000000000006791000010000002600000800d0000082001000010000000a0002002a8020000000000000000000a600000772e01100000000003a0010000100000046021000010000002300000912001000010000000a0002002a8020000000000000000000014000000c000000a600000772e01100000000000a00100001000000860310000000000015000001150000011f0004031a001000000000001e00000712001000000000000a0002001a8020000000000001000000a700008b0263008083991900e2001000000000000a00100000000000014000000000000006791000000000001d000007120010000100000001400000804fc3471a001000000000001f0004030a00100001000000a700008b026300808399190072001000010000000a00100000000000014000000000000046721000010000002600000800d0000012001000000000000a0002003a8020000000000000000000a600000772e01100010000000a0010000000000096071000000000002300000922001000000000000a0002003a8020000000000000000000014000000c000000a600000772e01100010000001a00100000000000460210000100000015000001150000013e000001
+          threadGroupSize:
+          - 64
+          - 1
+          - 1
+          requirements: 16385
+          keywords: []
+          isCompiled: 0
+      globalKeywords: []
+      localKeywords: []
+    constantBuffers:
+    - name: $Globals
+      byteSize: 32
+      params:
+      - name: VertexCount
+        type: 5
+        offset: 0
+        arraySize: 0
+        rowCount: 1
+        colCount: 1
+      - name: VertexCount2
+        type: 5
+        offset: 4
+        arraySize: 0
+        rowCount: 1
+        colCount: 1
+      - name: VertexStride
+        type: 5
+        offset: 8
+        arraySize: 0
+        rowCount: 1
+        colCount: 1
+      - name: VertexStride2
+        type: 5
+        offset: 12
+        arraySize: 0
+        rowCount: 1
+        colCount: 1
+      - name: ChunkStart
+        type: 5
+        offset: 16
+        arraySize: 0
+        rowCount: 1
+        colCount: 1
+      - name: ChunkStart2
+        type: 5
+        offset: 20
+        arraySize: 0
+        rowCount: 1
+        colCount: 1
+    resourcesResolved: 1
+    compilerPlatform: 0
+    needsReflectionData: 0
+  m_CompilationContext:
+    buildTarget:
+      platform: 0
+      subTarget: 0
+      extendedPlatform: 0
+      isEditor: 0
+    platformGroup: 0
+    sourceFileName:
+    source:
+    sourceFile:
+    kernels: []
+    kernelMacros: []
+    compilationFlags: 0
+    supportedAPIs: 0
+    useDxcAPIs: 0
+    neverUseDxcAPIs: 0
+    includeHash0: 0
+    includeHash1: 0
+    includeHash2: 0
+    includeHash3: 0
+  errors: []
+  m_PreprocessorOverride: 0

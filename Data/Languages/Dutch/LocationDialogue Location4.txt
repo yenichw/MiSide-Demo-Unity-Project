@@ -1,0 +1,343 @@
+Mita? // Player
+Oh, je bent al wakker? // Mita
+Hoe ben je hier zo snel gekomen? // Player
+Je was er voor mij. // Player
+// Mita
+Nee
+Je stond verstijfd voor de spiegel
+Ik vertrok
+Hoe zit het met de kamers? // Player
+// Mita
+Ik heb het opnieuw ingericht 
+Om het je meer bekend te maken
+Dat is,
+De kamers liggen niet op een rij
+Maar zoals het hoort
+// Player
+Dat hoefde niet
+Het is alsof ik eraan al gewend ben
+Ik denk dat dit je dan meer op je gemak voelt) // Mita
+// Mita card game
+Dus
+Zullen we het spel beginnen?
+Ik zal het je beknopt vertellen
+De chip toont het type schade
+Bijvoorbeeld, het hart
+Door de kaarten neer te leggen
+Als je meer harten hebt 
+Op jouw kaart
+Dan mij
+Win je)
+Neem de kaarten
+Nu is het mijn buurt
+Wow
+Ik heb een paar heerlijke kaarten
+Ik ga eerst
+
+
+
+
+
+
+
+
+
+Nu jij
+Jouw buurt
+Jep
+Jouw buurt
+
+Harten beweging
+Schade beweging
+Verdedigings beweging
+
+
+Je hebt het!
+Jij wint!
+Je bent aan het winnen.
+Hoe durf..
+
+Mijn overwinning
+Ik ben overwinnaar!
+De overwinning is van mij!
+Yum, ik at het)
+
+Gelijkspel
+Hier noch daar
+Niet vooruit of achteruit!
+Het ziet er allemaal hetzelfde uit, kerel
+
+
+
+
+
+
+
+
+
+
+
+// Player -  Game is interrupted
+Wat is dat geluid daar?
+Het komt uit de kast.
+// Mita
+Geluid?
+Wat is het geluid?
+Ik heb geen geluiden gehoord.
+Vertel me, hoe klinkt het?
+// Player
+Geklop, alsof er iemand daar is
+// Mita
+Maar er is 
+Niemand daar
+// Player
+Ik wil controleren
+Het is zeer vreemd
+// Mita
+Waarom...
+Alweer...
+
+
+
+
+
+
+// Mita
+Wat doe je!?
+Daar zitten...
+Mijn ondergoed.
+// Player
+Verberg je iets?
+// Mita
+Waarom vertrouw je me niet?
+Wat doe ik verkeerd??
+Ik wil gewoon
+Dat je bij me blijft
+// Player
+Dat wil ik graag beloven, maar wat gebeurt er daarna?
+// Mita
+Waarom voel je je zo aangetrokken tot de kast?
+// Player
+Ik wil gewoon weten wat die geluiden zijn!
+// Mita
+Gewoon....
+Deze wereld...
+Het zijn slechts deze vier kamers
+Zou dat niet genoeg voor je zijn?
+Wil je gewoon proberen bij me te blijven?
+
+
+// Mita (No)
+Ik snap het.
+Alweer....
+Als je wilt weten wat daarbuiten is,
+Dan zul je erachter komen 
+Nu)
+
+// room is loading
+Laden....
+// Player
+Wat de...?
+// Mita
+Het gebeurt
+De kamer heeft geen tijd gehad om te laden
+Even wachten)
+// Player
+Het is raar 
+Zijn we in iemands gsm?
+En is deze telefoon zo traag met laden?
+// Mita
+Nee
+Het is gewoon zo dat niet alles perfect is
+Gemaakt in deze wereld...
+En we "leven" vanwege de 
+Kern van deze wereld
+// Player
+Kern?
+// Mita
+Typisch, hè?
+
+
+// Mita
+We kunnen 
+De console bespelen
+Of kaarten
+Kies maar uit)
+
+
+
+// Mita play fight
+Zullen we vechten?
+Je moet winnen 
+Vier keer
+Laat mij eerst gaan
+Ik denk
+Dat ik het je zal gemakkelijk maken)
+
++ 1
+Mooi gedaan)
+Hou nu goed je broek vast!
++ 2
+Wauw!
+Oké,
+Nu begin ik serieus te worden.
++ 3
+Ah, jij!
+Kun je me nu 
+Verslaan?
++ 4
+Jij
+Bent
+Ongelooflijk) Je vingers zijn gewoon iets!
+
+- 1
+Wat is er met jou aan de hand?
+Dat is niet interessant
+- 2
+Nou
+De taak is volbracht) Fataliteit, trouwens)
+- 3
+Dus,
+Hou je hoofd erbij, anders ben je voor altijd een verliezer.!
+- 4
+Oh, echt?
+Ik sloeg alle witte vloeistof uit je(
+Je moest gewoon beter je best doen)
+Daarom werkt het altijd voor mij!
+
+
+Oké
+Laten we kaarten, zullen we?
+In mijn slaapkamer)
+
+
+
+// Player [ERROR]
+Wat is dit?
+Waar de...
+// Mita
+Oeps
+Sorry
+Ik heb één bestand gedownload
+Van het Internet
+Ik wilde dat het mooi was 
+Buiten
+Maar het bleek
+Dat het bestandsformaat verkeerd was...
+Ik zal het later herstellen)
+// Player
+Is dat waarom we het huis niet uit kunnen?
+Dat is waarom, inderdaad) // Mita
+// Mita shy
+Hey..
+Wat is er?
+Wil je iets?)
+
+
+
+// Player -  wall clock
+Deze klok, 
+Welke tijd zegt het?
+Spel tijd?
+Of synchroniseert het vanaf mijn smartphone??
+// Mita
+Zowel ja als nee
+In feite
+Ongeacht hoe laat het is
+Het maakt niet uit of het nu laat is
+In mijn huis...
+Sterke meisjes zoals ik weten 
+Geen vermoeidheid!
+Als ik het wil, zal het eeuwige lente zijn!
+En eeuwige middag!
+// Player
+Nieuwsgierig...
+En griezelig tegelijkertijd.
+Voor eeuwig vastzitten in één moment...
+
+
+
+// Player - Mita's picture
+Coole foto's
+Ik raad dat jij dat bent
+// Mita
+Jep
+Ik vind het ook leuk
+// Player
+Wie heeft je foto genomen?
+Is er iemand anders in deze wereld?
+// Mita
+Je zou dat kunnen zeggen)
+En ik zal je aan ze voorstellen
+Maar het is nog geen tijd om zo'n 
+aangenaam gezelschap voor te stellen)
+
+
+
+
+// Player - Portal
+Wat is er met het portaal gebeurd?
+Of hoe je het ook noemt?
+// Mita
+Door mijn
+Magisch vingerknipje
+Bewoog ik het 
+Naar een andere plaats
+We hebben dit portaal nu niet nodig,
+Het zal ons hinderen)
+
+
+// Player - bedroom mirror
+Het is zo vreemd om in een spiegel te kijken
+Dat niet reflecteert
+// Mita
+Reflecties kunnen worden ingeschakeld 
+Als je wilt
+Maar is het noodzakelijk?
+// Player
+Zeker
+Of zijn er gevolgen?
+// Mita
+Ja
+We zullen langzaam bewegen
+Het is net een tekenfilm met een lage framerate
+Zelfs jij zult dat merken
+// Player
+Ik snap het
+Dan is er geen nood voor dat
+// Mita
+[player], ik kan ze toevoegen
+Maar het ziet er geweldig uit 
+Zelfs zonder dat
+// Player
+Je hebt gelijk
+En het ziet er goed uit 
+Zonder reflecties
+
+
+
+// Player - Blue sneakers
+Zijn deze van jou?
+// Mita
+Nee, deze zijn van jou
+Herinner je je niet?
+// Player
+Ik heb die sneakers niet
+// Mita
+Nu heb je ze)
+Als we gaan wandelen,
+Zul je ze dragen)
+// Player
+Hoe zit het met kleding?
+Ik vond mezelf in deze wereld
+Met alleen wat ik nu draag
+Hoe kom ik aan een nieuwe?
+// Mita
+Het is goed
+Ik heb gezien wat je draagt
+Ik zag wat een trieste smaak je hebt in kleding
+Maar goed, ik zal het voor je halen
+Maar later
+Ik beloof het)
+// Player
+Huh, goed

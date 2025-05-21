@@ -1,0 +1,343 @@
+¿Mita? // Player
+Oh, ¿Ya despertaste? // Mita
+¿Como llegaste aquí tan rápido? // Player
+Estabas conmigo // Player
+// Mita
+No
+Te quedaste congelado frente al espejo
+Me fui
+¿Qué pasó con las habitaciones? // Player
+// Mita
+Las reorganicé
+Para hacerlos más familiares para ti
+Eso siendo,
+Los cuartos no están en fila
+Si no como deberían
+// Player
+No debiste
+Es como estoy acostumbrado
+Pensaba que esto te haría sentir más cómodo // Mita
+// Mita card game
+Así que
+¿Empezamos el juego?
+Te lo diré brevemente
+La ficha muestra el tipo de daño
+Por ejemplo, el corazón
+Al poner las cartas
+Si tienes más corazones
+En tu carta
+Que yo
+Tú ganas
+Toma las cartas
+Ahora es mi turno
+Wow
+Obtuve muy buenas cartas
+Voy primero
+
+
+
+
+
+
+
+
+
+Ahora tú
+Tu turno
+Síp
+Tu turno
+
+Turno de Corazón
+Turno de Daño
+Turno de Defensa
+
+
+¡Lo tienes!
+¡Ganaste!
+Estás ganando.
+Cómo te atreves...
+
+Mi victoria
+¡Yo gano!
+¡La victoria es mía!
+Yum, me la comí
+
+Empate
+Ni tú, ni yo
+¡Ni adelante ni atrás!
+Todas se ven iguales, hombre
+
+
+
+
+
+
+
+
+
+
+
+// Player -  Game is interrupted
+¿Qué es ese sonido de allá?
+Viene del armario
+// Mita
+¿Sonido?
+¿Cuál sonido?
+No escucho ningún sonido.
+Dime, ¿A qué suena?
+// Player
+Golpes, como si alguien estuviera ahí
+// Mita
+Pero no
+hay nadie ahí
+// Player
+Quiero revisar
+Es muy extraño
+// Mita
+¿Por qué...?
+De nuevo...
+
+
+
+
+
+
+// Mita
+¿¡Qué estás haciendo!?
+Ahí está...
+Mi ropa interior. 
+// Player
+¿Estás ocultando algo?
+// Mita
+¿Por qué no confías en mí?
+¿Qué estoy haciendo mal?
+Solo quiero
+que estés conmigo
+// Player
+Me gustaría prometer eso, pero, ¿Qué pasará después?
+// Mita
+¿Por qué te sientes tan atraído al closet?
+// Player
+¡Solo quiero saber qué son esos sonidos!
+// Mita
+Sólo....
+Este mundo...
+Sólo son estas cuatro habitaciones
+¿No es eso suficiente para ti?
+¿Podrías solo intentar estar conmigo?
+
+
+// Mita (No)
+Entiendo
+De nuevo....
+Si quieres saber que hay ahí fuera,
+Entonces vas a descubrirlo
+Ahora
+
+// room is loading
+Cargando....
+// Player
+¿Pero qué...?
+// Mita
+A veces pasa
+El cuarto no tuvo tiempo para cargar
+Espera un momento
+// Player
+Es raro 
+¿Estamos en el teléfono de alguien?
+¿Y el teléfono es lento para cargar?
+// Mita
+No
+Es solo que no todo está perfectamente
+hecho en este mundo...
+Y estamos "vivos" por el
+Núcleo de este mundo
+// Player
+¿Núcleo?
+// Mita
+Típico, ¿huh?
+
+
+// Mita
+Podemos
+Jugar en la consola
+O jugar a las cartas
+Elije tú
+
+
+
+// Mita play fight
+¿Peleamos?
+Tienes que ganar
+Cuatro veces
+Déjame ir primero
+Creo que
+Iré fácil contigo
+
++ 1
+Bien hecho
+¡Ahora prepárate!
++ 2
+¡Wow!
+Muy bien,
+ahora me pondré seria.
++ 3
+Ah, ¡Tú!
+¿Puedes vencerme
+ahora?
++ 4
+Tú
+Eres
+Increíble. ¡Tus dedos de verdad son algo!
+
+- 1
+¿Qué te pasa?
+Eso no es interesante
+- 2
+Bueno
+El trabajo está hecho, Fatality, por si acaso
+- 3
+Así que,
+Concéntrate en el juego, ¡O serás un perdedor para siempre!
+- 4
+Oh, ¿En serio?
+Saqué todo el fluido blanco fuera de ti
+Solo tienes que intentarlo con más fuerza
+¡Por eso siempre me sale bien todo!
+
+
+Muy bien
+Juguemos a las cartas, ¿Quieres?
+En mi cuarto
+
+
+
+// Player [ERROR]
+¿Qué es esto?
+Dónde...
+// Mita
+Oops
+Lo siento
+Descargue un archivo
+De internet
+Quería que fuera precioso
+Afuera
+Pero resulta
+Que el formato del archivo era incorrecto...
+Lo arreglaré después
+// Player
+¿Es por eso que no podemos dejar la casa?
+Sí, es por eso // Mita
+// Mita shy
+Oye...
+¿Qué pasa?
+¿Quieres algo?
+
+
+
+// Player -  wall clock
+Este reloj,
+¿Qué hora indica?
+¿La hora del juego?
+¿O se sincroniza con la de mi teléfono?
+// Mita
+Ambos sí y no
+De hecho
+No importa que hora es
+No importa si ahora es tarde
+En mi casa...
+Las chicas fuertes como yo no conocen 
+¡La fatiga!
+Si lo quisiera, ¡Sería una primavera eterna!
+¡Y un eterno mediodía!
+// Player
+Curioso...
+Y aterrador al mismo tiempo.
+Atrapado en un momento por siempre...
+
+
+
+// Player - Mita's picture
+Lindas fotografías
+Adivino que esa eres tú
+// Mita
+Síp
+Me gusta también
+// Player
+¿Quién te tomó la foto?
+¿Hay alguien más en este mundo?
+// Mita
+Se podría decir eso
+Ya te presentaré a ellos
+Pero aún no es el tiempo de compartir
+con tan agradables compañías
+
+
+
+
+// Player - Portal
+¿Qué le pasó al portal?
+¿O cómo lo llamas?
+// Mita
+Por el
+chasquido mágico de mis dedos
+Lo moví
+A otro lugar
+No necesitamos el portal ahora
+Interferiría con nosotros
+
+
+// Player - bedroom mirror
+Es tan extraño ver un espejo
+Que no refleja
+// Mita
+Los reflejos pueden encenderse
+Si quieres
+¿Pero es necesario?
+// Player
+Claro
+¿O hay alguna consecuencia?
+// Mita
+Sí
+Nos moveríamos más lento
+Como una caricatura con baja velocidad de fotogramas
+Incluso tú lo percibirías
+// Player
+Ya veo
+Entonces no hay necesidad de ello
+// Mita
+[player], puedo incluirlos
+Pero se ve excelente
+Incluso sin ellos
+// Player
+Tienes razón
+Y se ven bien
+Sin reflejos
+
+
+
+// Player - Blue sneakers
+¿Son tuyos?
+// Mita
+No, esos son tuyos
+¿No lo recuerdas?
+// Player
+Yo no tengo esas zapatillas
+// Mita
+Ahora las tienes
+Cuando vayamos a caminar,
+las vas a usar.
+// Player
+¿Qué hay de mi ropa?
+Llegué a este mundo
+solo con lo que estoy vistiendo
+¿Como puedo conseguir otra?
+// Mita
+Está bien
+He visto lo que usas para vestir
+Vi el triste gusto que tienes en ropa
+Pero está bien, la traeré para ti
+Pero después
+Lo prometo
+// Player
+Eh, bien

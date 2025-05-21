@@ -1,0 +1,78 @@
+joc nou
+continuă
+meniu principal
+ieṣire
+setări
+realizări
+autori ṣi link-uri
+înapoi
+încarcă
+limba
+încărcare
+grafică
+volum
+tastatură ṣi mouse
+gamepad
+rezoluṭia ecranului
+modul fereastră
+efecte vizuale
+efecte de culoare
+umbre fine
+estompare
+străluciri
+netezire
+umbre
+calitatea mediului
+programare
+animaṭii
+sunete
+muzică
+particule
+texturi
+modele 3D (98%)
+scenariu
+resetare
+miṣcă-te înainte
+miṣcă-te înapoi
+miṣcă-te stânga
+miṣcă-te dreapta
+interacṭiune
+sensivitate mouse
+ieṣi din joc?
+da
+nu
+ieṣi către meniul principal
+miṣcări fine
+setările jocului
+preistorie
+haine
+interfaṭă
+modele 3D (2%)
+trailer joc
+pauză
+meniu
+felicitări, jocul s-a terminat!
+jocul a durat:
+arată întotdeauna subtitrările
+luminozitate
+sincronizare verticală
+salvat
+// LOAD GAME
+Sunt în joc?
+Suntem împreună
+Începuturile ciudăṭeniilor
+Pivniṭa
+Dincolo de ziduri
+Versiunea în buclă
+Micuṭa Mita
+Manechine
+Versiunea veche
+Miezul
+Moartea ṣi Ieṣirea
+
+clătinarea camerei
+afiṣaṭi indicii pe ecran
+vocea jucătorului
+Discord
+Boosty (Suport pentru dezvoltare)
+unghiul de vedere

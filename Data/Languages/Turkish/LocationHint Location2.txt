@@ -1,0 +1,6 @@
+Etrafa bakın.
+Eşyaları bul ve tarayıcıya koy.
+Eşyaları tarat ve işlemi başlat.
+Sigortayı yeniden başlat (Ön kapıdan).
+Sunucu pillerini bul ve cihaza tak.
+Cihazı başlat

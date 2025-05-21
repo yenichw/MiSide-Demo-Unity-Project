@@ -1,0 +1,78 @@
+new game
+continue
+main menu
+exit
+settings
+achievements
+creators and links
+back
+load
+language
+loading
+graphics
+volume
+keyboard and mouse
+gamepad
+screen resolution
+window mode
+visual effects
+color effects
+soft shadows
+blur
+highlights
+antialiasing
+shadows
+quality of the environment
+programming
+animations
+sounds
+music
+particles
+textures
+3D models (98%)
+script
+reset
+move forward
+move back
+move left
+move right
+interaction
+mouse sensitivity
+quit the game?
+yes
+no
+exit to the main menu
+smooth turns
+game settings
+backstory
+clothes
+interface
+3D models (2%)
+trailer
+pause
+menu
+congratulations, game is completed!
+walkthrough took:
+always show subtitles
+brightness
+vertical sync
+saved
+// LOAD GAME
+Am I in the game?
+We are together
+The beginnings of weirdness
+Basement
+Beyond the walls
+Cycle version
+Little Mita
+Mannequins
+Old version
+Core
+Death and Exit
+
+camera wobble
+display a hint on the screen
+player voice
+Discord
+Boosty (Development support)
+view angle

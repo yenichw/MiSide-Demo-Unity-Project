@@ -1,0 +1,28 @@
+{
+    "name": "EPO",
+    "rootNamespace": "",
+    "references": [
+        "Unity.RenderPipelines.Core.Runtime",
+        "EPOUtilities"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.render-pipelines.high-definition",
+            "expression": "0.0.0",
+            "define": "HDRP_OUTLINE"
+        },
+        {
+            "name": "com.unity.render-pipelines.universal",
+            "expression": "0.0.0",
+            "define": "URP_OUTLINE"
+        }
+    ],
+    "noEngineReferences": false
+}

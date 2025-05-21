@@ -1,0 +1,17 @@
+{
+    "name": "Rowlan.AnimationPreview.Editor",
+    "references": [
+        "GUID:fe4ccb02fc2753f46ba50c481b609797"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

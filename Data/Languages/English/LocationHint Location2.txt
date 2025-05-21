@@ -1,0 +1,6 @@
+Look around.
+Find the items and put them on the scanner.
+Scan the items and start the process.
+Restart the electricity (at the front door).
+Find the server batteries and return them to the device.
+Start device.

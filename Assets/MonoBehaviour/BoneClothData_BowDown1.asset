@@ -1,0 +1,136 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ed57233082791c28c52d501f4778d32, type: 3}
+  m_Name: BoneClothData_BowDown1
+  m_EditorClassIdentifier:
+  dataHash: -853441771
+  dataVersion: 5
+  triangleBendAlgorithm: 1
+  restoreRotationAlgorithm: 1
+  clampRotationAlgorithm: 1
+  useVertexList:
+  - 0
+  - 1
+  selectionData:
+  - 2
+  - 1
+  maxLevel: 2
+  vertexFlagLevelList:
+  - 1
+  - 65538
+  vertexDepthList:
+  - 0
+  - 1
+  rootList:
+  - -1
+  - 0
+  parentList:
+  - -1
+  - 0
+  structDistanceDataList:
+  - vertexIndex: 0
+    targetVertexIndex: 1
+    length: 0.05220092
+  - vertexIndex: 1
+    targetVertexIndex: 0
+    length: 0.05220092
+  structDistanceReferenceList:
+  - startIndex: 0
+    count: 1
+  - startIndex: 1
+    count: 1
+  bendDistanceDataList: []
+  bendDistanceReferenceList: []
+  nearDistanceDataList: []
+  nearDistanceReferenceList: []
+  rootDistanceDataList:
+  - vertexIndex: 1
+    targetVertexIndex: 0
+    length: 0.05220092
+  rootDistanceReferenceList:
+  - startIndex: 0
+    count: 0
+  - startIndex: 0
+    count: 1
+  clampDistance2DataList: []
+  clampDistance2RootInfoList: []
+  restoreRotationDataList: []
+  restoreRotationReferenceList: []
+  clampRotationDataList: []
+  clampRotationRootInfoList: []
+  compositeRotationDataList:
+  - vertexIndex: 1
+    parentVertexIndex: 0
+    localPos:
+      x: -2.2455608E-06
+      y: 1
+      z: -2.5846313E-07
+    localRot:
+      value:
+        x: -0.12883458
+        y: 0.73549706
+        z: 0.04833268
+        w: 0.66340756
+  compositeRotationRootInfoList:
+  - startIndex: 0
+    dataLength: 1
+  twistDataList: []
+  twistReferenceList: []
+  adjustRotationDataList: []
+  triangleBendDataList: []
+  triangleBendReferenceList: []
+  triangleBendWriteBufferCount: 0
+  volumeDataList: []
+  volumeReferenceList: []
+  volumeWriteBufferCount: 0
+  lineRotationDataList:
+  - vertexIndex: 0
+    childCount: 1
+    childStartDataIndex: 1
+    localPos:
+      x: 0
+      y: 0
+      z: 0
+    localRot:
+      value:
+        x: 0
+        y: 0
+        z: 0
+        w: 1
+  - vertexIndex: 1
+    childCount: 0
+    childStartDataIndex: 0
+    localPos:
+      x: -1.1728295E-07
+      y: 0.05220092
+      z: -1.1983458E-08
+    localRot:
+      value:
+        x: -0.12883458
+        y: 0.73549706
+        z: 0.04833268
+        w: 0.66340756
+  lineRotationRootInfoList:
+  - startIndex: 0
+    dataLength: 2
+  triangleRotationDataList: []
+  triangleRotationIndexList: []
+  edgeCollisionDataList: []
+  edgeCollisionReferenceList: []
+  edgeCollisionWriteBufferCount: 0
+  penetrationDataList: []
+  penetrationReferenceList: []
+  penetrationDirectionDataList: []
+  penetrationMode: 0
+  baseSkinningDataList: []
+  baseSkinningBindPoseList: []
+  initScale: {x: 1.0000004, y: 1, z: 0.99999994}
