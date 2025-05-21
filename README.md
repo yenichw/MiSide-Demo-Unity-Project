@@ -13,7 +13,7 @@
 
 This project is a reverse-engineering reconstruction of the Unity-based game **MiSide**, created with the following goals:
 
-- 🧠 Understand Unity scene structure, object hierarchy, and scripting
+- ☕️ Understand Unity scene structure, object hierarchy, and scripting
 - 🧪 Analyze gameplay logic and internal mechanisms
 - 🔧 Rebuild functionality in a controlled and editable environment
 
