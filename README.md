@@ -1,6 +1,6 @@
 # 🧩 MiSide Reverse Engineering Project
 
-![]([https://example.com/your-image.jpg](https://static.wikia.nocookie.net/miside-ru/images/7/73/Logo-bg.png/revision/latest/scale-to-width-down/683?cb=20241214124554&path-prefix=ru))
+[]([https://example.com/your-image.jpg](https://static.wikia.nocookie.net/miside-ru/images/7/73/Logo-bg.png/revision/latest/scale-to-width-down/683?cb=20241214124554&path-prefix=ru))
 
 
 > ⚠️ **Disclaimer:** This repository contains a fully reconstructed Unity project based on the game **MiSide**.  
