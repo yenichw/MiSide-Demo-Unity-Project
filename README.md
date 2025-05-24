@@ -43,9 +43,8 @@ This project is a reverse-engineering reconstruction of the Unity-based game **M
 
 ```text
 ├─── Assets/ # Decompiled assets (scenes, prefabs, scripts)
-├──── Data/ # Reconstructed data (may include StreamingAssets)
 ├─── Extras/ # Auxiliary materials (icons, assembly, shaders)
-├──── Library/ # Unity caches and metainformation (NOT required in Git)
+├──── Library/ # Unity caches and metainformation
 ├─── Packages/ # package. json and dependencies (Unity Package Manager)
 ├── ProjectSettings/ # Unity editor settings
 └─── README.md # This file
