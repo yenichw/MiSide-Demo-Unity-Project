@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-  <img src="https://cdn.akamai.steamstatic.com/steam/apps/2527500/header.jpg" alt="MiSide Banner" width="800"/>
+  <img src="https://cdn2.steamgriddb.com/logo_thumb/d733d60842f730494d471e67e00342ce.png" alt="MiSide Banner" width="800"/>
 </p>
 
 ---
