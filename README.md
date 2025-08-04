@@ -13,8 +13,6 @@
 
 ## 🎨 Branding & Artwork
 
-Here are some official visuals you can use for repository styling:
-
 | Logo | Key Art | Promotional Art |
 |------|---------|-----------------|
 | ![Logo](https://cdn.cloudflare.steamstatic.com/steam/apps/2527500/capsule_184x69.jpg) | ![Key Art]() | ![Promo]() |
