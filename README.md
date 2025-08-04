@@ -23,7 +23,7 @@ Here are some official visuals you can use for repository styling:
 
 ## ✨ Features
 
-- **Demo version** of MiSide (v0.93L)  
+- **Demo version** of MiSide
 - Decompiled for educational exploration and modding research  
 - Mixture of cute anime visuals with psychological horror elements  
 - Puzzle segments, exploration, and branching encounters with **Mita**  
@@ -38,7 +38,7 @@ Here are some official visuals you can use for repository styling:
 ## 🚀 Getting Started
 
 1. **Clone the repository:**
-   git clone https://github.com/yourname/miside-decompiled-demo.git
+   git clone https://github.com/yenichw/MiSide-Demo-Unity-Project/edit/main/README.md
    unpack Packages.rar!!!!!!!!!!!!!!!!!!!!
 2. **adding a project to unity**
    add the project to unity via unity hub, unity hub will prompt you to install the appropriate version of the engine, only install it.
