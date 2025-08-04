@@ -1,7 +1,7 @@
 # 🕹️ MiSide Decompiled Demo
 
 > Unofficial decompiled demo of **MiSide**, created for educational and research purposes.  
-> ⚠️ This project is not affiliated with AIHASTO or official MiSide developers.
+> ⚠️ This project is not affiliated with AIHASTO or official MiSide developers,check license.
 
 ---
 
