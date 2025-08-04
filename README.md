@@ -17,7 +17,7 @@ Here are some official visuals you can use for repository styling:
 
 | Logo | Key Art | Promotional Art |
 |------|---------|-----------------|
-| ![Logo](https://cdn.cloudflare.steamstatic.com/steam/apps/2527500/capsule_184x69.jpg) | ![Key Art](https://images.wnhub.io/news/other/items/45043/1723286810_8660bfe9d5f20e7d2da0.png) | ![Promo](https://images.game8.co/921338/ab9b7ab0b59fd4d51a3a6cfa91dc1c6b.png) |
+| ![Logo](https://cdn.cloudflare.steamstatic.com/steam/apps/2527500/capsule_184x69.jpg) | ![Key Art]() | ![Promo]() |
 
 You can also add your own **screenshots** later to the `assets/screenshots/` folder.
 
