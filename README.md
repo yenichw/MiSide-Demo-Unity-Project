@@ -37,17 +37,17 @@ Here are some official visuals you can use for repository styling:
 ---
 ## 🚀 Getting Started
 
- 1. **Clone the repository:**
+**Clone the repository:**
 
 git clone https://github.com/yenichw/MiSide-Demo-Unity-Project.git
 
 unpack Packages.rar!!!!!!!!!!!!!!!!!!!!
    
- 2. **adding a project to unity**
+**adding a project to unity**
 
 add the project to unity via unity hub, unity hub will prompt you to install the appropriate version of the engine, only install it.
    
- 3.**Finish**
+ **Finish**
 
 wait for the compilation and enjoy
 
