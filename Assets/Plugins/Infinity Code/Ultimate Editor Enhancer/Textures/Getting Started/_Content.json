@@ -1,0 +1,816 @@
+[
+  {
+    "title": "Intro",
+    "image": "Intro.png"
+  },
+  {
+    "title": "Standalone Tools",
+    "slides":
+    [
+      {
+        "title": "Autosave",
+        "image": "Autosave.png",
+        "help": "autosave",
+        "added": 3.07,
+        "updated": 3.07
+      },
+      {
+        "title": "Bookmarks",
+        "image": "Bookmarks.png",
+        "help": "bookmarks",
+        "added": 1.0,
+        "updated": 1.0
+      },
+      {
+        "title": "Context Menu",
+        "added": 1.0,
+        "updated": 1.0,
+        "slides":
+        [
+          {
+            "title": "How to open",
+            "image": "Open Context Menu.png",
+            "help": "context-menu"
+          },
+          {
+            "title": "Breadcrumbs",
+            "image": "Breadcrumbs.png",
+            "help": "breadcrumbs"
+          },
+          {
+            "title": "Windows",
+            "image": "Windows.png",
+            "help": "windows"
+          },
+          {
+            "title": "Open Window",
+            "image": "Open Window.png",
+            "help": "windows"
+          },
+          {
+            "title": "Popup Window",
+            "image": "Popup Window.png",
+            "help": "popup-window"
+          },
+          {
+            "title": "Debug mode for Component",
+            "image": "Debug Mode For Component.png",
+            "help": "components"
+          },
+          {
+            "title": "Actions",
+            "image": "Actions.png",
+            "help": "actions",
+            "slides":
+            [
+              {
+                "title": "History Action",
+                "image": "History Action.png",
+                "help": "history"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Distance Tool",
+        "image": "Distance Tool.png",
+        "help": "distance-tool",
+        "added": 2.0,
+        "updated": 2.0
+      },
+      {
+        "title": "Editor Icon Browser",
+        "image": "Editor Icon Browser.png",
+        "help": "editor-icon-browser",
+        "added": 2.02,
+        "updated": 2.02
+      },
+      {
+        "title": "Recent Scenes",
+        "image": "Recent Scenes.png",
+        "help": "recent-scenes",
+        "added": 2.0,
+        "updated": 2.0
+      },
+      {
+        "title": "Scene Backups",
+        "image": "Scene Backups.png",
+        "help": "scene-backups",
+        "added": 3.15,
+        "updated": 3.15
+      },
+      {
+        "title": "Smart Search",
+        "image": "Smart Search.png",
+        "help": "smart-search",
+        "added": 1.0,
+        "updated": 1.0
+      },
+      {
+        "title": "Toolbar",
+        "slides": 
+        [
+          {
+            "title": "Timer & Timescale",
+            "image": "Timer and Timescale.png",
+            "help": "timer",
+            "added": 2.08,
+            "updated": 3.11,
+            "slides": 
+            [
+                {
+                    "title": "Stepper",
+                    "image": "Stepper.png",
+                    "help": "stepper",
+                    "added": 3.11,
+                    "updated": 3.11
+                }
+            ]
+          },
+          {
+            "title": "Windows",
+            "image": "Windows In Toolbar.png",
+            "help": "windows-2",
+            "added": 1.12,
+            "updated": 1.12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Scene View Tools",
+    "slides":
+    [
+      {
+        "title": "Highlighter",
+        "image": "Highlighter.png",
+        "help": "highlighter",
+        "added": 1.08,
+        "updated": 1.08
+      },
+      {
+        "title": "Move Light Target",
+        "image": "Move Light Target.png",
+        "help": "move-light-target",
+        "added": 3.14,
+        "updated": 3.14
+      },
+      {
+        "title": "Move to Point",
+        "image": "Move to Point.png",
+        "help": "move-to-point",
+        "added": 3.09,
+        "updated": 3.09
+      },
+      {
+        "title": "Object Placer",
+        "image": "Object Placer.png",
+        "help": "object-placer",
+        "added": 1.07,
+        "updated": 1.07
+      },
+      {
+        "title": "Object Toolbar",
+        "image": "GameObject Toolbar.png",
+        "help": "object-toolbar",
+        "added": 2.02,
+        "updated": 2.02,
+        "slides":
+        [
+          {
+            "title": "Related Components",
+            "image": "Related Components.png",
+            "help": "related-components",
+            "added": 2.03,
+            "updated": 2.03
+          }
+        ]
+      },
+      {
+        "title": "Quick Access Bar",
+        "image": "Quick Access Bar.png",
+        "help": "quick-access-bar",
+        "added": 2.02,
+        "updated": 2.02
+      },
+      {
+        "title": "Selection Bounds",
+        "image": "Selection Bounds.png",
+        "help": "selection-bounds",
+        "added": 2.01,
+        "updated": 2.01
+      },
+      {
+        "title": "Tool Values",
+        "image": "Tool Values.png",
+        "help": "tool-values",
+        "added": 2.0,
+        "updated": 2.0,
+        "slides":
+        [
+          {
+            "title": "Transform Editor Window",
+            "image": "Transform Editor Tools.png",
+            "help": "transform-editor-window",
+            "added": 2.01,
+            "updated": 2.01
+          }
+        ]
+      },
+      {
+        "title": "Size of Terrain Brush",
+        "image": "Size of Terrain Brush.png",
+        "help": "terrain-editor-brush-size",
+        "added": 1.0,
+        "updated": 1.0
+      },
+      {
+        "title": "Waila",
+        "image": "Waila.png",
+        "help": "waila-what-am-i-looking-at",
+        "added": 1.0,
+        "updated": 1.0,
+        "slides":
+        [
+          {
+            "title": "Smart Selection",
+            "image": "Smart Selection.png",
+            "help": "smart-selection",
+            "added": 1.0,
+            "updated": 1.0
+          },
+          {
+            "title": "Terrain Info",
+            "image": "Real World Terrain Info.png",
+            "help": "waila-what-am-i-looking-at",
+            "added": 1.03,
+            "updated": 1.03
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Navigation Tools",
+    "slides":
+    [
+      {
+        "title": "Frame Selected Bounds",
+        "image": "Frame Selected Bounds.png",
+        "help": "frame-selected-bounds",
+        "added": 2.02,
+        "updated": 2.02
+      },
+      {
+        "title": "Jump To Point",
+        "image": "Jump To Point.png",
+        "help": "jump-to-point",
+        "added": 2.02,
+        "updated": 2.02
+      },
+      {
+        "title": "Quick Preview",
+        "image": "Quick Preview.png",
+        "help": "quick-preview",
+        "added": 1.0,
+        "updated": 1.0
+      },
+      {
+        "title": "View Gallery",
+        "image": "View Gallery.png",
+        "help": "view-gallery",
+        "added": 1.03,
+        "updated": 1.03,
+        "slides":
+        [
+          {
+            "title": "View State for Selection",
+            "image": "View State for Selection.png",
+            "help": "view-state-for-selection",
+            "added": 1.12,
+            "updated": 1.12
+          },
+          {
+            "title": "Views And Cameras Action",
+            "image": "Views And Cameras Action.png",
+            "help": "views-and-cameras",
+            "added": 1.0,
+            "updated": 1.0
+          },
+          {
+            "title": "View State In Scene View",
+            "image": "View State In Scene View.png",
+            "help": "view-state-in-scene-view",
+            "added": 2.03,
+            "updated": 2.03
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "GameObject Tools",
+    "slides":
+    [
+      {
+        "title": "Add Component by Shortcut",
+        "image": "Add Component by Shortcut.png",
+        "help": "add-component-by-shortcut",
+        "added": 1.0,
+        "updated": 1.0
+      },
+      {
+        "title": "Custom Pivot Rotation Tool",
+        "image": "Custom Pivot Rotation Tool.png",
+        "help": "custom-pivot-rotation-tool",
+        "added": 3.11,
+        "updated": 3.11
+      },
+      {
+        "title": "Drop To Floor",
+        "image": "Drop To Floor.png",
+        "help": "drop-to-floor",
+        "added": 2.01,
+        "updated": 2.01
+      },
+      {
+        "title": "Duplicate Tool",
+        "image": "Duplicate Tool.png",
+        "help": "duplicate-tool",
+        "added": 1.11,
+        "updated": 1.11
+      },
+      {
+        "title": "Group and Ungroup",
+        "image": "Group and Ungroup.png",
+        "help": "group-gameobjects",
+        "added": 1.07,
+        "updated": 1.07
+      },
+      {
+        "title": "Missing Script Fixer",
+        "image": "Missing Script Fixer.png",
+        "help": "missing-script-fixer",
+        "added": 2.10,
+        "updated": 2.10
+      },
+      {
+        "title": "Quick Replace",
+        "image": "Quick Replace.png",
+        "help": "replace-gameobjects",
+        "added": 1.08,
+        "updated": 1.08
+      },
+      {
+        "title": "Pivot Tool",
+        "image": "Pivot Tool.png",
+        "help": "pivot-tool",
+        "added": 2.10,
+        "updated": 3.02
+      },
+      {
+        "title": "Rename by Shortcut",
+        "image": "Rename.png",
+        "help": "rename-by-shortcut",
+        "added": 1.08,
+        "updated": 1.08
+      },
+      {
+        "title": "Rotate by Shortcut",
+        "image": "Rotate By Shortcut.png",
+        "help": "rotate-by-shortcut",
+        "added": 2.04,
+        "updated": 2.04
+      },
+      {
+        "title": "Selection History",
+        "image": "Selection History.png",
+        "help": "selection-history",
+        "added": 1.10,
+        "updated": 1.10
+      }
+    ]
+  },
+  {
+    "title": "Inspector Tools",
+    "slides":
+    [
+      {
+        "title": "Align and Distribute",
+        "image": "Component Header - Align and Distribute.png",
+        "help": "align-and-distribute",
+        "added": 3.04,
+        "updated": 3.04
+      },
+      {
+        "title": "Component To JSON",
+        "image": "Component To JSON.png",
+        "help": "component-to-json",
+        "added": 3.1,
+        "updated": 3.1
+      },
+      {
+        "title": "Detect Bounds of Box Collider",
+        "image": "Detect Bounds of Box Collider.png",
+        "help": "detect-bounds-of-box-collider",
+        "added": 3.02,
+        "updated": 3.02
+      },
+      {
+        "title": "Drag from Object Fields",
+        "image": "Drag From Object Fields.png",
+        "help": "drag-from-object-fields",
+        "added": 2.08,
+        "updated": 2.08
+      },
+      {
+        "title": "Empty Inspector",
+        "image": "Empty Inspector.png",
+        "help": "empty-inspector",
+        "added": 3.02,
+        "updated": 3.02
+      },
+      {
+        "title": "Inspector Bar",
+        "image": "Inspector Bar.png",
+        "help": "inspector-bar",
+        "added": 2.06,
+        "updated": 2.06
+      },
+      {
+        "title": "Long Text Fields",
+        "image": "Long Text Fields.png",
+        "help": "long-text-fields",
+        "added": 3.05,
+        "updated": 3.05
+      },
+      {
+        "title": "Move Component Above and Below",
+        "image": "Move Component Above and Below.png",
+        "help": "move-component-above--below-other-component",
+        "added": 4.01,
+        "updated": 4.01
+      },
+      {
+        "title": "Nested Editors",
+        "image": "Nested Editors.png",
+        "help": "nested-editors",
+        "added": 2.08,
+        "updated": 2.08
+      },
+      {
+        "title": "Notes",
+        "image": "Notes.png",
+        "help": "notes",
+        "added": 3.08,
+        "updated": 3.08,
+        "slides":
+        [
+            {
+                "title": "Note Manager",
+                "image": "Note Manager.png",
+                "help": "note-manager",
+                "added": 3.11,
+                "updated": 3.11
+            }
+        ]
+      },
+      {
+        "title": "Object Field Selector",
+        "image": "Object Field Selector.png",
+        "help": "object-field-selector",
+        "added": 2.11,
+        "updated": 2.11
+      },
+      {
+        "title": "Play Clips in Animator",
+        "image": "Play Clips In Animator.png",
+        "help": "play-clips-in-animator",
+        "added": 3.02,
+        "updated": 3.02
+      },
+      {
+        "title": "Saving Components at Runtime",
+        "image": "Saving Components at Runtime.png",
+        "help": "saving-components-at-runtime",
+        "added": 3.01,
+        "updated": 3.01,
+        "slides":
+        [
+          {
+            "title": "Saving Single Field",
+            "image": "Saving Single Field.png",
+            "help": "saving-single-field",
+            "added": 3.04,
+            "updated": 3.04
+          }
+        ]
+      },
+      {
+        "title": "Search By Serialized Fields",
+        "image": "Search By Serialized Fields.png",
+        "help": "search-by-serialized-fields",
+        "added": 3.1,
+        "updated": 3.1
+      },
+      {
+        "title": "Transform Align And Distribute",
+        "image": "Transform Align Distribute.png",
+        "help": "align-and-distribute-in-transform-editor",
+        "added": 3.12,
+        "updated": 3.12
+      },
+      {
+        "title": "Transform in World Space",
+        "image": "Transform in World Space.png",
+        "help": "transform-in-world-space",
+        "added": 3.02,
+        "updated": 3.02
+      }
+    ]
+  },
+  {
+    "title": "Hierarchy Tools",
+    "slides":
+    [
+      {
+        "title": "Backgrounds",
+        "image": "Hierarchy Backgrounds.png",
+        "help": "backgrounds",
+        "added": 2.09,
+        "updated": 2.09
+      },
+      {
+        "title": "Best Icons For GameObject",
+        "image": "Best Icons For GameObject.png",
+        "help": "best-icons-for-gameobject",
+        "added": 2.03,
+        "updated": 2.03
+      },
+      {
+        "title": "Camera Align With",
+        "image": "Camera Align With.png",
+        "help": "camera-align-with",
+        "added": 3.13,
+        "updated": 3.13
+      },
+      {
+        "title": "Components In Hierarchy",
+        "image": "Hierarchy Icons.png",
+        "help": "components-in-hierarchy",
+        "added": 1.10,
+        "updated": 1.10
+      },
+      {
+        "title": "Create GameObject By Drop Script",
+        "image": "Create GameObject By Drop Script.png",
+        "help": "create-gameobject-by-drop-script",
+        "added": 4.02,
+        "updated": 4.02
+      },
+      {
+        "title": "Enable / Disable GameObject",
+        "image": "Hierachy Enable Disable.png",
+        "help": "enabledisable-gameobjects",
+        "added": 2.05,
+        "updated": 2.05
+      },
+      {
+        "title": "Errors and Exceptions",
+        "image": "Hierarchy Errors.png",
+        "help": "display-errors-and-exceptions",
+        "added": 1.12,
+        "updated": 1.12
+      },
+      {
+        "title": "Filter By Type",
+        "image": "Hierarchy Type Filter.png",
+        "help": "filter-by-type",
+        "added": 3.0,
+        "updated": 3.0
+      },
+      {
+        "title": "Headers",
+        "image": "Hierarchy Header.png",
+        "help": "headers",
+        "added": 2.06,
+        "updated": 2.06
+      },
+      {
+        "title": "Number Of Children",
+        "image": "Number Of Children.png",
+        "help": "tree",
+        "added": 3.13,
+        "updated": 3.13
+      },
+      {
+        "title": "Parent GameObject Name",
+        "image": "Parent GameObject Name.png",
+        "help": "tree",
+        "added": 3.13,
+        "updated": 3.13
+      },
+      {
+        "title": "Row Settings",
+        "image": "Hierarchy Icon Selector.png",
+        "help": "row-settings",
+        "added": 2.06,
+        "updated": 2.06
+      },
+      {
+        "title": "Solo Pickability",
+        "image": "Hierarchy Solo Pickability.png",
+        "help": "solo-pickability",
+        "added": 4.01,
+        "updated": 4.01
+      },
+      {
+        "title": "Solo Visibility",
+        "image": "Hierarchy Solo Visibility.png",
+        "help": "solo-visibility",
+        "added": 2.05,
+        "updated": 2.05
+      },
+      {
+        "title": "Sort Child GameObjects",
+        "image": "Sort GameObjects.png",
+        "help": "sort-child-gameobjects",
+        "added": 3.12,
+        "updated": 3.12
+      },
+      {
+        "title": "Tree",
+        "image": "Hierarchy Tree.png",
+        "help": "tree",
+        "added": 2.09,
+        "updated": 2.09
+      }
+    ]
+  },
+  {
+    "title": "Project Tools",
+    "slides":
+    [
+      {
+        "title": "Create Custom Editor For MonoBehaviour",
+        "image": "Create Custom Editor For MonoBehaviour.png",
+        "help": "create-custom-editor-for-monobehaviour",
+        "added": 3.14,
+        "updated": 3.14
+      },
+      {
+        "title": "Create Folder",
+        "image": "Project Create Folder.png",
+        "help": "create-folder",
+        "added": 3.08,
+        "updated": 3.08
+      },
+      {
+        "title": "Create Material",
+        "image": "Project Create Material.png",
+        "help": "create-material",
+        "added": 3.09,
+        "updated": 3.09
+      },
+      {
+        "title": "Create Material From Texture",
+        "image": "Create Material From Texture.png",
+        "help": "create-material-from-texture",
+        "added": 3.13,
+        "updated": 3.13
+      },
+      {
+        "title": "Create Script",
+        "image": "Project Create Scripts.png",
+        "help": "create-script",
+        "added": 3.09,
+        "updated": 3.09
+      },
+      {
+        "title": "Create Shader",
+        "image": "Create Shader.png",
+        "help": "create-shader",
+        "added": 4.01,
+        "updated": 4.01
+      },
+      {
+        "title": "File Extensions",
+        "image": "File Extensions.png",
+        "help": "file-extensions",
+        "added": 3.14,
+        "updated": 3.14
+      },
+      {
+        "title": "Folder Icons",
+        "image": "Project Folder Icons.png",
+        "help": "folder-icons",
+        "added": 3.09,
+        "updated": 3.09
+      },
+      {
+        "title": "Play AudioClip",
+        "image": "Play AudioClip.png",
+        "help": "play-audioclip",
+        "added": 3.12,
+        "updated": 3.12
+      }
+    ]
+  },
+  {
+    "title": "Interacting with Windows",
+    "slides":
+    [
+      {
+        "title": "Favorite Windows",
+        "image": "Favorite Windows.png",
+        "help": "favorite-windows-2",
+        "added": 1.12,
+        "updated": 1.12
+      },
+      {
+        "title": "Mini Layouts",
+        "image": "Mini Layouts.png",
+        "help": "mini-layouts",
+        "added": 3.15,
+        "updated": 3.15
+      },
+      {
+        "title": "Switch Between Scene and Game Views",
+        "image": "Switcher.png",
+        "help": "switch-between-scene-and-game-views",
+        "added": 1.0,
+        "updated": 1.0
+      }
+    ]
+  },
+  {
+    "title": "Behavior Improvements",
+    "slides":
+    [
+      {
+        "title": "Change Value of Number Fields Using Arrow",
+        "image": "Change Value of Numeric Fields.png",
+        "help": "change-value-of-numeric-fields",
+        "added": 2.08,
+        "updated": 2.08
+      },
+      {
+        "title": "Collapse Children in Tree View",
+        "image": "Collapse Children In TreeView.png",
+        "help": "collapse-children-in-tree-view",
+        "added": 3.12,
+        "updated": 3.12
+      },
+      {
+        "title": "Curve Editor Improvement",
+        "image": "Curve Editor Improvement.png",
+        "help": "list-of-values-in-curve-editor",
+        "added": 3.05,
+        "updated": 3.05
+      },
+      {
+        "title": "Custom Tool Switcher",
+        "image": "Custom Tool Switcher.png",
+        "help": "custom-tool-switcher",
+        "added": 2.10,
+        "updated": 3.11
+      },
+      {
+        "title": "Drag And Drop from Project to Canvas",
+        "image": "Drag and Drop to Canvas.png",
+        "help": "drag-and-drop-from-project-to-canvas",
+        "added": 1.01,
+        "updated": 1.01
+      },
+      {
+        "title": "Drag And Drop to Tab",
+        "image": "Drag and Drop to Tab.png",
+        "help": "drag-and-drop-to-tab",
+        "added": 4.00,
+        "updated": 4.00
+      },
+      {
+        "title": "Enum Field Search",
+        "image": "Enum Field Search.png",
+        "help": "enum-field-search",
+        "added": 2.11,
+        "updated": 2.11
+      }
+    ]
+  },
+  {
+    "title": "Integration",
+    "slides":
+    [
+      {
+        "title": "Real World Terrain",
+        "image": "Real World Terrain Extra.png",
+        "help": "real-world-terrain-1",
+        "added": 1.06,
+        "updated": 1.06
+      }
+    ]
+  }
+]

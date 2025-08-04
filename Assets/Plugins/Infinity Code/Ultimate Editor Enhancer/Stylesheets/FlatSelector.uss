@@ -1,0 +1,36 @@
+.flatselector {
+    padding-bottom: 2px;
+    padding-left: 2px;
+    padding-right: 2px;
+    padding-top: 2px;
+    border-bottom-color: gray;
+    border-bottom-width: 1px;
+    border-left-color: gray;
+    border-left-width: 1px;
+    border-right-color: gray;
+    border-right-width: 1px;
+    border-top-color: gray;
+    border-top-width: 1px;
+}
+
+.flatselector-item {
+    flex-direction: row;
+}
+
+.flatselector-item-image {
+    width: 12px;
+    height: 12px;
+    margin-top: 1px;
+    margin-right: 5px;
+}
+
+.flatselector-listview {
+    flex-grow: 1;
+}
+
+.flatselector-separator {
+	height: 1px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+    background-color: gray;
+}

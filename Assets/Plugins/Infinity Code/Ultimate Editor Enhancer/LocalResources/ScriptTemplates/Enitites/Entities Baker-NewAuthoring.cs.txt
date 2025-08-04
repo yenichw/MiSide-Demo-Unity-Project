@@ -1,0 +1,15 @@
+using Unity.Entities;
+using UnityEngine;
+
+    #ROOTNAMESPACEBEGIN#
+public class #SCRIPTNAME# : MonoBehaviour
+{
+    public class Baker : Baker<#SCRIPTNAME#>
+    {
+        public override void Bake(#SCRIPTNAME# authoring)
+        {
+        
+        }
+    }
+}
+#ROOTNAMESPACEEND# 

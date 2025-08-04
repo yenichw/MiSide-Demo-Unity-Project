@@ -1,0 +1,343 @@
+Mita? // Player
+A, uyandın demek? // Mita
+Ne ara buraya geldin? // Player
+Yanımdaydın. // Player
+// Mita
+Hayır.
+Aynanın karşısında dondun.
+Ben de çıktım.
+Peki ya odalara ne oldu? // Player
+// Mita
+Yeniden düzenledim
+Sana tanıdık gelsin diye
+Şey,
+Hizada değiller ama
+Olmaları gerektiği gibiler.
+// Player
+Yapmasaydın keşke.
+Alışmıştım yani.
+Bence böyle daha rahat hissedeceksin. // Mita
+// Mita card game
+Tamam...
+Oynamaya başlayalım mı?
+Hızlıca anlatıyorum.
+Şu yuvarlak şey saldırı türünü gösteriyor.
+"Kalp", örneğin.
+Kartları atıyoruz.
+Senin kartında
+Benimkinden
+Daha fazla kalp varsa
+Sen kazanırsın.
+Al kartlarını.
+Ben de alim.
+Vay be
+Kartlarım güzel
+Önce ben.
+
+
+
+
+
+
+
+
+
+Şimdi sen.
+Senin sıran.
+Evvvet.
+Senin sıran.
+
+Kalp sırası
+Saldırı sırası
+Savunma sırası
+
+
+Kaptın bu işi!
+Kazandın!
+Kazanıyorsun.
+Ne cürret..
+
+Koydum.
+Kazandım!
+Ağlama, oyna!
+Hop, yedim.
+
+Berabere
+Ne oraya ne buraya
+Geri de değil ileri de değil!
+Kanka, iki kart da aynı...
+
+
+
+
+
+
+
+
+
+
+
+// Player -  Game is interrupted
+Şurdan gelen ses nedir?
+Dolaptan geliyor.
+// Mita
+Ses mi?
+Ne sesi?
+Ses duymuyorum ben.
+Ne duyduğunu söyle.
+// Player
+Tıklatma, Sanki biri varmış gibi...
+// Mita
+Ama
+Kimse yok
+// Player
+Kontrol etmek istiyorum
+Çok garip
+// Mita
+Neden...
+Yine...
+
+
+
+
+
+
+// Mita
+N'apıyorsun!?
+Orada...
+İç çamaşırlarım var.
+// Player
+Birşey mi saklıyorsun?
+// Mita
+Niye bana güvenmiyorsun?
+Neyi yanlış yapıyorum?
+Sadece
+Benimle olmanı istedim
+// Player
+Söz verirdim ama sonrasında ne olacak?
+// Mita
+Dolaba niye bu kadar taktın ki?
+// Player
+Seslerin kaynağını merak ediyorum sadece!
+// Mita
+Sadece....
+Bu dünya...
+Sadece bu dört oda
+Sana yetmez mi?
+Benimle kalmayı denesen?
+
+
+// Mita (No)
+Anladım.
+Yine....
+Orada ne olduğunu bilmek istiyorsan,
+Öğreneceksin
+Hemen
+
+// room is loading
+Yükleniyor...
+// Player
+He...?
+// Mita
+Arada oluyor.
+Odanın yüklenecek zamanı olmadığı zaman...
+Biraz bekle.
+// Player
+Garip.
+Birinin telefonunda mıyız?
+Ve telefonun yükleme hızı yavaş sanırsam.
+// Mita
+Hayır
+Sadece... Her şey mükemmel değil.
+Bu dünyadaki...
+Ve "hayatta" olmamızın sebebi
+Bu dünyanın çekideği.
+// Player
+Çekirdek?
+// Mita
+Tipik, değil mi?
+
+
+// Mita
+Konsolla
+Oynayabiliriz.
+Ya da kartlarla.
+Sen seç.
+
+
+
+// Mita play fight
+Savaşalım mı?
+Dört kere
+Yenmen lazım.
+Başlayalım...
+Sanırım sadece
+Sana çok yüklenmeyeceğim.
+
++ 1
+Aferin.
+Hazır ol!
++ 2
+Vay!
+Peki,
+Şimdi ciddileşiyorum.
++ 3
+Ah, sen var ya!
+Peki şimdi
+Yenebilecek misin?
++ 4
+Sen
+Var ya
+İnanılmazsın. Parmakların çok iyi!
+
+- 1
+Sorunun nedir?
+Hiç eğlenceli değil.
+- 2
+Yani.
+Bedel ödendi. Kader böyleymiş.
+- 3
+Şey,
+Oyuna odaklan yoksa sonsuza kadar kaybedeceksin!
+- 4
+Cidden mi?
+Bütün beyaz sıvını dışarı çıkarttım.
+Biraz daha denemen lazım.
+Bende işe yarıyor.
+
+
+Peki.
+Kartlarla oynayalım mı?
+Odamda.
+
+
+
+// Player [ERROR]
+Bu ne
+Şey nerde...
+// Mita
+Oops...
+Paardonnn.
+Bi dosya indirdim
+İnternetten.
+Dışarsının
+Güzel olmasını istiyordum
+Ama anlaşılıyor ki
+Dosyanın formatı yanlışmış...
+Sonra düzeltirim.
+// Player
+Bu yüzden mi dışarıya çıkamıyoruz?
+Evet, bu yüzden. // Mita
+// Mita shy
+Hey..
+Sorun nedir?
+Bir şey mi istiyorsun?
+
+
+
+// Player -  wall clock
+Bu saat, 
+Hangi zamanı gösteriyor?
+Oyun içi zamanı mı?
+Yoksa telefonumla senkronize mi?
+// Mita
+Hem evet hem hayır.
+Gerçekte
+Saatin kaç olduğu fark etmez
+Gece olsa bile
+Benim evimde...
+Benim gibi güçlü kızlar bilir
+Yorulmak yok!
+Eğer istersem sonsuz bahar olur!
+ve sonsuz öğlen!
+// Player
+İlgi çekici...
+Ve korkutucu, aynı anda.
+Tek bir ana sıkışıp kalmak...
+
+
+
+// Player - Mita's picture
+Havalı fotoğraf
+Sanırım sensin.
+// Mita
+Aynen.
+Ben de seviyorum.
+// Player
+Kim çekti bunu?
+Başkaları da mı var burada?
+// Mita
+Gibi...
+Seni tanıştırıcam.
+Ama henüz zamanımız yok
+Misafirlik için.
+
+
+
+
+// Player - Portal
+Portala ne oldu?
+Ya da her ne diyorsan.
+// Mita
+Benim
+Büyülü bir şıklatmamla.
+Yerini değiştirdim.
+Başka bir yerde.
+Şu anda portala ihtiyacımız yok.
+Bizi rahatsız ederdi.
+
+
+// Player - bedroom mirror
+Aynaya bakmak çok garip.
+Yansımam yok.
+// Mita
+Yansımaları açabilirim.
+İstersen tabii...
+Ama gerekli mi?
+// Player
+E yani..
+Yoksa bişeyleri mi etkiliyor?
+// Mita
+Evet
+Yavaş hareket ederiz.
+FPS'i düşük bir çizgi film gibi olur.
+Sen bile fark edersin.
+// Player
+Anladım.
+Kalsın o zaman.
+// Mita
+[player], Açabilirim.
+Ama yine de güzel duruyor.
+Yansıma olmasa bile.
+// Player
+Haklısın.
+Güzel duruyor.
+Yansıma olmasa bile.
+
+
+
+// Player - Blue sneakers
+Bunlar senin mi?
+// Mita
+Hayır, senin.
+Hatırlamıyor musun?
+// Player
+Benim böyle bir ayakkabım yok ki.
+// Mita
+Artık var.
+Yürüyüşe çıktığımızda,
+Giyersin.
+// Player
+Peki ya kıyafetler?
+Bu dünyaya geldiğimde
+Sadece üzerimde hali hazırda olanlar var.
+Başka nerden bulucam?
+// Mita
+Sorun değil.
+Ne giydiğini gördüm.
+Ne tür kıyafetler giydiğini biliyorum.
+Sorun değil ben sana alıcam.
+Ama sonra.
+Söz.
+// Player
+He, tamam.

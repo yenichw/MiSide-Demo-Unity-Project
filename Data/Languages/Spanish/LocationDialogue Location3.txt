@@ -1,0 +1,505 @@
+// Mita
+¡Hola, [player]!
+Finalmente nos conocemos
+¡Estoy feliz por ello!
+Sé que debes tener preguntas...
+Bueno, como puedes ver
+Hice este este dispositivo especial
+Para traerte a mí lo más rápido posible
+Pero por alguna razón, terminaste en una versión equivocada del juego
+Que yo...
+Oh, ¡Es una larga historia!
+De todas formas, ¡Qué bueno verte!
+
+
+
+
+
+
+
+// Player quests
+¿Eres Mita?
+¿Qué hago si quiero regresar?
+¿Como entré al juego?
+Nada
+// Mita answer
+Bueno, soy yo
+¿Tú eres [player]?
+
+¿Ya quieres regresar?
+Bueno, supongo que eso puede arreglarse, pero, ¿Qué hay de mí?
+Estemos juntos...
+
+Déjame decirte...
+¡Y aquí estás!
+¿Entiendes?
+No lo entiendo // Player
+Bueno, está bien
+Lo que importa es que ahora estamos juntos
+
+¿Tienes hambre?
+Vamos a cocinar juntos, ¿Quieres?
+Aquí
+Ayúdame con la zanahoria
+// Player
+¿De dónde salieron los vegetales?
+Antes no había nada ahí
+// Mita
+[player], estamos en el juego, ¿Recuerdas?
+Vamos, ayúdame
+
+Gracias
+¿Podrías traer las tijeras?
+Están en el baño
+
+
+
+
+
+
+// Kitchen
+// Mita
+¿Te gustaría algo de salsa?
+// Player
+No
+// Mita
+Qué mal...
+Con salsa, la comida sabe mejor
+
+
+// Player
+Gracias
+// Mita
+¿Te comiste todo?
+Y mi porción parece
+Interminable
+
+
+
+
+// Help
+// Mita
+¿Qué ha pasado?
+Dime que ves y sientes
+// Player
+Mi corazón cosquillea
+Hay un ruido en mis ojos
+// Mita
+Bien
+Sé qué es lo que te pasa
+¿Puedes levantarte?
+
+
+
+
+// Bathroom
+// Player
+¿Qué es esto?
+// Mita
+Píldoras
+Te sentirás mejor casi inmediatamente
+Párate frente al espejo
+
+Toma las píldoras
+Estoy esperando
+
+
+
+
+
+// Black room
+// Mita
+¿Como estás?
+¿Te sientes mejor?
+// Player
+Sí
+¿Pero cómo actuó tan rápido?
+// Mita
+[player], estamos en el juego
+Y todo es muy simple
+Haces el menor esfuerzo
+Pero el resultado es generalmente mucho más voluminoso
+Es una condición del juego
+"Simpleza"
+// Player
+¿Por ejemplo?
+// Mita
+Zanahoria...
+Cortas una
+Pero tres estarán listas a la vez
+// Player
+Mira, todo es muy repentino.
+Y esta situación realmente me asusta...
+
+
+// Mita
+¿Pasa algo malo?
+// player
+Encontré algunos cartuchos en la ventilación
+Tenían pegatinas con nombres en ellos
+¿Qué son?
+// Mita
+¿Cartuchos?
+¿De qué tipo?
+Vamos a averiguarlo juntos
+Pero un poco más tarde
+Vamos a comer primero
+Dame las tijeras
+
+
+
+// Addon ===========================
+¿Un anillo?
+// Player - mirror
+¿Por qué no hay reflejo en el espejo?
+// Mita
+Oh, cierto
+Olvidé encender los reflejos...
+Aquí vamos
+Ahora hay un reflejo
+Oh, sabes
+Ni siquiera sabía que era
+No estaba en mi mundo
+Hasta cierta actualización
+¿Hay muchos reflejos
+en tu mundo?
+// Player
+Bueno, sí
+
+
+
+// Mita
+Recuerdas
+¿Que trajiste tres cosas
+a este escáner?
+Así que...
+Esas cosas están relacionadas con
+Ésta versión del mundo
+Y ahora estás aquí
+
+
+
+// Player - Mobile TV
+Esa es la TV 
+Que compré
+// Mita
+Síp
+// Player
+Dijiste que
+Estaba rota
+// Mita
+Bueno, quería hacerte
+¡Una sorpresa!
+Para traerte aquí
+Necesitaba la pequeña TV para ello
+Y ahora muestra la información
+Y por si acaso, sí...
+Soy un poco ingeniera
+
+
+
+// Player - School uniform
+Eso es
+¿Un uniforme escolar?
+¿Por qué lo necesitas?
+¿Vas a la escuela?
+// Mita
+¿Escuela?
+No, no lo necesito
+Pero este uniforme escolar es lindo
+Y hará que
+Me vea linda
+
+
+
+
+
+// Player - Computer
+¿Esta computadora funciona?
+O ¿solo es decorativa?
+// Mita
+Claro que funciona
+Todo aquí 
+Funciona
+// Player
+En mi mundo
+Usualmente estoy en mi computadora...
+Trabajando
+// Mita
+Lo sé
+Y por ese trabajo
+Dedicas muy poca atención
+A mí
+// Player
+Bueno, necesito algo con que vivir
+¿Y cómo lo sabes?
+// Mita
+La cámara del teléfono algunas veces se encendía
+Lo siento
+Pero estaba espiando >.<
+// Player
+Sabes, eso está un poco mal
+Bueno, da igual
+
+
+// Player - umbrella
+Sin importar las veces que jugué antes
+Nunca llovió
+¿Por qué necesitas un paraguas?
+// Mita
+La lluvia es muy rara
+No la has visto aún
+Quizás algún día la veas
+Y necesites un paraguas
+Quién sabe
+
+
+
+// Player - Electric panel
+¿Por qué hay una caja eléctrica aquí?
+Si estamos en el juego
+¿Por qué la necesitamos?
+// Mita
+Primero que nada
+Estamos en el juego, ¿Cierto?
+Así que es inútil
+Preguntar por qué
+Pero sí reinicia 
+La electricidad, de verdad
+Todo es justo como
+Tu mundo
+
+// Player - Exit door
+¿Podemos salir?
+// Mita
+Oops...
+Aún no
+Hagámoslo después
+Estemos aquí primero
+En casa
+
+
+
+// Player - Books
+Hay muchos libros
+¿Los lees?
+// Mita
+Leo todos los libros
+Siempre he estado sola aquí
+He estado taaaan aburrida.
+
+
+
+// Player - TV in the kitchen
+¿Por qué necesitas una segunda TV?
+Oh, y también es vieja
+// Mita
+¿No te gusta?
+Puedo quitarla de aquí
+Pero por el contrario...
+Es solo por belleza
+Decora la cocina
+¡También es una TV funcional!
+Puedes ver
+“Looney Tunes”
+
+// Player - Smartphone
+Mi teléfono
+No estaba en mi bolsillo
+¿Cómo terminó aquí?
+// Mita
+Bueno, eso no importa
+Espera, tengo una idea
+¿Listo para una selfie?
+Mira eso
+¡Qué gran foto!
+Guarda esta como recuerdo
+// Player
+Tengo una pregunta
+Si inicio el juego
+En mi teléfono ahora
+¿Te veré ahí?
+// Mita
+Nadie estará ahí
+
+Jugo Genial
+¡¡¡JUGO FUERTE!!!
+// Player - TV
+¿Cuántos canales de TV
+hay aquí?
+// Mita
+Bueno, no es una televisión con antena o por cable
+Es el internet
+Así que, cualquier cosa que puedas ver en internet
+Está disponible aquí...
+Espera
+Oh
+¿Qué es eso?
+¿Gatitos?
+Oh, mira
+Sabes...
+Espera
+¿Te gustaría algo de jugo?
+// Player
+Comercial raro
+¿El Jugo está muerto?
+// Mita
+Así es, 
+Y el "jugo" salió del Jugo
+
+
+// Player
+Mm, sabe a...
+Es un poco sabroso
+Y un poco insípido
+No puedo explicarlo
+// Mita
+Bueno, okey-dokey
+
+
+
+// Mita shy
+¿Qué estás haciendo?
+Detente
+Me estás avergonzando
+
+
+
+// Player - Anita model
+Creo que, la conozco
+¿Es Anita?
+¿Del juego "Umfend"?
+// Mita
+Sí
+// Player
+Recuerdo que la historia
+En el juego no está terminada
+// Mita
+Cierto...
+Bueno, el bajo nivel de experiencia de los desarrolladores
+Mostró un triste resultado
+// Player
+Se ve genial
+
+¿Mita? // Player
+¿Qué está pasando? // Player
+// Mita kitchen
+Podemos hablar 
+Antes de comer
+// Quests
+Linda casa, acogedora // Quest 1
+¿Cuándo puedo regresar a casa? // Quest 2
+Todo se ve como un sueño // Quest 3
+¿Por qué hay luz blanca fuera de las ventanas? // Quest 4
+¿Por qué necesitas tijeras cuando tienes un cuchillo? // Quest 5
+Bon appetit // Continue
+// Finish Mita
+Que lo disfrutes
+
+
+// Quest 1
+Por supuesto
+Y puedes quedarte aquí
+No me molesta
+Y estoy muy
+¡a favor de ello!
+
+
+
+
+
+
+
+
+
+
+
+// Quest 2
+// Mita
+¿Estás nostálgico?
+¿Por qué?
+Es tan cálido
+Y lindo aquí
+Y estoy yo
+// Player
+No, no
+Estoy feliz de estar contigo
+Pero me preocupa
+Que haya olvidado hacer algo en... casa
+De repente estaba aquí
+Y no estaba listo para esto 
+Para nada
+// Mita
+Lo siento, no lo pensé
+// Quest 3
+// Mita 
+¿Intentas huir
+y olvidar todo?
+// player
+No, 
+Solo pensé que todo es muy irreal
+Y colorido
+Pero tú
+Pareces bastante real
+// Mita 
+¿Solo lo parezco?
+Pero yo soy real
+Tontito
+
+
+
+// Quest 4
+// Mita
+Es una característica de
+Mi mundo
+Te parecerá extraño
+Pero no verás cosas
+Que están distantes
+// Player
+Ni siquiera pienso que sea perceptible
+Se ve estético
+// Mita
+Síp)
+Está hecho para evitar Lag
+// Player
+¿Lag?
+// Mita
+Uh-huh, hay bugs también
+Espero que no te encuentres con esos
+// Quest 5
+// Mita
+¿Tijeras y cuchillo?
+Puedo abrir la salsa con un cuchillo también, por supuesto
+Pero quería
+Tener todo listo
+Para tu regreso
+Así no tendrías que ver las largas preparaciones
+¡Amo hacer sorpresas!
+Siiiiip
+
+
+
+
+
+
+
+
+
+
+
+// Glasses
+// Player
+¿Necesitas usar lentes?
+// Mita
+No
+Pero puedo usarlos
+Si lo deseas
+// Player
+Adelante
+No es necesario
+// Mita Y
+Aquí vamos
+Ahora voy a usar lentes todo el tiempo
+// Mita N
+Bueno
+Está bien

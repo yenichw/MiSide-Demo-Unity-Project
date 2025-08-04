@@ -1,0 +1,505 @@
+// Mita
+Salut, [player] !
+On se rencontre enfin :)
+J'en suis vraiment heureuse !
+Je sais que tu dois avoir des questions...
+Comme tu peux le voir
+J'ai fabriqué cet appareil spécial
+Pour t'ammener jusqu'à moi le plus tôt possible
+Mais pour une raison inconnue tu as atteris dans la mauvaise version du jeu
+Pour ça je...
+Oh, c'est une longue histoire !
+Enfin, contente de te rencontrer ! :)
+
+
+
+
+
+
+
+// Player quests
+Es-tu Mita ?
+Je dois faire quoi si je veux repartir ?
+Comment je me suis retrouvé dans le jeu ?
+Rien
+// Mita answer
+C'est bien moi :)
+Es-tu [player] ?
+
+Tu veux déjà repartir ?
+Je pense que ça devrait être possible, mais et moi alors ?
+Restons ensemble...
+
+Laisse-moi t'expliquer...
+Et maintenant tu es là !
+Compris ?
+Pas du tout // Player
+Bon, c'est pas grave
+Le principal c'est qu'on soit ensemble maintenant :)
+
+Tu as faim ?
+Cuisinons quelque chose ensemble, d'accord ?
+Là
+Aides-moi avec les carottes :)
+// Player
+D'où viennent les légumes ?
+je veux dire, juste à l'instant il n'y avait rien ici.
+// Mita
+[player], nous sommes dans le jeu, tu te souviens ? :)
+Allez, aides-moi :)
+
+Merci :)
+Tu pourrais aller chercher les ciseaux ?
+Ils sont dans la salle de bain
+
+
+
+
+
+
+// Kitchen
+// Mita
+Tu veux de la sauce ?
+// Player
+Non
+// Mita
+Dommage...
+Avec un peu de sauce la nourriture a meilleur goût :)
+
+
+// Player
+Merci
+// Mita
+Tu as pu tout finir ?
+Pour moi mon plat semble
+Sans fin :)
+
+
+
+
+// Help
+// Mita
+Qu'est-ce qu'il y a ?
+Dis-moi ce que tu vois et ressens
+// Player
+Mon coeur palpite
+Ma vue est complétement brouillée
+// Mita
+Ok
+Je sais ce qui ne va pas avec toi
+Tu peux marcher ?
+
+
+
+
+// Bathroom
+// Player
+Qu'est-ce que c'est ?
+// Mita
+Des pilules
+Tu te sentiras mieux presque instantanément
+Tiens-toi devant le miroir
+
+Prends les pilules
+J'attend
+
+
+
+
+
+// Black room
+// Mita
+Alors, comment ça va ?
+Tu te sens mieux ?
+// Player
+Oui
+Mais comment ça peut agir aussi vite ?
+// Mita
+[player], on est dans le jeu
+Et tout est très simple
+Tu fais le moindre effort
+Et le résultat est souvent bien plus important
+C'est un des principes d'un jeu
+"La simplicité"
+// Player
+Par exemple ?
+// Mita
+Les carottes...
+Tu en coupes une
+mais trois seront préparées d'un coup
+// Player
+Écoute, tout ça arrive si soudainement.
+Cette situation me fait vraiment peur...
+
+
+// Mita
+Quelque chose ne va pas ?
+// player
+J'ai trouvé des cartouches dans le conduit d'aération
+Elles avaient des étiquettes sur elles
+Qu'est-ce que c'est ?
+// Mita
+Des cartouches ?
+Quel genre ?
+On verra ça ensemble
+Mais un peu plus tard
+Commençons par manger :)
+Donnes-moi les ciseaux :)
+
+
+
+// Addon ===========================
+Un anneau ?
+// Player - mirror
+Pourquoi le miroir ne reflète rien ?
+// Mita
+Ah, ça
+J'ai oublié d'activer la réflexion...
+Et voila
+Maintenant il reflète quelque chose :)
+Oh, tu sais
+Je ne savais même pas ce que c'était
+Il n'y en avait pas dans mon monde
+Jusqu'à une certaine mise à jour :)
+Il y a tant de réflexions que ça
+Dans ton monde ?
+// Player
+Oui, évidemment
+
+
+
+// Mita
+Souviens-toi
+Tu as apporté trois choses
+Sur ce scanner ?
+Et bien...
+Ces choses sont en lien avec
+cette version de ce monde
+Et maintenant tu es ici :)
+
+
+
+// Player - Mobile TV
+C'est la télé
+que j'ai achetée
+// Mita
+Yep
+// Player
+Tu as dit
+Qu'elle était cassée
+// Mita
+Je voulais juste
+Te faire une surprise !
+Pour te faire venir ici :)
+J'avais besoin d'une petite télé pour ça
+Et maintenant elle affiche des informations
+Et au passage, oui...
+Je suis un peu ingénieur :)
+
+
+
+// Player - School uniform
+C'est
+Un uniforme scolaire ?
+Pourquoi tu en as besoin ?
+Tu vas à l'école ?
+// Mita
+L'école ?
+Non, je n'en ai pas besoin
+Mais je trouve cet uniform mignon
+Et en le portant
+Il me rend mignonne :)
+
+
+
+
+
+// Player - Computer
+Est-ce que cet ordinateur fonctionne ?
+Ou est-ce qu'il est décoratif ?
+// Mita
+Bien sûr qu'il fonctionne
+Tout ce qui est ici
+Fonctionne :)
+// Player
+Dans mon monde
+J'utilise souvent mon ordinateur...
+Pour travailler
+// Mita
+Je sais
+Et à cause de ce travail
+Tu as prêté si peu d'attention
+à mon égard
+// Player
+Disons que j'ai besoin de quoi vivre
+Et comment tu sais ça ?
+// Mita
+La caméra du téléphone s'allume parfois
+Désolé
+Mais j'ai jeté un oeil ><
+// Player
+Tu sais, c'est pas très bien de faire ça
+Enfin, c'est pas grave
+
+
+// Player - umbrella
+Quelque soit le nombre de fois que je jouais
+Il n'y a jamais eu de pluie au delà de la fenêtre
+Pourquoi aurais-tu besoin d'un parapluie ?
+// Mita
+Il ne pleut que très rarement
+Tu ne l'as pas encore vu
+Peut être qu'un jour ça finira par arriver
+Et tu pourras utiliser ce parapluie
+Qui sait :)
+
+
+
+// Player - Electric panel
+Pourquoi est-ce qu'il y a un boîtier électrique ici ?
+Si nous sommes dans un jeu
+A quoi ça peut servir ?
+// Mita
+Pour commencer
+On est dans le jeu, tu sais ?
+Donc c'est inutile
+De demander pourquoi
+Mais ça remet
+Le courant, vraiment
+Tout est comme dans
+Ton monde :)
+
+// Player - Exit door
+Est-ce qu'on peut sortir ?
+// Mita
+Oups...
+Pas encore
+Faisons ça plus tard
+Restons ici pour le moment
+À la maison
+
+
+
+// Player - Books
+Il y a tellement de livres
+Est-ce que tu les lis ?
+// Mita
+J'ai lu tous les livres
+J'ai toujours été seule ici
+Je m'ennuyais tellement.
+
+
+
+// Player - TV in the kitchen
+Pourquoi tu as besoin d'une seconde télé ?
+Ah, et celle-ci est vieille
+// Mita
+Tu ne l'aime pas ?
+Je peux l'enlever d'ici
+Mais sinon...
+C'est juste pour faire joli
+Ça décore la cuisine :)
+Et puis elle fonctionne !
+Tu peux regarder
+“Looney Tunes”
+
+// Player - Smartphone
+Mon téléphone
+Il avait disparu de ma poche
+Comment as t'il atterrit ici ?
+// Mita
+Ça n'a pas d'importance :)
+Attends, j'ai une idée
+Prêt pour prendre un selfie ?
+Regardes ça
+Quelle photo !
+Gardes-là en souvenir :)
+// Player
+J'ai une question
+Si je lance le jeu
+Sur mon téléphone maintenant
+Je t'y verrais ?
+// Mita
+Personne ne sera là
+
+Jus cool
+Jus BALÈZE !!!
+// Player - TV
+Combien de chaînes de télé
+Sont accessibles ici ?
+// Mita
+Hum, ce n'est pas une une télévision par satellite ou par câble
+Ça passe par Internet
+Donc tout ce que tu peux regarder sur Internet
+Est disponible ici...
+Attends
+Oh
+Qu'est-ce que c'est que ça ?
+Des chatons ?
+Oh, regardes
+Tu sais...
+Attends
+Tu veux du jus ?
+// Player
+Drôle de publicité
+Le Jus est mort ?
+// Mita
+C'est ça,
+Et le "jus" provient du Jus :)
+
+
+// Player
+Mm, le goût est...
+Assez délicieux
+Et à la fois sans saveur
+C'est difficile à expliquer
+// Mita
+Ah, d'accord
+
+
+
+// Mita shy
+Qu'est-ce que tu fais ?
+Arrêtes ça :)
+Tu me gênes
+
+
+
+// Player - Anita model
+Je pense que je la connais
+C'est Anita ?
+Dans le jeu "Umfend" ?
+// Mita
+Oui :)
+// Player
+Je me souviens que l'histoire
+Du jeu n'est pas terminée
+// Mita
+C'est ça...
+À cause de la faible expérience des développeurs
+Le résultat était décevant
+// Player
+Elle est jolie
+
+Mita ? // Player
+Qu'est-ce qu'il m'arrive ? // Player
+// Mita kitchen
+On peut discuter
+Avant de manger :)
+// Quests
+Jolie maison, confortable // Quest 1
+Quand est-ce que je pourrais rentrer ? // Quest 2
+Tout est comme dans un rêve // Quest 3
+Pourquoi ne peut on pas voir l'extérieur ? // Quest 4
+Pourquoi as-tu besoin de ciseaux si tu as déjà un couteau ? // Quest 5
+Bon appetit // Continue
+// Finish Mita
+Prends le temps d'apprécier ton repas :)
+
+
+// Quest 1
+Assurément
+Et tu peux rester ici
+Ça ne me dérange pas
+Et au contraire
+Je préfère ça !
+
+
+
+
+
+
+
+
+
+
+
+// Quest 2
+// Mita
+Tu as le mal du pays ?
+Pourquoi ?
+C'est si chaleureux
+Et agréable ici
+Et il y a moi :)
+// Player
+Non, non
+Je suis heureux de rester avec toi
+Mais je suis inquiet
+Que j'aurais pu oublier de faire quelque chose chez... moi
+Je suis soudainement ici
+Sans m'y être préparé
+Du tout
+// Mita
+Désolé, je n'y ai juste pas pensé
+// Quest 3
+// Mita
+Tu comptes t'enfuir
+Et tout oublier ?
+// player
+Non,
+Je me dis juste que tout semble tellement irréel
+Et coloré
+Mais tu
+Semble vraiment réelle
+// Mita
+Juste semble ? :)
+Mais je suis réelle
+Idiot
+
+
+
+// Quest 4
+// Mita
+C'est une fonction de
+Mon monde :)
+Ça peut te sembler étrange
+Mais tu ne verras pas
+Ce qui se trouve au loin
+// Player
+Je ne pense pas que ça se remarque tant que ça
+Ça rend bien
+// Mita
+Yup :)
+Ça permet d'éviter de lagger
+// Player
+Lagger ?
+// Mita
+Uh-huh, il y a des bugs
+J'espère que tu ne tomberas pas dessus :(
+// Quest 5
+// Mita
+Des ciseaux et un couteau ?
+Je peux aussi ouvrir le sachet avec un couteau bien sûr
+Mais je voulais
+Que tout soit prêt
+Pour ton retour :)
+De façon à ce que tu ne vois pas les préparatifs :)
+J'aime faire des surprises !
+Yeeeep :)
+
+
+
+
+
+
+
+
+
+
+
+// Glasses
+// Player
+Tu portes des lunettes ?
+// Mita
+Non
+Mais je peux les porter
+Si tu le souhaites ?
+// Player
+Vas-y
+Pas la peine
+// Mita Y
+Et voila :)
+Je les porteraient tout le temps maintenant :)
+// Mita N
+Ah
+D'accord

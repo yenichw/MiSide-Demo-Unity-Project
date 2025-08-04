@@ -1,0 +1,145 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bc9ade936dbe0845af3fcf3aee03466, type: 3}
+  m_Name: Window_Data
+  m_EditorClassIdentifier: 
+  color: {r: 0.103773594, g: 0.103773594, b: 0.103773594, a: 0.5058824}
+  backgroundAlpha: 0.85
+  boxAlpha: 0.74
+  hierarchyWindow:
+    searchList:
+    - mode: 0
+      condition: 0
+      text: cube
+      useSearch: 0
+      hasSearch: 1
+    showSearchNonFound: 1
+    search: 0
+    position: {x: 0.1495291, y: 0.04255021}
+    rect:
+      serializedVersion: 2
+      x: 270.04956
+      y: 34.46567
+      width: 423
+      height: 700
+    isDocked:
+      value: 0
+    isMinimized: 0
+  inspectorWindow:
+    searchList:
+    - mode: 0
+      condition: 0
+      text: drag
+      useSearch: 0
+      hasSearch: 1
+    showSearchNonFound: 1
+    search: 0
+    position: {x: 0.38374838, y: 0.04255021}
+    rect:
+      serializedVersion: 2
+      x: 693.04956
+      y: 34.46567
+      width: 655
+      height: 700
+    isDocked:
+      value: 1
+    isMinimized: 0
+  showTooltip: 1
+  selectionSphereRadius: 0.2
+  searchAssemblyPerFrame:
+    text: 4000
+    value: 4000
+  searchGameObjectsPerFrame:
+    text: 250
+    value: 250
+  searchInspectorPerFrame:
+    text: 2000
+    value: 2000
+  showChildCount:
+    value: 1
+  texToggleOn: {fileID: 2800000, guid: f0e841badbe81554bb62c1fdb2288337, type: 3}
+  texArrowFolded: {fileID: 2800000, guid: 143dbe5882887a1458b85e3f5298b323, type: 3}
+  texArrowUnfolded: {fileID: 2800000, guid: 3d4815b01ebae5648856f29513d972b1, type: 3}
+  texDot: {fileID: 2800000, guid: b7fd3fc2d507bfc4eb4a0ab798cf4f4a, type: 3}
+  texDot2: {fileID: 2800000, guid: 7118bb3148e07b443a84c63527d02cc8, type: 3}
+  texScene: {fileID: 2800000, guid: 24952491167dc4b4d818ffee1c19e7f3, type: 3}
+  texAssembly: {fileID: 2800000, guid: b5466b523e5b3ba4f97a2bda95ac3891, type: 3}
+  texMemory: {fileID: 2800000, guid: 499ec1111e0ad5d4a8e941d23fcfffb7, type: 3}
+  texHierarchy: {fileID: 2800000, guid: dc68b587d67de0645b41b7c66f452621, type: 3}
+  texInspector: {fileID: 2800000, guid: ada0aebdeea58c443a19727e058baa0e, type: 3}
+  texGameObject: {fileID: 2800000, guid: 348deaa9535e423438334ea61e9a5db9, type: 3}
+  texSearch: {fileID: 2800000, guid: 2feb0be2d05f5874a9de5e9eb7d198cd, type: 3}
+  texSettings: {fileID: 2800000, guid: c584b9aad1914524b9243cd273c1f019, type: 3}
+  texPause: {fileID: 2800000, guid: f0de4a7561c65164c891d7cc6e1ee115, type: 3}
+  texCamera: {fileID: 2800000, guid: 639632cebf0dbd64fbf0883d8bb5214e, type: 3}
+  texCameraFollow: {fileID: 2800000, guid: e469b65e2efb71a4e92ece9f4a2040b7, type: 3}
+  texHelp: {fileID: 2800000, guid: cf3cb7ea3e7273b48b38db096d145fbf, type: 3}
+  texPrefab: {fileID: 2800000, guid: bb4e505c9fffc9348a37f0a25e8f92ae, type: 3}
+  texSave: {fileID: 2800000, guid: a1249d9e2d7fca74aaaee1b75e1568c2, type: 3}
+  texLoad: {fileID: 2800000, guid: b57e078cc0731ce4c87fe72f95bc9198, type: 3}
+  texEdit: {fileID: 2800000, guid: 9cff1c15d6075074ea76782f53720f99, type: 3}
+  texAlphabeticSort: {fileID: 2800000, guid: 5add64e7698ab234e9be12020543c8a7, type: 3}
+  texCountSort: {fileID: 2800000, guid: f4a4f9c914beee4438b7e5dc98e051a2, type: 3}
+  texVisible: {fileID: 2800000, guid: ebe70e63f82494940986299659a0650e, type: 3}
+  texInvisible: {fileID: 2800000, guid: 127e4f45052ac5d4e8f9aa52ac50e4df, type: 3}
+  texDestroyed: {fileID: 2800000, guid: 9a96236e801aa5149ad5b7cf88337113, type: 3}
+  skin: {fileID: 11400000, guid: 469f4ffbc9967eb4d9d1d1795a36eaed, type: 2}
+  sourceSkin: {fileID: 11400000, guid: 8eab7f4c12542594890b04b74277f52c, type: 2}
+  componentIcons:
+    gameObjectIcon: {fileID: 2800000, guid: 8cc0fbaa7792dea4480fad75e18d92db, type: 3}
+    transformIcon: {fileID: 2800000, guid: 20e48fbcf11e15048a7b33aa580a662b, type: 3}
+    cameraIcon: {fileID: 2800000, guid: 9600331e50934db41a1da96125e0b619, type: 3}
+    csScriptIcon: {fileID: 2800000, guid: ae32691109b603541892c80e0b0a9049, type: 3}
+    audioListenerIcon: {fileID: 2800000, guid: d343cab7a49de0947af508882c800b00, type: 3}
+    audioSourceIcon: {fileID: 2800000, guid: 08aa24014d5a7904e9a023bdbb574d1f, type: 3}
+    rigidbodyIcon: {fileID: 2800000, guid: 904068e69650ee540a7392f94ef8ba6d, type: 3}
+    boxColliderIcon: {fileID: 2800000, guid: 9d90ae5963852344da7f49fc18182217, type: 3}
+    capsuleColliderIcon: {fileID: 2800000, guid: bd7ae30d7f2963541aaedfe315d9063e,
+      type: 3}
+    meshColliderIcon: {fileID: 2800000, guid: 027cf3f19c5ece448aa0bc60f94b29d0, type: 3}
+    sphereColliderIcon: {fileID: 2800000, guid: dd1d3dccb1f505c4f930a6682c1ee5d8,
+      type: 3}
+    terrainColliderIcon: {fileID: 2800000, guid: e9655075afd8a8843a27ab787c6a01e9,
+      type: 3}
+    wheelColliderIcon: {fileID: 2800000, guid: 94d55a3090e61dd4b9c296df7edce513, type: 3}
+    meshFilterIcon: {fileID: 2800000, guid: adb387a318aa4d747acd8271e5f66c48, type: 3}
+    meshRendererIcon: {fileID: 2800000, guid: 8f3d574ada90cef4b959a7680d594051, type: 3}
+    pointLightIcon: {fileID: 2800000, guid: d0ac45e1d50b30d44aa8371467620c4b, type: 3}
+    directionalLightIcon: {fileID: 2800000, guid: f50304cc76b1a6d46ae682fa3dbd0a78,
+      type: 3}
+    spotLightIcon: {fileID: 2800000, guid: 78ce968673906134384b3da6d468adb4, type: 3}
+    areaLightIcon: {fileID: 2800000, guid: 361616a401771dc408f6757716de9948, type: 3}
+    fontIcon: {fileID: 2800000, guid: 637ca85edceb36a42a7684cefa59b019, type: 3}
+    lightingDataAssetIcon: {fileID: 2800000, guid: 27f084d95cd0d9c4ca91eaa6aa3cecff,
+      type: 3}
+    lightProbesIcon: {fileID: 2800000, guid: 4209c7a174827544e883c5bd9723eecc, type: 3}
+    materialIcon: {fileID: 2800000, guid: 9d84948f022f5df4aa253b76c80bb0c3, type: 3}
+    meshIcon: {fileID: 2800000, guid: 4ab26c850a1555a41beba11efef83e09, type: 3}
+    renderTextureIcon: {fileID: 2800000, guid: b74d7ac1ad0e5be44896a54879411e4a, type: 3}
+    texture2DIcon: {fileID: 2800000, guid: d4636dc3bad31fb4583a906dae1b4e74, type: 3}
+    textureImporterIcon: {fileID: 2800000, guid: 132c02513f13d6740898d6218815176a,
+      type: 3}
+    scriptableObjectIcon: {fileID: 2800000, guid: 1857f3143be259a489549e6b9a80a912,
+      type: 3}
+    shaderIcon: {fileID: 2800000, guid: 4aaa7967df584e84d9b71bc6710e04ca, type: 3}
+    shaderVariantCollectionIcon: {fileID: 2800000, guid: bff2c7690d23ef34b9c818291446e27e,
+      type: 3}
+    computeShaderIcon: {fileID: 2800000, guid: 2176884f8f50cf543ac70eca3f7b23a3, type: 3}
+    editorSettingsIcon: {fileID: 2800000, guid: 1eb4a878232f45249a4a97eeabb9b032,
+      type: 3}
+    cubemapIcon: {fileID: 2800000, guid: 6b3ae1cbe8bfc5346b6255c39575f408, type: 3}
+    animationIcon: {fileID: 2800000, guid: d6c71f569d5775a4e9014db04d1d93ee, type: 3}
+    flareLayerIcon: {fileID: 2800000, guid: d177c9ec23cecb544988786298b8902d, type: 3}
+    guiLayerIcon: {fileID: 2800000, guid: 309a970359f26534aafee5481f733deb, type: 3}
+    lightProbeProxyVolumeIcon: {fileID: 2800000, guid: a0edeb92b0d232844bb5f2a0dcda7687,
+      type: 3}
+    lightProbeGroupIcon: {fileID: 2800000, guid: fee3c8c26af7fc841893f3b8b0613f88,
+      type: 3}

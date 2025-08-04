@@ -1,0 +1,62 @@
+Elle
+Konuş
+Yüzüğü tak
+Tuşu bul
+Basılı tut/Elinde tut
+Kalk
+Yüzüğü al
+Oyunu sil
+Tamamla
+Bas
+Dur
+
+Mesajları aç
+Uygulamayı indir
+Uygulamayı çalıştır
+Konuş
+
+Pili al
+
+Kontrol et
+Geri koy
+Makası uzat
+Yok
+Ye
+Kalk
+Kalkmaya çalış
+Hapı yut
+
+Kartlarını al
+Kartlarına bak
+Masaya bak
+Sağa
+Sola
+Kartı oyna
+Olur
+Dolabı aç
+
+Kasetler
+Aç
+
+İç
+İçme
+
+sağa git
+sola git
+zıpla
+eğil
+vur
+
+Sağa dön
+Sola dön
+Koy
+
+Kendini kurtar
+
+Uyan
+Otur
+Ayağa kalk
+Bilgisayar'ı aç
+Ramen'i al
+Bitir
+Uyu

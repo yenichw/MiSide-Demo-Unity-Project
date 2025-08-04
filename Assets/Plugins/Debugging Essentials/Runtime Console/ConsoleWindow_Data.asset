@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a83ad22fc50a564da4f50fb3e48260f, type: 3}
+  m_Name: ConsoleWindow_Data
+  m_EditorClassIdentifier: 
+  color: {r: 1, g: 1, b: 1, a: 0.522}
+  backgroundAlpha: 0.85
+  boxAlpha: 0.75
+  consoleWindow:
+    searchList: []
+    showSearchNonFound: 1
+    search: 0
+    position: {x: 0.13559322, y: 0}
+    rect:
+      serializedVersion: 2
+      x: 240
+      y: 0
+      width: 1290
+      height: 480
+    isDocked:
+      value: 1
+    isMinimized: 0
+  skin: {fileID: 11400000, guid: 1e861a80a80ef1e489f0023bdfbefd47, type: 2}
+  skinAutoComplete: {fileID: 11400000, guid: 2794f6783131b1e4e9744433ab8c979c, type: 2}
+  texDot: {fileID: 2800000, guid: d7da14528535b0341984ec00204eeb60, type: 3}
+  texArrow: {fileID: 2800000, guid: 143dbe5882887a1458b85e3f5298b323, type: 3}
+  texCornerScale: {fileID: 2800000, guid: c55ecfa220172874898c23715830a54a, type: 3}
+  texStackOn: {fileID: 2800000, guid: 6e0c6b46e35ec4048b8cd626c3bdc25c, type: 3}
+  texStackOff: {fileID: 2800000, guid: 1dc80b111f3e2464494b72eee97b4b30, type: 3}
+  logIcon:
+    texOn: {fileID: 2800000, guid: e14a96e551c385943b9eb71ced70a4b1, type: 3}
+    texOff: {fileID: 2800000, guid: fcd413d6f97d9c744ab2ac7536564c43, type: 3}
+  warningIcon:
+    texOn: {fileID: 2800000, guid: 1aa2fcca446d66743a3f86dfaaf07d7e, type: 3}
+    texOff: {fileID: 2800000, guid: 2e827f086ef35f040aa2918a910eba9b, type: 3}
+  errorIcon:
+    texOn: {fileID: 2800000, guid: 84d4ca34057464c4e86ba37005122e98, type: 3}
+    texOff: {fileID: 2800000, guid: b0c11fb4162c7b943b1f36dd3b0b1872, type: 3}
+  exceptionIcon:
+    texOn: {fileID: 2800000, guid: 5067c6341ce47e242b3e7e15751fa44d, type: 3}
+    texOff: {fileID: 2800000, guid: b0c11fb4162c7b943b1f36dd3b0b1872, type: 3}

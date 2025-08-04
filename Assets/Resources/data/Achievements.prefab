@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1387971417603429
+GameObject:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Component:
+  - component: {fileID: 4734373317324409}
+  - component: {fileID: 114395441236740944}
+  m_Layer: 0
+  m_Name: Achievements
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4734373317324409
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1387971417603429}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+--- !u!114 &114395441236740944
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1387971417603429}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c20474dc137a5847252abe2956cbabfb, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  dataAchievements:
+  - icon: {fileID: 21300000, guid: 3edebde73d3be994c9fc5e5de3febcf7, type: 2}
+    intNow: 0
+    intMax: 1
+    steamAchievement: ACHI_WinFIght
+    demo: 1
+  - icon: {fileID: 21300000, guid: 5d25db9b18787a1429fa27965f5b2043, type: 2}
+    intNow: 0
+    intMax: 1
+    steamAchievement: ACHI_ClickShadow
+    demo: 1
+  - icon: {fileID: 21300000, guid: f9ce3fdaafd917b42993b737c741c23b, type: 2}
+    intNow: 0
+    intMax: 1
+    steamAchievement: ACHI_DeathJuice
+    demo: 1
+  - icon: {fileID: 21300000, guid: 677593b56739c8b43956e05034bbe7eb, type: 2}
+    intNow: 0
+    intMax: 1
+    steamAchievement: ACHI_None1
+    demo: 0
+  - icon: {fileID: 21300000, guid: 677593b56739c8b43956e05034bbe7eb, type: 2}
+    intNow: 0
+    intMax: 1
+    steamAchievement: ACHI_None2
+    demo: 0

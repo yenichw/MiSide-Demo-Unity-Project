@@ -1,0 +1,78 @@
+nieuw spel
+voortzetten
+hoofdmenu
+verlaat
+instellingen
+prestaties
+ontwikkelaars en links
+terug
+laad
+taal
+laden
+graphics
+volume
+toetsenbord en muis
+gamepad
+schermresolutie
+venstermodus
+visuele effecten
+kleureffecten
+zachte schaduwen
+vervaging
+hoogtepunten
+anti-aliasing
+Schaduwen
+kwaliteit van de omgeving
+programmering
+animaties
+geluiden
+muziek
+deeltjes
+texturen
+3D-modellen (98%)
+Code
+reset
+beweeg voorwaards
+beweeg achterwaards
+beweeg naar links
+beweeg naar rechts
+interactie
+muisgevoeligheid
+het spel verlaten?
+ja
+nee
+verlaat naar de hoofdmenu
+soepele draaiingen
+spelinstellingen
+achtergrondverhaal
+kleding
+interface
+3D-modellen (2%)
+trailer
+pauzeer
+menu
+gefeliciteerd, het spel is voltooid!
+doorloop duurde:
+ondertiteling altijd tonen
+helderheid
+verticale synchronisatie
+opgeslagen
+// LOAD GAME
+Zit ik in het spel?
+We zijn tesamen
+Het begin van bizarheid
+Kelder
+Buiten de muren
+Kringloop versie
+Kleine Mita
+Paspoppen
+Oude versie
+Kern
+Dood en uitgang
+
+wiebelen van de camera
+hint op het scherm weergeven
+spelersstem
+Discord
+Boosty (Ontwikkelingsondersteuning)
+kijkhoek

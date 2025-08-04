@@ -1,0 +1,78 @@
+neues Spiel
+weitermachen
+Hauptmenü
+Verlassen
+Einstellungen
+Erfolge
+Ersteller und Links
+Zurück
+lade
+Sprache
+Wird geladen
+Grafik
+Lautstärke
+Tastatur und Maus
+Gamepad
+Bildschirmauflösung
+Fenstermodus
+visuelle Effekte
+Farbeffekte
+weiche Schatten
+verwisch
+Highlights
+Antialiasing
+Schatten
+Qualität der Welt
+Programmierung
+Animationen
+Geräusche
+Musik
+Partikel
+Texturen
+3D-Modelle (98%)
+Skript
+zurücksetzen
+vorwärts gehen
+zurückgehen
+nach links gehen
+nach rechts gehen
+Interaktion
+Maus-Empfindlichkeit
+das Spiel verlassen?
+Ja
+Nein
+Zurück zum Hauptmenü
+sanfte Kurven
+Spieleinstellungen
+Hintergrundgeschichte
+Kleidung
+das Interface
+3D-Modelle (2%)
+trailer
+pause
+menü
+Herzlichen Glückwunsch, das Spiel ist beendet!
+walkthrough dauerte:
+Untertitel immer anzeigen
+Helligkeit
+Vertikal-Sync
+Gespeichert
+// SPIEL LADEN
+Bin ich im Spiel?
+Wir sind zusammen
+Die Anfänge der Verrücktheit
+Keller
+Jenseits der Mauern
+Zyklusversion
+Kleine Mita
+Schaufensterpuppen
+Alte version
+Kern
+Tod und Ausgang
+
+Kamera wackelt
+einen Hinweis auf dem Bildschirm anzeigen
+Spielerstimme
+Discord
+Boosty (Entwicklungsunterstützung)
+Blickwinkel

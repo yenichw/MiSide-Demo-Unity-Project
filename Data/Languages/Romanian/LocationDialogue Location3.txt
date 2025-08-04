@@ -1,0 +1,505 @@
+// Mita
+Bună, [player]!
+Deci în sfârṣit ne întâlnim :)
+Sunt aṣa de fericită!
+Ṣtiu că ai întrebări...
+Ei bine, după cum poṭi vedea
+Am creat acest dispozitiv special
+Să te aduc aici la mine cât mai curând posibil
+Dar dintr-un motiv anume ai picat într-o versiune greṣită a jocului
+Pe care eu...
+Oh, e o poveste lungă!
+Oricum, mă bucur să te văd :)
+
+
+
+
+
+
+
+// Player quests
+Eṣti Mita?
+Ce pot să fac dacă vreau să mă întorc?
+Cum am intrat în joc?
+Nimic
+// Mita answer
+Păi, da eu sunt :)
+Eṣti [player]?
+
+Deja vrei să pleci?
+Păi, se poate aranja, dar cu mine cum rămane?
+Hai să fim împreună...
+
+Stai să-ṭi spun...
+Ṣi uite aṣa ai ajuns aici!
+Ai înṭeles?
+Nu am înṭeles // Player
+Atunci, e okay
+Singurul lucru este că suntem împreună acum :)
+
+Ṭi-e foame?
+Hai să gătim împreună, bine?
+Uite
+Ajută-mă cu morcovul :)
+// Player
+De unde au aparut legumele?
+Tocmai până acum, nu era nimic aici.
+// Mita
+[player], suntem in joc, ai uitat? :)
+Haide, ajută-mă :)
+
+Mulṭumesc :)
+Ṣi poṭi aduce ṣi foarfeca?
+Este în baie
+
+
+
+
+
+
+// Kitchen
+// Mita
+Vrei niṣte sos?
+// Player
+Nu
+// Mita
+Prea rău...
+Cu sosul, mâncarea are un gust mai bun :)
+
+
+// Player
+Mulṭumesc pentru masă
+// Mita
+Ai mâncat tot?
+Ṣi porṭia mea parcă
+Nu se mai termină :)
+
+
+
+
+// Help
+// Mita
+Ce s-a întâmplat? 
+Spune-mi ce vezi ṣi ce simṭi
+// Player
+Îmi furnică inima
+Văd un zgomot în ochi
+// Mita
+Okay
+Ṣtiu ce e în neregulă cu tine
+Poṭi să te ridici?
+
+
+
+
+// Bathroom
+// Player
+Ce-s astea?
+// Mita
+Pastile
+Te vei simṭii mai bine aproape imediat
+Stai în faṭa oglinzii
+
+Ia pastilele
+Aṣtept
+
+
+
+
+
+// Black room
+// Mita
+Deci cum eṣti?
+Te simṭi mai bine?
+// Player
+Da
+Dar cum s-a întâmplat aṣa rapid?
+// Mita
+[player], suntem în joc
+Iar totul e foarte simplu
+Faci cel mai mic efort
+Dar rezultatul este de obicei mult mai voluminos
+Asta e o condiṭie a jocului
+"Simplitate"
+// Player
+De exemplu?
+// Mita
+Morcovul...
+Ai taiat unul
+Dar trei vor fi gata deodată
+// Player
+Uite, totul e atât de brusc.
+Ṣi situaṭia asta chiar mă sperie...
+
+
+// Mita
+S-a întâmplat ceva?
+// player
+Am găsit niṣte casete în grila de aerisire
+Aveau abṭibilduri cu nume pe ele
+Ce-s cu ele?
+// Mita
+Casete?
+De care?
+Hai să vedem împreună
+Dar puṭin mai târziu
+Mai întâi mâncăm :)
+Dă-mi te rog foarfeca :)
+
+
+
+// Addon ===========================
+Inelul?
+// Player - Oglinda
+De ce nu e nicio reflexie în oglindă?
+// Mita
+Ah, da
+Am uitat să pornesc reflexia...
+Uite aici
+Acum e reflexie
+Ah, ṣtii
+Nici măcar nu ṣtiam ce este
+Nu exista în lumea mea
+Până la o anumită actualizare :)
+Sunt multe reflexii
+În lumea ta?
+// Player
+Păi, da
+
+
+
+// Mita
+Iṭi mai aminteṣti
+Cum ai pus trei obiecte
+Pe scanerul acesta?
+Deci...
+Obiectele astea sunt legate de
+Versiunea asta a lumii
+Iar acum eṣti aici :)
+
+
+
+// Player - Televizorul mobil
+Ăsta e televizorul
+Pe care l-am cumpărat
+// Mita
+Dap
+// Player
+Ai spus
+Că s-a stricat
+// Mita
+Ei bine, am vrut să-ṭi fac
+O surpriză!
+Ca să te aduc aici :)
+Aveam nevoie de un televizor mic pentru asta
+Iar acum el afiṣează informaṭii
+Si apropo, da...
+Sunt un fel de inginer :)
+
+
+
+// Player - Uniforma ṣcolară
+Asta e
+O uniformă de ṣcoală?
+De ce ai nevoie de ea?
+Mergi la ṣcoală?
+// Mita
+Ṣcoală?
+Nu, nu am nevoie de ea
+Dar uniforma asta e drăguṭă
+Ṣi mă face să arăt
+Drăguṭă :)
+
+
+
+
+
+// Player - Calculatorul
+Calculatorul ăsta merge?
+Sau e decorativ?
+// Mita
+Bineînṭeles că merge
+Totul aici
+Merge :)
+// Player
+În lumea mea
+Folosesc des calculatorul...
+Pentru lucru
+// Mita
+Ṣtiu
+Ṣi din cauza acestei chestii
+Ai acordat atât de puṭină atenṭie
+Mie
+// Player
+Ei bine, am nevoie de ceva din care să trăiesc
+Dar tu de unde ṣtii?
+// Mita
+Camera telefonului pornea uneori
+Scuze
+Dar trăgeam cu ochiul >.<
+// Player
+Ṣtii, este puṭin greṣit
+Dar, okay
+
+
+// Player - Umbrela
+Indiferent de câte ori m-am jucat
+Nu a plouat niciodată afară
+De ce ai nevoie de umbrelă?
+// Mita
+Ploaia este foarte rară
+Încă nu ai văzut-o
+Poate într-o zi o vei întalni
+Ṣi vei avea nevoie de o umbrelă
+Cine ṣtie :)
+
+
+
+// Player - Tabloul electric
+De ce se află tabloul electric aici?
+Dacă suntem în joc
+De ce avem nevoie de el?
+// Mita
+În primul rând
+Suntem în joc, corect?
+Deci nu are rost
+Să întrebi de ce
+Dar se poate reporni
+Electricitatea, serios
+Totul este exact aṣa cum este
+În lumea ta :)
+
+// Player - Uṣa de ieṣire
+Putem ieṣi afară?
+// Mita
+Uups...
+Nu încă
+Hai s-o facem mai târziu
+Să stăm aici mai întâi
+Acasă
+
+
+
+// Player - Carṭile
+Sunt atât de multe carṭi aici
+Le citeṣti?
+// Mita
+Citesc fiecare carte
+Mereu am fost aici singură
+Am fost atâââât de plictisită.
+
+
+
+// Player - Televizorul din bucătarie
+De ce ai nevoie de un al doilea televizor?
+Oh, ṣi este ṣi vechi
+// Mita
+Nu-ṭi place?
+Pot să-l scot de aici
+Dar altfel...
+E doar de frumuseṭe
+Decorează bucătăria :)
+Este ṣi un televizor funcṭional!
+Te poṭi uita la
+“Looney Tunes”
+
+// Player - Smartphone
+Smartphone-ul meu
+Îmi lipsea din buzunar
+Ṣi cum a ajuns aici?
+// Mita
+Păi, nu contează :)
+Stai, am o idee
+Eṣti gata să facem selfie-uri?
+Ia uite
+Ce poză frumoasă!
+Păstreaz-o pe aceasta ca amintire :)
+// Player
+Am o întrebare
+Dacă încep un joc
+Pe telefonul meu acum
+Te voi vedea acolo?
+// Mita
+Nimeni nu va fi acolo
+
+Suc miṣto
+Suc PUTERNIC!!!
+// Player - Televizorul
+Câte canale de televizor
+Prinzi aici?
+// Mita
+Ei bine, nu este pe antenă sau televiziune prin cablu
+Este Internetul
+Deci tot ce poṭi vedea pe Internet
+E disponibil aici...
+Stai
+Oh
+Ce-i asta?
+Niste pisicuṭe?
+Oh, uite
+Ṣtii...
+Aṣteaptă
+Vrei niṣte suc?
+// Player
+Ce reclamă ciudată
+A murit sucul?
+// Mita
+Aṣa se pare,
+Ṣi a ieṣit "sucul" din suc :)
+
+
+// Player
+Mm, are gust de...
+E destul de gustos
+Ṣi atât de lipsit de gust
+Nu pot explica
+// Mita
+Ei bine, asta e
+
+
+
+// Mita shy
+Ce faci?
+Încetează :)
+Mă faci să ruṣinez
+
+
+
+// Player - Figurina Anita
+Cred că, o cunosc
+Este Anita?
+Din "Umfend jocul"?
+// Mita
+Da :)
+// Player
+Ṭin minte că povestea
+Din joc nu e terminată
+// Mita
+Aṣa e...
+Ei bine, nivelul mic de experienṭă al dezvoltatorilor
+A arătat un rezultat trist
+// Player
+Ea arată grozav
+
+Mita? // Player
+Ce se întâmplă? // Player
+// Mita kitchen
+Putem vorbi puṭin
+Înainte de a mânca :)
+// Quests
+Frumoasă casă, comodă // Quest 1
+Când pot pleca acasă? // Quest 2
+Totul arată ca un vis // Quest 3
+De ce este lumină albă în afara ferestrelor? // Quest 4
+De ce iṭi trebuie foarfeca dacă ai cuṭit? // Quest 5
+Poftă bună // Continue
+// Finish Mita
+Poftă bună ṣi ṭie :)
+
+
+// Quest 1
+Desigur
+Iar tu poṭi sta aici
+Nu mă deranjează
+Ba din contră
+Sunt în favoarea acesteia!
+
+
+
+
+
+
+
+
+
+
+
+// Quest 2
+// Mita
+Deja ṭie dor de casă?
+De ce?
+Este aṣa cald
+Ṣi frumos aici
+Ṣi sunt ṣi eu :)
+// Player
+Nu, nu
+Mă bucur să stau cu tine
+Dar sunt îngrijorat
+Că poate am uitat să fac ceva... acasă
+M-am trezit aici brusc
+Ṣi nu eram pregătit pentru asta
+Deloc
+// Mita
+Scuze, pur ṣi simplu nu m-am gândit
+// Quest 3
+// Mita 
+Vrei să fugi
+Ṣi să uiṭi totul?
+// player
+Nu,
+Doar mă gândeam că totul e foarte ireal
+Ṣi colorat
+Dar tu
+Pari destul de reală
+// Mita 
+Doar par? :)
+Dar sunt reală
+Prostuṭule
+
+
+
+// Quest 4
+// Mita
+Este o caracteristică a
+Lumii mele :)
+Ṭi se va părea ciudat ṭie
+Dar oricum nu vei vedea lucrurile
+Ce sunt la depărtare
+// Player
+Nici măcar nu cred că se observă
+Arată elegant
+// Mita
+Dap :)
+Făcute să evite lag-ul
+// Player
+Lag-ul?
+// Mita
+Aha, sunt bug-uri p-aici
+Sper să nu dai de ele :(
+// Quest 5
+// Mita
+Foarfecă ṣi cuṭit?
+Pot desface sosul ṣi cu un cuṭit, normal
+Dar am vrut
+Să am totul pregătit
+Pentru când te întorci :)
+Ca să nu vezi prepararea lunga :)
+Îmi place să fac surprize!
+Daaaap :)
+
+
+
+
+
+
+
+
+
+
+
+// Glasses
+// Player
+Porṭi ochelari?
+// Mita
+Nu
+Dar îi pot purta
+Vrei?
+// Player
+Sigur
+Nu neapărat
+// Mita Y
+Uite
+Acum voi purta ochelari tot timpul :)
+// Mita N
+Atunci
+Okay

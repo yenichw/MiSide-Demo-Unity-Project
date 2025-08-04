@@ -1,0 +1,78 @@
+== Selection Keeper ==
+
+This is an EDITOR ONLY plugin.
+It helps you to keep things selected over multiple scene loads.
+
+Usually if you press play in the Editor it will keep your
+selection active only on first load. It gets lost once you have
+unloaded the scene in play mode, which is annoying.
+
+This plugin restores your selection whenever the last edited
+scene(s) are loaded during Play mode.
+
+If you are not sure what it does then please watch this video:
+https://youtu.be/CT_JZKIPU9A
+
+FULL SOURCE CODE included.
+
+Compatible with:
+Unity 5.4+
+Unity 2017
+Unity 2018
+Unity 2019
+Unity 2020
+Last in depth test done with 5.4.0 and 2019.3.0f6.
+
+Versioning will use the semantic versioning paradigm.
+https://semver.org
+
+= Support =
+
+If you find any errors then please write to office@kamgam.com.
+
+Please be patient, replies may take a few days. Please include
+your Asset Store Order Nr in your request.
+
+Thank you.
+
+
+= Known Issues =
+
+* Objects which are marked as "Do not destroy on load" will not be re-selected in PLAY mode. This is a unity limitation (looking for a workaround).
+  
+
+= Settings =
+
+You can find or recreate the settings file (named "SelectionKeeper Settings")
+through the main menu (Tools > Selection Keeper > Settings). You can move it out
+of the plugins folder too. It's a simple Scriptable Object asset. If you want
+you can add it to your gitignore file.
+
+* Enable Plugin
+Enables or disables the whole plugin. Turn this off if you suspect
+the plugin to cause any weird behaviour (none known at the moment).
+
+* Clear Selection Memory If Empty
+Should the selection memory be cleared if everything is deselected (edit mode only)? If disabled then you may have to clear the selection memory by hand (see 'Tools' menu)."
+
+* Ignore selections in play mode
+Ignore selection changes during play mode? Turn on if you want the last selection from Edit mode to be restored once you exit the Play mode.
+
+
+= License =
+Copyright (C) 2020 KAMGAM e.U. - All rights reserved
+The code can only be used under the standard Unity Asset Store
+End User License Agreement. A Copy of the EULA APPENDIX 1 is
+available at http://unity3d.com/company/legal/as_terms
+
+I publish this plugin with full source code because I know how annoying
+it is to not have source code access. If you like it then please remind
+others to purchase the plugin. Don't just copy and paste it everywhere.
+Thank you
+
+= Changelog =
+v1.2.0 Fixed an error when removing the ping effect wich caused the hierarchy to not unflod in Play mode ("remove ping" option added to the settings).
+
+v1.1.0 Fixed an error when loading new scenes in Awake() of the first scene in the build settings.
+
+v1.0.0 Initial public release

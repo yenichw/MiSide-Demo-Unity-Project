@@ -1,0 +1,15 @@
+// based on the original game.Yen Chezky(yenichw)
+using UnityEngine;
+using NUnit.Framework;
+
+namespace Tests
+{
+    public class UISystemProfilerAddMarkerWithNullObjectDoesNotCrash
+    {
+        [Test]
+        public void AddMarkerShouldNotCrashWithNullObject()
+        {
+            UISystemProfilerApi.AddMarker("Test", null);
+        }
+    }
+}

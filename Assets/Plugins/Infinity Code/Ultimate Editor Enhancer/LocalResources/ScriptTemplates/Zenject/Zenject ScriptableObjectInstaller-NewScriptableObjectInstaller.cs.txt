@@ -1,0 +1,11 @@
+using Zenject;
+
+    #ROOTNAMESPACEBEGIN#
+public class #SCRIPTNAME# : ScriptableObjectInstaller
+{
+    public override void InstallBindings()
+    {
+        
+    }
+}
+#ROOTNAMESPACEEND# 

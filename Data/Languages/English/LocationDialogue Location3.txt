@@ -1,0 +1,505 @@
+// Mita
+Hi, [player]!
+So we finally meet)
+I am happy about it!
+I know you must have questions...
+Well, as you can see
+I made this special device
+To get you here to me as soon as possible
+But for some reason you ended up in a wrong version of the game 
+That I...
+Oh, it's a long story!
+Anyway, nice to see you!)
+
+
+
+
+
+
+
+// Player quests
+Are you Mita?
+What do I do if I want to go back?
+How did I get in the game?
+Nothing
+// Mita answer
+Well, I am)
+Are you [player]?
+
+Do you want to go back already?
+Well, I guess that can be arranged, but what about me?
+Let's be together...
+
+Let me tell you...
+And here you are!
+Got it?
+I don't get it // Player
+Well, that's okay
+The main thing is that we are together now)
+
+Are you hungry?
+Let's cook together, shall we?
+Here
+Help me with the carrot)
+// Player
+Where did the vegetables come from?
+After all, just now there was nothing here.
+// Mita
+[player], we're in the game, remember?)
+Come on, help me out)
+
+Thank you)
+And can you bring scissors?
+It's in the bathroom
+
+
+
+
+
+
+// Kitchen
+// Mita
+Would you like some sauce?
+// Player
+No
+// Mita
+Too bad...
+With sauce, the food tastes better)
+
+
+// Player
+Thank you
+// Mita
+Have you eaten everything?
+And my portion seems 
+Endless)
+
+
+
+
+// Help
+// Mita
+What happened? 
+Tell me what you see and feel
+// Player
+My heart tingles
+There's a noise in my eyes
+// Mita
+Okay
+I know what's wrong with you
+Can you get up?
+
+
+
+
+// Bathroom
+// Player
+What is it?
+// Mita
+Pills
+You'll feel better almost immediately
+Stand in front of the mirror
+
+Take the pills
+I'm waiting
+
+
+
+
+
+// Black room
+// Mita
+So how are you doing?
+Do you feel better?
+// Player
+Yes
+But how could it happen so quickly?
+// Mita
+[player], we're in the game
+And everything is very simple
+You make the slightest effort
+But the result is usually much more voluminous
+This is a game condition
+"Simplicity"
+// Player
+For example?
+// Mita
+Carrot...
+You cut one
+but three will be ready at once
+// Player
+Look, it's all so sudden. 
+And this situation really scares me...
+
+
+// Mita
+Is something wrong?
+// player
+I found some cartridges in the vent
+They had name stickers on them
+What is it?
+// Mita
+Cartridges?
+What kind?
+Let's find out together
+But a little later
+We'll eat first)
+Hand me scissors)
+
+
+
+// Addon ===========================
+The ring?
+// Player - mirror
+Why is there no reflection in the mirror?
+// Mita
+Oh, right
+I forgot to turn on the reflection...
+Here we go
+Now there's a reflection)
+Oh, you know
+I didn't even know what it was
+It wasn't in my world
+Until a certain update)
+Are there so many reflections 
+In your world?
+// Player
+Well, yeah
+
+
+
+// Mita
+Remember
+You brought three things
+To this scanner?
+So...
+These things are related to
+this version of the world
+And now you're here)
+
+
+
+// Player - Mobile TV
+That's the TV 
+I bought
+// Mita
+Yep
+// Player
+You said
+It was broken
+// Mita
+Well, I wanted to 
+Surprise you!
+To get you here)
+I needed small TV for that
+And now it shows the information
+And by the way, yes...
+I'm a bit of an engineer)
+
+
+
+// Player - School uniform
+Is that
+A school uniform?
+Why do you need it?
+Do you go to school?
+// Mita
+School?
+No, I don't need it
+But this school uniform is cute
+And it will make me
+Look cute)
+
+
+
+
+
+// Player - Computer
+Does this computer work?
+Or is it decorative?
+// Mita
+Of course it works
+Everything in here 
+Works)
+// Player
+In my world 
+I often using my computer...
+Working
+// Mita
+I know
+And because of this work
+You paid so little attention
+To me
+// Player
+Well, I need something to live on
+And how do you know?
+// Mita
+The phone camera would sometimes turn on
+I'm sorry
+But I was peeking ><
+// Player
+You know, it's a little wrong
+Well, okay
+
+
+// Player - umbrella
+No matter how many times I played
+It never rained outside the window
+Why do you need an umbrella?
+// Mita
+Rain is very rare
+You haven't seen it yet
+Maybe one day you'll meet this
+And you could use an umbrella
+Who knows)
+
+
+
+// Player - Electric panel
+Why is the electric box here? 
+If we're in the game
+Why do we need it?
+// Mita
+First of all
+We're in the game, right?
+So it's pointless
+To ask why
+But it does restart 
+The electricity, really
+Everything is just like in
+Your world)
+
+// Player - Exit door
+Can we go out?
+// Mita
+Oops...
+Not yet
+Let's do it later
+Let's stay here first
+At home
+
+
+
+// Player - Books
+There are so many books
+Do you read them?
+// Mita
+I read every book
+I've always been here alone
+I've been soooo bored.
+
+
+
+// Player - TV in the kitchen
+Why do you need a second TV?
+Oh, and it's also old
+// Mita
+Don't you like it?
+I can get it out of here
+But otherwise...
+It just for beauty
+Decorates the kitchen)
+It's also a working TV!
+You can watch
+“Looney Tunes”
+
+// Player - Smartphone
+My smartphone
+It was missing from my pocket
+And how did it end up here?
+// Mita
+Well, it doesn't matter)
+Wait, I have an idea
+Ready to take selfies?
+Look at that
+Great picture!
+Keep this one as a memento)
+// Player
+I have a question
+If I start a game
+On my phone now
+Will I see you there?
+// Mita
+No one will be there
+
+Cool Juice
+Strong JUICE!!!
+// Player - TV
+How many TV channels
+Are there here?
+// Mita
+Well, it's not an antenna or cable television
+It's the Internet
+So anything you can watch on the Internet 
+Is available here...
+Wait
+Oh
+What is that?
+Some kittens?
+Oh, look
+You know...
+Wait
+Would you like some juice?
+// Player
+Weird commercial
+Is Juice dead?
+// Mita
+That's right, 
+And the "juice" came out of the Juice)
+
+
+// Player
+Mm, it tastes...
+It's kind of tasty 
+And kind of tasteless
+I can't explain
+// Mita
+Well, okey-dokey
+
+
+
+// Mita shy
+What are you doing?
+Stop it)
+You're embarrassing me
+
+
+
+// Player - Anita model
+I think, i know her
+Is it Anita?
+From "Umfend the game"?
+// Mita
+Yes)
+// Player
+I remember that the story 
+In the game is not finished
+// Mita
+Right...
+Well, the low level of experience of the developers
+Showed a sad result
+// Player
+She looks great
+
+Mita? // Player
+What's happening? // Player
+// Mita kitchen
+We can talk
+Before we eat)
+// Quests
+Nice home, cozy // Quest 1
+When can I go home? // Quest 2
+Everything looks like a dream // Quest 3
+Why is there white light outside the windows? // Quest 4
+Why do you need scissors when you have a knife? // Quest 5
+Bon appetit // Continue
+// Finish Mita
+And you enjoy your meal)
+
+
+// Quest 1
+Of course
+And you can stay here
+I don't mind
+And I'm very much in
+Favor of it!
+
+
+
+
+
+
+
+
+
+
+
+// Quest 2
+// Mita
+Are you homesick?
+Why?
+It's so warm
+And nice here
+And there's me)
+// Player
+No, no
+I'm happy to stay with you
+But I'm worried 
+That I might have forgotten to do something at... home
+I was suddenly here
+And I wasn't ready for this 
+At all
+// Mita
+Sorry, I just didn't think
+// Quest 3
+// Mita 
+Do you intend to run away 
+And forget everything?
+// player
+No, 
+I just thought everything was very unreal 
+And colorful
+But you 
+Seem pretty real
+// Mita 
+Just seem?)
+But I am real
+Dummy
+
+
+
+// Quest 4
+// Mita
+It’s a feature of 
+My world)
+It will seem strange to you
+But you won't see things
+That will be distant
+// Player
+I don't even think it's noticeable
+Looks stylish
+// Mita
+Yup)
+Made to avoid lagging
+// Player
+Lagging?
+// Mita
+Uh-huh, there are bugs
+I hope you don't encounter that(
+// Quest 5
+// Mita
+Scissors and a knife?
+I can also open the sauce with a knife, of course
+But I wanted 
+To have everything ready 
+For your return)
+So you can't see the long preparations)
+I love making surprises!
+Yeeeep)
+
+
+
+
+
+
+
+
+
+
+
+// Glasses
+// Player
+Do you use glasses?
+// Mita
+No
+But I can wear them
+You want?
+// Player
+Go ahead
+You don't have to
+// Mita Y
+There we go)
+Now I'm going to wear glasses all the time)
+// Mita N
+Well
+Okay

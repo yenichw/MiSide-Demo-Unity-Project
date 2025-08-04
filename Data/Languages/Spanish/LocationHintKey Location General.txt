@@ -1,0 +1,62 @@
+Tocando
+Hablar
+Ponte el anillo
+Encuentra el botón
+Mantener
+Ponerse de pie
+Toma el anillo
+Eliminar el juego
+Completo
+Presionar
+Detener
+
+Abrir mensaje
+Descargar aplicación
+Ejecutar la aplicación
+Hablar
+
+Toma la batería
+
+Comprobar
+Poner
+Dar las tijeras
+Rechazar
+Comer
+Ponerse de pie
+Intenta ponerte de pie
+Toma las pastillas
+
+Recoger cartas
+Mostrar cartas
+Ocultar las cartas
+Derecha
+Izquierda
+Usar la carta
+Permanecer
+Denegar
+
+Cartuchos
+Abrir
+
+Tomar jugo
+No probarlo
+
+Ve a la derecha
+Ve a la izquierda
+Saltar
+Agacharse
+Golpear
+
+Gira a la derecha
+Girar a la izquierda
+Poner
+
+Gratis
+
+Despertar
+Sentarse
+Ponerse de pie
+Encender el ordenador
+Tomar ramen
+Finalizar
+Dormir

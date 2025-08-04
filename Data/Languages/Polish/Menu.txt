@@ -1,0 +1,78 @@
+nowa gra
+kontynuuj 
+menu główne
+wyjdź
+ustawienia
+osiągnięcia
+twórcy i załączniki
+wstecz
+wczytaj
+język
+ładowanie
+grafika
+głośność
+klawiatura i mysz
+kontroler
+rozdzielczość ekranu
+tryb okna
+efekty wizualne
+kolory efektów
+miękkie cienie
+rozmycie
+highlights
+antialiasing
+cienie
+jakość otoczenia
+programowanie
+animacje
+dźwięki
+muzyka
+cząsteczki
+tekstury
+modele 3D (98%)
+skrypt
+reset
+idź prosto
+idź w tył
+idź w lewo
+idź w prawo
+interakcje
+czułość myszy
+wyjść z gry?
+tak
+nie
+wyjść do menu głównego
+gładkie ruchy
+ustawienia gry
+historia
+ubrania
+interfejs
+modele 3D (2%)
+trailer
+pauza
+menu
+Gratulacje, ukończyłeś grę!
+Przejście zajęło:
+zawsze pokazuj napisy
+jasność
+synchronizacja pionowa
+zapisano
+// WCZYTAJ GRE
+Czy jestem w grze?
+Jesteśmy razem
+Początek dziwności
+Piwnica
+Poza ścianami
+Wersja cykliczna
+Mała Mita
+Manekiny
+Stara wersja
+Źródło
+Śmierć i wyjście
+
+wibracje kamery
+pokazuj wskazówki na ekranie
+Głos gracza
+Discord
+Boosty (Wsparcie deweloperskie)
+odległość widzenia

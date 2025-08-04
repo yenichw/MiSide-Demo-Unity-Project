@@ -1,0 +1,343 @@
+Mita? // Player
+Oh, du bist schon wach? // Mita
+Wie bist du so schnell hierher gekommen? // Player
+Du warst für mich da. // Player
+// Mita
+Ne
+Du warst erstarrt vor dem Spiegel
+Ich ging weg
+Was ist mit den Zimmern? // Player
+// Mita
+Ich habe die neu angeordnet
+Um es Ihnen vertrauter zu machen
+Das ist,
+Die Zimmer liegen nicht in einer Reihe
+Aber so wie sie sein sollten
+// Player
+Das hättest du nicht tun sollen
+Es ist, als wäre ich daran gewöhnt
+Ich denke, dass du dich dadurch wohler fühlen werden) // Mita
+// Mita card game
+So
+Sollen wir das Spiel beginnen?
+Ich erzähle es Dir kurz
+Der Chip zeigt die Art des Schadens an
+Zum Beispiel das Herz
+Die Karten ablegen
+Wenn du mehr Herzen hast
+Auf Ihrer Karte
+Als ich es tue
+dann gewinnst du)
+Nimm die Karten
+Jetzt bin ich dran
+Oha
+Ich habe ein paar Geile Karten bekommen
+Ich gehe zuerst
+
+
+
+
+
+
+
+
+
+Jetzt du
+Du bist dran
+Ja
+Du bist dran
+
+Der Zug des Schadens Herz
+Der Zug des Schadens
+Der Zug der Verteidigung
+
+
+Du hast es!
+Du hast gwonnen!
+Du gewinnst.
+Wie...
+
+Mein Sieg
+Ich bin siegreich!
+Der Sieg ist mein!
+Lecker, ich habe es gegessen)
+
+Binden
+Weder hier noch dort
+Nicht vorwärts oder rückwärts!
+Es sieht alles gleich aus, Alter
+
+
+
+
+
+
+
+
+
+
+
+// Player -  Game is interrupted
+Was ist das für ein Geräusch da drüben?
+Es kommt aus dem Schrank.
+// Mita
+Ein Geräusch?
+Was von Geräuch?
+Ich habe keine Geräusche gehört.
+Sag mir, wie hört es sich an?
+// Player
+Klopfen, als ob jemand da wäre
+// Mita
+Aber da ist
+Niemand da
+// Player
+Ich möchte das überprüfen
+Es ist sehr seltsam
+// Mita
+Warum...
+Nochmal...
+
+
+
+
+
+
+// Mita
+What are you doing!?
+da gibt's...
+Meine Unterwäsche drin.
+// Player
+Versteckst du da etwas?
+// Mita
+Warum vertraust du mir nicht?
+Was mache ich falsch?
+Ich will nur das du
+Mit mir bist
+// Player
+Das würde ich gerne versprechen, aber wie geht es weiter?
+// Mita
+Warum fühlst du dich so vom Schrank angezogen?
+// Player
+Ich möchte nur wissen, was das für Geräusche sind!
+// Mita
+Nur....
+Diese Welt...
+Es sind nur diese vier Räume
+ist das dir nicht genug?
+Wirst du einfach versuchen, bei mir zu bleiben?
+
+
+// Mita (No)
+Verstanden.
+Nochmal....
+Wenn du wissen willst, was da drinne ist,
+Dann wirst du es herausfinden
+Jetzt)
+
+// room is loading
+Wird geladen....
+// Player
+Was ist los...?
+// Mita
+Es passiert
+Der Raum hatte keine Zeit zum Laden
+Warte mal)
+// Player
+Es ist komisch
+Sind wir im Telefon von jemandem?
+Und dieses Telefon lädt so langsam?
+// Mita
+Ne
+Es ist nur so, dass nicht alles perfekt ist
+Hergestellt in dieser Welt...
+Und wir „leben“ deswegen
+Kern dieser Welt
+// Player
+Kern?
+// Mita
+Typisch, oder?
+
+
+// Mita
+Wir können
+Spielen mit der Konsole
+Oder Karten
+Es ist dein Wahl)
+
+
+
+// Mita play fight
+Sollen wir kämpfen?
+Du musst
+Vier Mal gewinnen
+Lass mich zuerst gehen
+Ich glaube das
+Ich werde sanft mit dir umgehen)
+
++ 1
+Gut gemacht)
+Jetzt bist du bereit!
++ 2
+Oha!
+Okay,
+Jetzt werde ich ernst.
++ 3
+Ah, du!
+Kannst du mich schlagen
+Jetzt?
++ 4
+Du
+Bist
+Unglaublich) Deine Finger sind einfach etwas!
+
+- 1
+Was ist los mit dir?
+Das ist nicht interessant
+- 2
+Also
+Die Arbeit ist erledigt) Gewonnen)
+- 3
+Also,
+Konzentrieren dich auf das Spiel, sonst bleibst du für immer ein Verlierer!
+- 4
+Ach, Wirklich?
+Ich habe die ganze weiße Flüssigkeit aus dir herausgeprügelt(
+Man musste sich einfach mehr anstrengen)
+Deshalb klappt es immer bei mir!
+
+
+In Ordnung
+Lasst uns Karten spielen, ja?
+In meinem Schlafzimmer)
+
+
+
+// Player [ERROR]
+Was ist das?
+Bei dem die...
+// Mita
+Oops
+Sorry
+Ich habe eine Datei heruntergeladen
+Aus dem Internet
+Ich wollte, dass es schön ist
+Draußen
+Aber es stellte sich heraus
+Dass das Dateiformat falsch war ...
+Ich werde es später reparieren)
+// Player
+Können wir deshalb das Haus nicht verlassen?
+Deshalb, ja) // Mita
+// Mita shy
+Hey..
+Was geht?
+Brauchst du etwas?)
+
+
+
+// Player -  wall clock
+Diese Uhr,
+Zeigt es der
+Zeit im Spiel?
+Oder wird es von meinem Smartphone synchronisiert?
+// Mita
+Sowohl ja als auch nein
+In der Tat
+Egal wie spät es ist
+Es macht nichts, wenn es jetzt schon spät ist
+Bei mir zu Hause...
+Starke Mädchen wie mich wissen
+Keine Müdigkeit!
+Wenn ich es will, wird es ewiger Frühling sein!
+Und ewiger Mittag!
+// Player
+Neugierig...
+Und gruselig zugleich.
+Ich stecke für immer in einem Moment fest ...
+
+
+
+// Player - Mita's picture
+Coole Bilder
+Ich vermute, das bist du
+// Mita
+Ja
+ich mag die auch
+// Player
+Wer hat Ihr Foto gemacht?
+Gibt es sonst noch jemanden auf dieser Welt?
+// Mita
+Das könntest du sagen ja)
+Und ich werde sie Ihnen vorstellen
+Aber es ist noch nicht an der Zeit, etwas zu teilen
+Was für eine angenehme Gesellschaft)
+
+
+
+
+// Player - Portal
+Was ist mit dem Portal passiert?
+Oder wie nennt man es?
+// Mita
+Bei mir
+Magisches Fingerschnippen
+Ich habe es verschoben
+An einen anderen Ort
+Wir brauchen dieses Portal jetzt nicht,
+Es wird uns stören)
+
+
+// Player - bedroom mirror
+Es ist so seltsam, in einen Spiegel zu schauen
+Das spiegelt nicht wider
+// Mita
+Reflexionen können eingeschaltet werden
+Wenn Sie wollen
+Aber ist es notwendig?
+// Player
+Also ja
+Oder gibt es Konsequenzen?
+// Mita
+Ja
+Wir werden langsam bewegen
+Es ist wie ein Zeichentrickfilm mit einer niedrigen Bildrate
+Das würdest du auch merken
+// Player
+Achso, okay
+Dann ist das nicht nötig
+// Mita
+[player], Ich kann die einbeziehen
+Aber es sieht toll aus
+Auch ohne sie
+// Player
+Du hast Recht
+Und es sieht gut aus
+Ohne die Reflexionen
+
+
+
+// Player - Blue sneakers
+Sind das deine?
+// Mita
+Nein, das sind deine
+Erinnerst du dich nicht?
+// Player
+Ich habe diese Turnschuhe nicht
+// Mita
+Aber jetzt hast du)
+Wenn wir spazieren gehen,
+Du wirst die tragen)
+// Player
+Was ist mit Kleidung?
+Ich fand mich in dieser Welt wieder
+Mit nur dem, was ich jetzt trage
+Wie bekomme ich noch eins?
+// Mita
+Es ist okay
+Ich habe gesehen, was du trägst
+Ich habe gesehen, was für einen traurigen Geschmack du in Sachen Kleidung hast
+Aber gut, ich werde es für dich besorgen
+Aber später
+Ich verspreche es dir)
+// Player
+Hmm, gut

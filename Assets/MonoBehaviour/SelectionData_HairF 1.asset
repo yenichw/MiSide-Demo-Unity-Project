@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec35a68a8e33d1e75ec10f8f53df17cc, type: 3}
+  m_Name: SelectionData_HairF 1
+  m_EditorClassIdentifier:
+  dataHash: -1461356297
+  dataVersion: 2
+  selectionList:
+  - selectData:
+    - 2
+    - 1
+    - 1
+    vertexHashList:
+    - 0
+    - 0
+    - 0
