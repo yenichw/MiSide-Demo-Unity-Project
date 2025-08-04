@@ -43,9 +43,11 @@ Here are some official visuals you can use for repository styling:
    unpack Packages.rar!!!!!!!!!!!!!!!!!!!!
    
 3. **adding a project to unity**
+4. 
    add the project to unity via unity hub, unity hub will prompt you to install the appropriate version of the engine, only install it.
    
 3.**Finish**
+
    wait for the compilation and enjoy
 
 ---
